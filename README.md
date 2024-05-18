@@ -22,7 +22,7 @@ En el Jupyter Notebook de **Python** (Graph representations of flags similarity.
 
 **[Wordle Solver](https://github.com/arnaugr55/Wordle-solver)**
 
-Worlde tiene un total de 2316 soluciones. En este Jupyter Notebook de **Python** te va diciendo, en cada paso, la mejor palabra a entrar hatsa que encuentra la plabara que será la palabra del día. 
+Worlde tiene un total de 2316 soluciones. En este Jupyter Notebook de **Python**, te va diciendo, en cada paso, la mejor palabra a entrar hasta que encuentra la palabra que será la palabra del día. 
 
 Tras entrar la palabra, se tiene que especifar el resultado, para que el algoritmo pueda encontrar la mejor siguiente palabra.
 
