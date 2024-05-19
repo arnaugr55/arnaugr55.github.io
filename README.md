@@ -1,7 +1,5 @@
 #  Arnau Garriga Riba <br />- Data Science Portfolio
 
-<img src="images/ArnauGarrigaRiba_photo.jpg" width="100" />
-
 En este Portfolio hago una compilación de todos los proyectos hechos. Algunos en la univesrsidad y otros ya en mis tiempos libres por auto-aprendizaje.
 
 - **Email**: [agarrigariba@gmail.com](agarrigariba@gmail.com)
