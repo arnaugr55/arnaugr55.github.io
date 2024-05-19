@@ -6,6 +6,8 @@ En este Portfolio hago una compilación de todos los proyectos hechos. Algunos e
 - **LinkedIn**: [linkedin.com/arnau-garriga-riba-9304a5216](https://www.linkedin.com/in/arnau-garriga-riba-9304a5216/)
 
 
+<img src="images/ArnauGarrigaRiba_photo.jpg" width="300" />
+
 ## Mis mejores Proyectos
 
 
