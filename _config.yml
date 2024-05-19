@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "contrast"
-yheme                    : jekyll-theme-Chirpy
+theme                    : jekyll-theme-Chirpy
 
 # Site Settings
 locale                   : "Catalunya"
