@@ -18,7 +18,6 @@ En el Jupyter Notebook de **Python** (Graph representations of flags similarity.
 - El usuario puede entrar una bandera, y con los resultados del KNN, muestra las otras 10 banderas similares a ella. Por orden.
 - Se hacen una serie de grafos en los que he jugado con los resultados.
 
-#
 
 **[Wordle Solver](https://github.com/arnaugr55/Wordle-solver)**
 
@@ -26,7 +25,6 @@ Worlde tiene un total de 2316 soluciones. En este Jupyter Notebook de **Python**
 
 Tras entrar la palabra, se tiene que especifar el resultado, para que el algoritmo pueda encontrar la mejor siguiente palabra.
 
-#
 
 **[Puzzle_solver-CAT](https://github.com/arnaugr55/Puzzle_solver-CAT-)**
 
