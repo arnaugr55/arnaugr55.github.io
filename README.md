@@ -1,5 +1,4 @@
-# Arnau Garriga Riba <img src="images/ArnauGarrigaRiba_photo.jpg" width="100" />
- <img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeBl168hF-JjxoRBQQx1cI5MHguyf243i14M9rBO0ww&s)" width="100" height="50"><br />- Data Science Portfolio
+# Arnau Garriga Riba <img src="images/ArnauGarrigaRiba_photo.jpg" width="40" /><br />- Data Science Portfolio
 
 En este Portfolio hago una compilación de todos los proyectos hechos. Algunos en la univesrsidad y otros ya en mis tiempos libres por auto-aprendizaje.
 
