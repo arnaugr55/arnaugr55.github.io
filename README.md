@@ -1,4 +1,4 @@
-# Arnau Garriga Riba ![ArnauGarrigaRiba_photo](https://github.com/arnaugr55/arnaugr55.github.io/assets/81646152/d9536ef2-1396-4149-9a76-a60f28de716f | width=100)<br />Data Science Portfolio
+# Arnau Garriga Riba <img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeBl168hF-JjxoRBQQx1cI5MHguyf243i14M9rBO0ww&s)" width="400" height="790"><br />Data Science Portfolio
 
 En este Portfolio hago una compilación de todos los proyectos hechos. Algunos en la univesrsidad y otros ya en mis tiempos libres por auto-aprendizaje.
 
