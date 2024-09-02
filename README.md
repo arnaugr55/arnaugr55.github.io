@@ -49,5 +49,3 @@ Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 Con la información recogida, he creado un dashboard de 2 pestañas.
 - En la primera hay la información general, un mapa con los recorridos de todas las actividades (o los seleccionados) e infromación de kms recorridos por Localidad (poblaciones, comarcas y provincias catalanas).
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.
-
-https://arnaugr55.github.io/Spotify-musica-catalana/blob/main/Generats/mapa_aristes_20240707.html
