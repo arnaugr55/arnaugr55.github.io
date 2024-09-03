@@ -51,8 +51,9 @@ Con la información recogida, he creado un dashboard de 2 pestañas.
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.
 
 
-**[Spotify Spain Data](https://github.com/arnaugr55/Strava_project)**
-Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un mapa generado
+**[Spotify Catalunya Data]**
+
+Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un mapa generado.
 <iframe src="https://arnaugr55.github.io/images/mapa_aristes_20240827.html" 
-        width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen>
+        width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen>
 </iframe>
