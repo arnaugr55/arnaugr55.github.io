@@ -54,6 +54,6 @@ Con la información recogida, he creado un dashboard de 2 pestañas.
 **[Spotify Catalunya Data]**
 
 Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un mapa generado.
-<iframe src="https://arnaugr55.github.io/images/mapa_aristes_20240827.html" 
+<iframe src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" 
         width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen>
 </iframe>
