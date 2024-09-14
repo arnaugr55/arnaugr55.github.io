@@ -57,3 +57,36 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
 <iframe src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" 
         width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen>
 </iframe>
+
+
+
+<div id="map-container" style="text-align: center;">
+    <!-- Button to toggle fullscreen -->
+    <button onclick="toggleFullscreen()" style="margin: 10px; padding: 10px;">View Map in Fullscreen</button>
+    
+    <!-- Embed your Folium map using an iframe -->
+    <iframe id="map-iframe" src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" style="width: 100%; height: 500px; border: none;"></iframe>
+</div>
+
+<script>
+    // JavaScript to toggle fullscreen
+    function toggleFullscreen() {
+        var mapContainer = document.getElementById('map-container');
+        if (mapContainer) {
+            mapContainer.classList.toggle('fullscreen');
+        }
+    }
+</script>
+
+<style>
+    /* Fullscreen styling */
+    #map-container.fullscreen #map-iframe {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background-color: white;
+    }
+</style>
