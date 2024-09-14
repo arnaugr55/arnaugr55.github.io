@@ -45,19 +45,15 @@ En este proyecto he descargado mi archivo strava que contiene información de mi
 4. poblacions.py: A partir del poblacions.csv, crea 2 nuevos datasets (poblacions2.csv y poblacions3.csv) con su información.
 Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 
-***Dahshboard***
+***Dashboard***<br>
 Con la información recogida, he creado un dashboard de 2 pestañas.
 - En la primera hay la información general, un mapa con los recorridos de todas las actividades (o los seleccionados) e infromación de kms recorridos por Localidad (poblaciones, comarcas y provincias catalanas).
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.
 
 
-**[Spotify Catalunya Data]**
+**Spotify Catalunya Data**
 
 Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un mapa generado.
-<iframe src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" 
-        width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen>
-</iframe>
-
 <div id="map-container" style="position: relative; text-align: center;">
     <!-- Fullscreen Icon (Enter Fullscreen) -->
     <img id="fullscreen-icon" src="https://img.icons8.com/ios-filled/50/000000/full-screen.png" 
@@ -72,7 +68,7 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
          style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px; display: none;">
 
     <!-- Embed your Folium map using an iframe -->
-    <iframe id="map-iframe" src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" style="width: 100%; height: 500px; border: none;"></iframe>
+    <iframe id="map-iframe" src="https://arnaugr55.github.io/resources/mapa_artistes.html" style="width: 100%; height: 500px; border: none;"></iframe>
 </div>
 
 <script>
