@@ -58,13 +58,18 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
         width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen>
 </iframe>
 
-
 <div id="map-container" style="position: relative; text-align: center;">
-    <!-- Fullscreen Icon -->
-    <img src="https://img.icons8.com/ios-filled/50/000000/full-screen.png" 
-         alt="Fullscreen" 
+    <!-- Fullscreen Icon (Enter Fullscreen) -->
+    <img id="fullscreen-icon" src="https://img.icons8.com/ios-filled/50/000000/full-screen.png" 
+         alt="Enter Fullscreen" 
          onclick="toggleFullscreen()" 
          style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px;">
+
+    <!-- Exit Fullscreen Icon (Visible only in fullscreen) -->
+    <img id="exit-fullscreen-icon" src="https://img.icons8.com/ios-filled/50/000000/collapse.png" 
+         alt="Exit Fullscreen" 
+         onclick="toggleFullscreen()" 
+         style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px; display: none;">
 
     <!-- Embed your Folium map using an iframe -->
     <iframe id="map-iframe" src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" style="width: 100%; height: 500px; border: none;"></iframe>
@@ -74,8 +79,21 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
     // JavaScript to toggle fullscreen
     function toggleFullscreen() {
         var mapContainer = document.getElementById('map-container');
+        var fullscreenIcon = document.getElementById('fullscreen-icon');
+        var exitFullscreenIcon = document.getElementById('exit-fullscreen-icon');
+
         if (mapContainer) {
+            // Toggle fullscreen mode
             mapContainer.classList.toggle('fullscreen');
+
+            // Toggle icons visibility
+            if (mapContainer.classList.contains('fullscreen')) {
+                fullscreenIcon.style.display = 'none';
+                exitFullscreenIcon.style.display = 'block';
+            } else {
+                fullscreenIcon.style.display = 'block';
+                exitFullscreenIcon.style.display = 'none';
+            }
         }
     }
 </script>
@@ -90,10 +108,5 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
         height: 100%;
         z-index: 9999;
         background-color: white;
-    }
-
-    /* Icon style adjustments for fullscreen */
-    #map-container.fullscreen img {
-        display: none; /* Hide the fullscreen icon when in fullscreen mode */
     }
 </style>
