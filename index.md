@@ -59,11 +59,13 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
 </iframe>
 
 
+<div id="map-container" style="position: relative; text-align: center;">
+    <!-- Fullscreen Icon -->
+    <img src="https://img.icons8.com/ios-filled/50/000000/full-screen.png" 
+         alt="Fullscreen" 
+         onclick="toggleFullscreen()" 
+         style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px;">
 
-<div id="map-container" style="text-align: center;">
-    <!-- Button to toggle fullscreen -->
-    <button onclick="toggleFullscreen()" style="margin: 10px; padding: 10px;">View Map in Fullscreen</button>
-    
     <!-- Embed your Folium map using an iframe -->
     <iframe id="map-iframe" src="https://arnaugr55.github.io/images/mapa_artistes_20240909.html" style="width: 100%; height: 500px; border: none;"></iframe>
 </div>
@@ -88,5 +90,10 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
         height: 100%;
         z-index: 9999;
         background-color: white;
+    }
+
+    /* Icon style adjustments for fullscreen */
+    #map-container.fullscreen img {
+        display: none; /* Hide the fullscreen icon when in fullscreen mode */
     }
 </style>
