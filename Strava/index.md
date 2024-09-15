@@ -20,6 +20,7 @@ Pestaña General<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_01.png" alt="Primera Pestaña" width="850">
 </div>
+
 Gráficas e info:
 - Panel de información con los totales (número de actividades, distancia, tiempo, desnivel positivo y montañas subidas).
 - Mapa interactivo con todos los tracks de la ruta. Si nos colocamos sobre un punto, nos da la infromación sobre las coordenadas, la actividad, altitud (mts), fecha y hora y km de la actividad.
