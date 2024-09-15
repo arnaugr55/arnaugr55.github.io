@@ -1,0 +1,27 @@
+/* custom.css */
+
+/* Override blue elements to orange */
+a {
+    color: orange;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+/* Override other blue elements (buttons, headers, etc.) */
+.post-title,
+.site-title,
+.site-description,
+.post-date {
+    color: orange;
+}
+
+/* Override any other blue components */
+.site-header {
+    background-color: orange;
+}
+
+.post-header {
+    border-bottom: 2px solid orange;
+}
