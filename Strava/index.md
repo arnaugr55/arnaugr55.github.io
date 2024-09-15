@@ -1,3 +1,11 @@
+<div class="tabs">
+  <ul>
+    <li><a href="#home">Inicio</a></li>
+    <li><a href="/Strava/">Strava Project</a></li>
+  </ul>
+</div>
+<link rel="stylesheet" href="/custom.css">
+
 # Strava Dashboard Project
 
 **[Link Repositorio Github](https://github.com/arnaugr55/Strava_project)**<br>
