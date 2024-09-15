@@ -39,7 +39,7 @@ Todos estos filtros afectan a las actividades que se muestran.
 Otros:
 - Panel para acceder a la otra pestaña (Mapas y Estadísticas) con un Ctrl+Clic.
 
---Pestaña Mapas & Estadísticas--<br>
+<br>--Pestaña Mapas & Estadísticas--<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_02.png" alt="Primera Pestaña" width="850">
 </div>
@@ -53,6 +53,7 @@ Gráficas e info:
 - Gráfica con las horas del día en las que se han hecho más kms.
 - Mapa de municipios recorridos por comarca. Como más oscura sea la comarca, más alto es el porcentaje de municipios recorridos.
 - Mapa de municipios recorridos. Como más oscuro sea el municipio, más kms se han recorrido en él. Recomendable ponerlo en pantalla grande para una mejor visualización.
+
 Filtros:
 - Por la fecha de la actividad.
 - En las gráficas de año o mes, se puede seleccionar un año o mes, para que filtre ese año o mes.
