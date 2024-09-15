@@ -1,6 +1,6 @@
 # Strava Dashboard Project
 
-**[Link Repsoitorio Github]([Strava/](https://github.com/arnaugr55/Strava_project))**<br>
+**[Link Repositorio Github]([Strava/](https://github.com/arnaugr55/Strava_project))**<br>
 **[Link Strava](https://www.strava.com/)**
 
 En este proyecto he descargado mi archivo strava que contiene información de mis actividades y otras estadísticas de mi cuenta Strava [aquí](https://www.strava.com/athlete/delete_your_account). Con este, y usando python he creado varios datasets con los que me he hecho un Dashboard interactivo, con Power BI.
@@ -15,6 +15,8 @@ Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 ***Dashboard***<br>
 Con la información recogida, he creado un dashboard de 2 pestañas.
 - En la primera hay la información general, un mapa con los recorridos de todas las actividades (o los seleccionados) e infromación de kms recorridos por Localidad (poblaciones, comarcas y provincias catalanas).
+  ![Primera Pestaña](https://github.com/arnaugr55/Strava_project/blob/main/resultados/captura_01.png)
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.
+  ![Segunda Pestaña](https://github.com/arnaugr55/Strava_project/blob/main/resultados/captura_02.png)
 
 
