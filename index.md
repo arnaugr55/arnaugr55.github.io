@@ -68,7 +68,7 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
          style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px; display: none;">
 
     <!-- Embed your Folium map using an iframe -->
-    <iframe id="map-iframe" src="https://arnaugr55.github.io/resources/Strava/mapa_artistes.html" style="width: 100%; height: 500px; border: none;"></iframe>
+    <iframe id="map-iframe" src="https://arnaugr55.github.io/resources/Spotify/mapa_artistes.html" style="width: 100%; height: 500px; border: none;"></iframe>
 </div>
 
 <script>
