@@ -16,7 +16,8 @@ Los scripts se encuentran en el github del proyecto. Ahí están comentados paso
 
 ***Dashboard***<br>
 Con la información recogida, he creado un dashboard de 2 pestañas.<br>
-Pestaña General<br>
+
+--Pestaña General--<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_01.png" alt="Primera Pestaña" width="850">
 </div>
@@ -31,15 +32,31 @@ Gráficas e info:
 Filtros:
 - Por la fecha de la actividad.
 - Por la distancia mínima o máxima de la actividad.
-- En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia) nos saldrán solo las rutas en las que se haya pasado por aquel terriiorio.
+- En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia), nos saldrán solo las rutas en las que se haya pasado por aquel territorio.
 - En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
+Todos estos filtros afectan a las actividades que se muestran.
 
 Otros:
 - Panel para acceder a la otra pestaña (Mapas y Estadísticas) con un Ctrl+Clic.
 
-Pestaña Mapas & Estadísticas<br>
+--Pestaña Mapas & Estadísticas--<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_02.png" alt="Primera Pestaña" width="850">
 </div>
+
+Gráficas e info:
+- Mapa interactivo con las montañas subidas. Para cada montaña, da la información de la altitud, número de veces subida, distancia máxima hasta la cima, tiempo mínimo hasta la cima y desnivel acumulado máximo hasta la cima. Además, para cada vez subida muestra la actividad, la fecha y hora de la cima.
+- Gráfica de tiempo (días) en actividades por mes.
+- Gráfica de tiempo (días) en actividades por año.
+- Gráfica de distancia (kms) por mes.
+- Gráfica de distancia (kms) por año.
+- Gráfica con las horas del día en las que se han hecho más kms.
+- Mapa de municipios recorridos por comarca. Como más oscura sea la comarca, más alto es el porcentaje de municipios recorridos.
+- Mapa de municipios recorridos. Como más oscuro sea el municipio, más kms se han recorrido en él. Recomendable ponerlo en pantalla grande para una mejor visualización.
+Filtros:
+- Por la fecha de la actividad.
+- En las gráficas de año o mes, se puede seleccionar un año o mes, para que filtre ese año o mes.
+- En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.
+Todos estos filtros afectan a las actividades que se muestran.
 
 **Si encontráis interesante el proyecto y queréis tenerlo también para vuestros datos, no dudéis en contactar conmigo y os resuelvo las dudas, vemos como lo podemos hacer...**
