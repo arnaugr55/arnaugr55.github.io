@@ -1,0 +1,2786 @@
+PER COMUNITAT AUTÒNOMA
+Comunitat Autònoma : Catalunya
+Nombre de registres Comunitat Autònoma : 350
+ Ranking                                      Artista  Oients Mensuals                   Municipi           Comarca Província
+       1                                  Figa Flawas          1932616                      Valls          Alt Camp Tarragona
+       2                                    The Tyets           913403                     Mataró           Maresme Barcelona
+       3                                      Mushkaa           877615            Vilassar de Mar           Maresme Barcelona
+       4                                Oques Grasses           833867                Roda de Ter             Osona Barcelona
+       5                                   Stay Homas           578774                  Barcelona        Barcelonès Barcelona
+       6                                      Julieta           518774                  Barcelona        Barcelonès Barcelona
+       7                                        Buhos           399292                   Calafell      Baix Penedès Tarragona
+       8                                     Txarango           376189 Sant Joan de les Abadesses          Ripollès    Girona
+       9                                 Els Catarres           370176                 Aiguafreda   Vallès Oriental Barcelona
+      10                                        roots           324878                     Mataró           Maresme Barcelona
+      11                                          Suu           301760                  Barcelona        Barcelonès Barcelona
+      12                                         Beth           250480                      Súria             Bages Barcelona
+      13                                       31 FAM           246474                   Sabadell Vallès Occidental Barcelona
+      14                                   Joan Dausà           241972    Sant Feliu de Llobregat    Baix Llobregat Barcelona
+      15                                      Blaumut           209347                  Barcelona        Barcelonès Barcelona
+      16                                        Manel           201604                  Barcelona        Barcelonès Barcelona
+      17                                    Scotty DK           198910                          -               NaN       NaN
+      18                                Sopa de Cabra           181335                     Girona           Gironès    Girona
+      19                             Flashy Ice Cream           175450                   Sabadell Vallès Occidental Barcelona
+      20                                      Sexenni           169392                     Lleida            Segrià    Lleida
+      21                                 Doctor Prats           157650                   Terrassa Vallès Occidental Barcelona
+      22                        Els Amics de les Arts           157452                  Barcelona        Barcelonès Barcelona
+      23                                      Ginestà           156613                  Barcelona        Barcelonès Barcelona
+      24                                   Pol Bordas           139363                     Girona           Gironès    Girona
+      25                                     Els Pets           128285                  Constantí        Tarragonès Tarragona
+      26                                  Lax'n'Busto           109895                el Vendrell      Baix Penedès Tarragona
+      27                                 Cesk Freixas           100763  Sant Pere de Riudebitlles       Alt Penedès Barcelona
+      28                                          Sau            99067                        Vic             Osona Barcelona
+      29                             Teràpia de Shock            98004                       Olot          Garrotxa    Girona
+      30                                  Mama Dousha            96430                  Barcelona        Barcelonès Barcelona
+      31                      Al·lèrgiques al pol·len            94820                  Barcelona        Barcelonès Barcelona
+      32                                      Lildami            91477                   Terrassa Vallès Occidental Barcelona
+      33                                   Pau Vallvé            90381                  Barcelona        Barcelonès Barcelona
+      34                                  Lluís Llach            88809                     Verges      Baix Empordà    Girona
+      35                                 El Pot Petit            88248                          -               NaN       NaN
+      36                                Lluís Gavaldà            87077                  Constantí        Tarragonès Tarragona
+      37                                 Socunbohemio            78511                  Barcelona        Barcelonès Barcelona
+      38                               La Sra. Tomasa            73562                  Barcelona        Barcelonès Barcelona
+      39                                       Marala            72289                  Barcelona        Barcelonès Barcelona
+      40                             Judit Neddermann            69708            Vilassar de Mar           Maresme Barcelona
+      41                                        Adala            68192                  Barcelona        Barcelonès Barcelona
+      42                                      Ven'nus            67366                   Sabadell Vallès Occidental Barcelona
+      43                                    Gertrudis            67137                 la Garriga   Vallès Oriental Barcelona
+      44                               Guillem Ramisa            66105                Roda de Ter             Osona Barcelona
+      45                                  Roba Estesa            60902                   Cambrils         Baix Camp Tarragona
+      46                                     Triquell            60836     Sant Quirze del Vallès Vallès Occidental Barcelona
+      47                                       Gossos            59963                    Manresa             Bages Barcelona
+      48                                Pelat i Pelut            59872                Folgueroles             Osona Barcelona
+      49                             Dàmaris Gelabert            57411                  Barcelona        Barcelonès Barcelona
+      50                                     Calagher            55767                     Mataró           Maresme Barcelona
+      51                                    La Trinca            55757               Canet de Mar           Maresme Barcelona
+      52                                      Mishima            51589                  Barcelona        Barcelonès Barcelona
+      53                                         Lluc            48557                   Cardedeu   Vallès Oriental Barcelona
+      54                              El Pony Pisador            41318                  Barcelona        Barcelonès Barcelona
+      55                                    Strombers            40332                    Cardona             Bages Barcelona
+      56                                 Ferran Palau            38875                   Collbató    Baix Llobregat Barcelona
+      57                               Homes Llúdriga            35680                  Barcelona        Barcelonès Barcelona
+      58                              Renaldo & Clara            35116                     Lleida            Segrià    Lleida
+      59                                    Manu Guix            34422                  Barcelona        Barcelonès Barcelona
+      60                           La Guardiola Groga            33195                   Terrassa Vallès Occidental Barcelona
+      61                               La Ludwig Band            32548                    Espolla       Alt Empordà    Girona
+      62                                P.A.W.N. Gang            32495                  Barcelona        Barcelonès Barcelona
+      63                                     Sara Roy            32029                    Manresa             Bages Barcelona
+      64                                      Dani6ix            30940                       Teià           Maresme Barcelona
+      65                                       IZZKID            30696                       Teià           Maresme Barcelona
+      66                                         Iglú            29326                  Barcelona        Barcelonès Barcelona
+      67                                         Maio            29202                  Barcelona        Barcelonès Barcelona
+      68                                       miquel            28567                   Igualada             Anoia Barcelona
+      69                                      jovedry            28146                  Barcelona        Barcelonès Barcelona
+      70                           Boom Boom Fighters            27975                     Girona           Gironès    Girona
+      71                                  Ebri Knight            27581                  Argentona           Maresme Barcelona
+      72                                      La Iaia            25367                        Vic             Osona Barcelona
+      73                                   Edu Esteve            25200                   Badalona        Barcelonès Barcelona
+      74                                 Roger Padrós            25139                    Polinyà Vallès Occidental Barcelona
+      75                                     Cookah P            24689                     Girona           Gironès    Girona
+      76                                    Esquirols            23784                 l'Esquirol             Osona Barcelona
+      77                         El Petit de Cal Eril            23724                 Massoteres           Segarra    Lleida
+      78                                 Miquel Abras            23574        la Bisbal d'Empordà      Baix Empordà    Girona
+      79                                    Sangtraït            22690                la Jonquera       Alt Empordà    Girona
+      80                                  Núria López            22118                  Santa Pau          Garrotxa    Girona
+      81                                      Ambauka            21908              Molins de Rei    Baix Llobregat Barcelona
+      82                             La Troba Kung-Fú            21649                 la Garriga   Vallès Oriental Barcelona
+      83                                    David Ros            21349                  Barcelona        Barcelonès Barcelona
+      84                                      Scorpio            20688                  Barcelona        Barcelonès Barcelona
+      85                                         Xicu            20559              Castellbisbal Vallès Occidental Barcelona
+      86                              Pepet i Marieta            20533                  Ulldecona           Montsià Tarragona
+      87                                       enMatu            20475                   Terrassa Vallès Occidental Barcelona
+      88                                        Xiula            20402                  Barcelona        Barcelonès Barcelona
+      89                                        Koers            20121                     Lleida            Segrià    Lleida
+      90                                 Ara va de bo            19689                  Barcelona        Barcelonès Barcelona
+      91                                         Crim            19238                  Tarragona        Tarragonès Tarragona
+      92                                  Andreu Rifé            19184                  Barcelona        Barcelonès Barcelona
+      93                      Baya Baye MGT Los Sosis            19128                    Montgat           Maresme Barcelona
+      94                                    Zulu 9.30            18793                  Barcelona        Barcelonès Barcelona
+      95                              Guillem Gisbert            18608                  Barcelona        Barcelonès Barcelona
+      96                                    bert bert            18140                   Sabadell Vallès Occidental Barcelona
+      97                                  Joan Rafart            17763                    Solsona          Solsonès    Lleida
+      98                               Pep Puigdemont            17624                       Olot          Garrotxa    Girona
+      99                  Marcel Lázara i Júlia Arrey            17448                    Manlleu             Osona Barcelona
+     100                                        Xeic!            16727                   Rasquera     Ribera d'Ebre Tarragona
+     101                                 Dagoll Dagom            16498                  Barcelona        Barcelonès Barcelona
+     102                                 The Penguins            16489    Sant Feliu de Llobregat    Baix Llobregat Barcelona
+     103                                        CyBee            15906    Sant Feliu de Llobregat    Baix Llobregat Barcelona
+     104                                     Svetlana            15789                  Barcelona        Barcelonès Barcelona
+     105                                    Roger Mas            15782                    Solsona          Solsonès    Lleida
+     106                                       Andana            15689                     Mataró           Maresme Barcelona
+     107                                  Adrià Puntí            15261                       Salt           Gironès    Girona
+     108          Joan Garriga i el Mariatxi galàctic            15190                 la Garriga   Vallès Oriental Barcelona
+     109                                       Vernat            15033                   Sabadell Vallès Occidental Barcelona
+     110                         Jo Jet i Maria Ribot            14911                    Manresa             Bages Barcelona
+     111                                    Sense Sal            14588                   Terrassa Vallès Occidental Barcelona
+     112                                 Quimi Portet            14544                        Vic             Osona Barcelona
+     113                                  Dr. Calypso            14254                  Barcelona        Barcelonès Barcelona
+     114                                       Compte            14149                 Torrelavit       Alt Penedès Barcelona
+     115                        Pirat's Sound Sistema            14123                  Barcelona        Barcelonès Barcelona
+     116                                  Porto Bello            13949                  Altafulla        Tarragonès Tarragona
+     117                                   Senyor Oca            13780                  Barcelona        Barcelonès Barcelona
+     118                                  Lo Puto Cat            13568                          -               NaN       NaN
+     119                                  Joan Rovira            13376                   Camarles         Baix Ebre Tarragona
+     120                                     Sr. Chen            13174                       Rubí Vallès Occidental Barcelona
+     121                                    Siderland            12999                  Barcelona        Barcelonès Barcelona
+     122                                     Good Jan            12836                  Barcelona        Barcelonès Barcelona
+     123                                   Josep Thió            12817                     Girona           Gironès    Girona
+     124                                    Mar Pujol            12633          Prats de Lluçanès          Lluçanès Barcelona
+     125                                 Yung Rovelló            12128                    Calella           Maresme Barcelona
+     126                                     Lil Guiu            11966                  Barcelona        Barcelonès Barcelona
+     127                                    Macedònia            11924       Castellar del Vallès Vallès Occidental Barcelona
+     128                    La Principal de la Bisbal            11743        la Bisbal d'Empordà      Baix Empordà    Girona
+     129                                      Port Bo            11587                Palafrugell      Baix Empordà    Girona
+     130                                Lluís Sánchez            11203           Artesa de Lleida            Segrià    Lleida
+     131                                   Toti Soler            11195           Vilassar de Dalt           Maresme Barcelona
+     132                                    Mainasons            11051                 la Garriga   Vallès Oriental Barcelona
+     133                                        Brams            10984                      Berga          Berguedà Barcelona
+     134                                     Sanjosex            10943        la Bisbal d'Empordà      Baix Empordà    Girona
+     135                               The Demencials            10712                        Vic             Osona Barcelona
+     136                                  Yung Rajola            10638                     Lleida            Segrià    Lleida
+     137                                       Obeses            10592                       Tona             Osona Barcelona
+     138                               Mariona Escoda            10493                      Valls          Alt Camp Tarragona
+     139                                   Júlia Blum            10473                  Barcelona        Barcelonès Barcelona
+     140                                   Teuma Thug            10406                  Barcelona        Barcelonès Barcelona
+     141                               Jordi Tonietti            10315                  Barcelona        Barcelonès Barcelona
+     142                                  Lali BeGood            10223                  Barcelona        Barcelonès Barcelona
+     143                                        Ariox            10186                   Cardedeu   Vallès Oriental Barcelona
+     144                      Achilifunk Sound System             9777                  Barcelona        Barcelonès Barcelona
+     145                                         Cesc             9763                l'Armentera       Alt Empordà    Girona
+     146                              Gerard Quintana             9745                     Girona           Gironès    Girona
+     147                              The Crab Apples             9686   Santa Eulàlia de Ronçana   Vallès Oriental Barcelona
+     148                                 Laura Gibert             9652              Lloret de Mar             Selva    Girona
+     149                                   Inadaptats             9604     Vilafranca del Penedès       Alt Penedès Barcelona
+     150                                      Vittara             9571                  Barcelona        Barcelonès Barcelona
+     151                                       Mazoni             9310        la Bisbal d'Empordà      Baix Empordà    Girona
+     152                    Els Pescadors de L'Escala             9144                   l'Escala       Alt Empordà    Girona
+     153                                  Joan Colomo             9093                Sant Celoni   Vallès Oriental Barcelona
+     154                             Els Atrapasomnis             8975          la Cellera de Ter             Selva    Girona
+     155                                    Whiskyn's             8798                       Reus         Baix Camp Tarragona
+     156                                         CoCo             8798                  Barcelona        Barcelonès Barcelona
+     157                                  Marc Parrot             8333                      Tiana           Maresme Barcelona
+     158                                 La Coixinera             7691                     Mataró           Maresme Barcelona
+     159                                       Glaucs             7596                      Begur      Baix Empordà    Girona
+     160                                    Yung Mare             7546                  Barcelona        Barcelonès Barcelona
+     161                                 Xarim Aresté             7071                       Flix     Ribera d'Ebre Tarragona
+     162                                         Azul             6995                  Barcelona        Barcelonès Barcelona
+     163                                    Still ill             6910                  Barcelona        Barcelonès Barcelona
+     164                                  Groggy Rude             6827                  Tarragona        Tarragonès Tarragona
+     165                                 David Rosell             6502                    Manresa             Bages Barcelona
+     166                                   Muyayo Rif             6440      Cornellà de Llobregat    Baix Llobregat Barcelona
+     167                               Damià Olivella             6369                    Manresa             Bages Barcelona
+     168                                       SDP509             6351                    Manresa             Bages Barcelona
+     169                                    AlQuadrat             6144     Sant Quirze del Vallès Vallès Occidental Barcelona
+     170                                  Paula Valls             6020                    Manlleu             Osona Barcelona
+     171             Anna Roig i l'Ombre de Ton Chien             5994       Sant Sadurní d'Anoia       Alt Penedès Barcelona
+     172                                República Ska             5801                     Lleida            Segrià    Lleida
+     173                          Orchestra Fireluche             5631          la Cellera de Ter             Selva    Girona
+     174                                 Eloi Sayrach             5625                  Barcelona        Barcelonès Barcelona
+     175                                        Balma             5561                  Barcelona        Barcelonès Barcelona
+     176                                 Gerard Aledo             5523     Sant Quirze del Vallès Vallès Occidental Barcelona
+     177                                   Lil Russia             5510                  Barcelona        Barcelonès Barcelona
+     178                            Malson Atmosfèric             5228        Sant Julià de Ramis           Gironès    Girona
+     179                                       Guineu             5057                  Barcelona        Barcelonès Barcelona
+     180                                    Com sona?             5013                  Barcelona        Barcelonès Barcelona
+     181                                       Seikos             4907    Sant Feliu de Llobregat    Baix Llobregat Barcelona
+     182                        Remei de Ca la Fresca             4817                   Arbúcies             Selva    Girona
+     183                             Los Barrankillos             4800   Santa Coloma de Gramenet        Barcelonès Barcelona
+     184                                      Julen G             4758                  Barcelona        Barcelonès Barcelona
+     185                                 La Pataqueta             4673                          -               NaN       NaN
+     186                                        Quimo             4653                     Girona           Gironès    Girona
+     187                                Pere Espinosa             4652                Sant Celoni   Vallès Oriental Barcelona
+     188                                Les anxovetes             4628                     Girona           Gironès    Girona
+     189                                      Chill C             4580                   Sabadell Vallès Occidental Barcelona
+     190                                     Massaviu             4530                   Cardedeu   Vallès Oriental Barcelona
+     191                                Espaldamaceta             4482                  Tarragona        Tarragonès Tarragona
+     192                                 Quico Tretze             4413                   Igualada             Anoia Barcelona
+     193                               Hora de Joglar             4343                 Argelaguer          Garrotxa    Girona
+     194                                        FRANC             4295      Sant Cugat del Vallès Vallès Occidental Barcelona
+     195                                        Batec             4254                       Rubí Vallès Occidental Barcelona
+     196                                        Fetus             4236        la Bisbal d'Empordà      Baix Empordà    Girona
+     197                                       Roslyn             4180                  Barcelona        Barcelonès Barcelona
+     198                                 Sergi Albert             4173                  Barcelona        Barcelonès Barcelona
+     199                                  Les Montses             4092     Sant Vicenç dels Horts    Baix Llobregat Barcelona
+     200                                  Galgo Lento             4059                   Terrassa Vallès Occidental Barcelona
+     201                                      Skatalà             4010                  Barcelona        Barcelonès Barcelona
+     202                                Dijous Paella             4002                          -               NaN Barcelona
+     203                                       Nyandú             3951                     Oristà          Lluçanès Barcelona
+     204                                    Umpah-Pah             3941                       Salt           Gironès    Girona
+     205                                   Anaïs Vila             3923                  Santpedor             Bages Barcelona
+     206                              The Anti-Patiks             3900                   Terrassa Vallès Occidental Barcelona
+     207                              Sergi Carbonell             3827            Ribes de Freser          Ripollès    Girona
+     208                                  Gemma Humet             3791                   Terrassa Vallès Occidental Barcelona
+     209                                        Ailux             3760                  Barcelona        Barcelonès Barcelona
+     210                                  Marialluïsa             3735                   Igualada             Anoia Barcelona
+     211                                     roserona             3721                   Cardedeu   Vallès Oriental Barcelona
+     212                    La Terrasseta de Preixens             3719                    Tàrrega            Urgell    Lleida
+     213                                      Paunezz             3669                   Igualada             Anoia Barcelona
+     214                                  Dan Peralbo             3663                    Torelló             Osona Barcelona
+     215                                  Uri Santafé             3486                       Moià           Moianès Barcelona
+     216                                 Toni Giménez             3406                  Barcelona        Barcelonès Barcelona
+     217                       Patriarcas de la Rumba             3402                  Barcelona        Barcelonès Barcelona
+     218                                       Mosaic             3375                  Barcelona        Barcelonès Barcelona
+     219                                        Acros             3343                  Barcelona        Barcelonès Barcelona
+     220                                  N'Gai N'Gai             3290            Sant Pol de Mar           Maresme Barcelona
+     221                              Enemic interior             3290                  Barcelona        Barcelonès Barcelona
+     222 Quico el Célio, el Noi i el Mut de Ferreries             3248                    Tortosa         Baix Ebre Tarragona
+     223                                  Germà Negre             3186                   Banyoles   Pla de l'Estany    Girona
+     224                           Els Surfing Sirles             3138                Sant Celoni   Vallès Oriental Barcelona
+     225                                       Alvert             3084                     Mataró           Maresme Barcelona
+     226                                  Som Mainada             3071    Sant Jaume dels Domenys      Baix Penedès Tarragona
+     227                                 Carles Belda             3068                   Sabadell Vallès Occidental Barcelona
+     228                                    Caïm Riba             3044                  Barcelona        Barcelonès Barcelona
+     229                                  At Versaris             2987                   Sabadell Vallès Occidental Barcelona
+     230                               Pastorets Rock             2928                     Lleida            Segrià    Lleida
+     231                                         OKDW             2921                   Cubelles            Garraf Barcelona
+     232                                Quart primera             2898                  Barcelona        Barcelonès Barcelona
+     233                                País de Xauxa             2883                   l'Escala       Alt Empordà    Girona
+     234                                The Gruixut's             2752        la Bisbal d'Empordà      Baix Empordà    Girona
+     235                             Arrels de Gràcia             2696                  Barcelona        Barcelonès Barcelona
+     236                               Ramon Muntaner             2675      Cornellà de Llobregat    Baix Llobregat Barcelona
+     237                                        Ocumé             2656                  Barcelona        Barcelonès Barcelona
+     238                                  Pol Orobitg             2641      Cerdanyola del Vallès Vallès Occidental Barcelona
+     239                                   Guillamino             2612                  Barcelona        Barcelonès Barcelona
+     240                                      Mesclat             2581                     Blanes             Selva    Girona
+     241                                Arc de Triomf             2572            Vilassar de Mar           Maresme Barcelona
+     242                                Ramon Calduch             2547          Montcada i Reixac Vallès Occidental Barcelona
+     243                              Estúpida Erikah             2460                  Barcelona        Barcelonès Barcelona
+     244                       Autèntic Home Llúdriga             2400                  Barcelona        Barcelonès Barcelona
+     245                                 Paula Grande             2350                     Girona           Gironès    Girona
+     246                                     CLASSE B             2317       Torroella de Montgrí      Baix Empordà    Girona
+     247                                       Henrio             2291                  Barcelona        Barcelonès Barcelona
+     248                                Jofre Bardagí             2284                  Barcelona        Barcelonès Barcelona
+     249              Els Terrícoles del Capità Twang             2238                  Barcelona        Barcelonès Barcelona
+     250                              Filippo Landini             2132               Canet de Mar           Maresme Barcelona
+     251                                   Nuri Total             2100                  Barcelona        Barcelonès Barcelona
+     252                                     Segonamà             2089                    Riudoms         Baix Camp Tarragona
+     253                                         b1n0             2076                  Barcelona        Barcelonès Barcelona
+     254                                    Pilseners             2055                  Barcelona        Barcelonès Barcelona
+     255                                     Gemm Sol             1995                    Solsona          Solsonès    Lleida
+     256                                     Gigi Ros             1964                  Barcelona        Barcelonès Barcelona
+     257                                Ferran Savall             1950      Cerdanyola del Vallès Vallès Occidental Barcelona
+     258                                 Salva Racero             1941                    Manresa             Bages Barcelona
+     259                                      Batiste             1938                  Barcelona        Barcelonès Barcelona
+     260                                   Àlex Pérez             1922                   Vidreres             Selva    Girona
+     261                      La Tresca i la Verdesca             1898                   Badalona        Barcelonès Barcelona
+     262                                  Joan Masdéu             1890                       Reus         Baix Camp Tarragona
+     263                                  Delta Delta             1865                  Barcelona        Barcelonès Barcelona
+     264                                    Bons nois             1865    Sant Feliu de Llobregat    Baix Llobregat Barcelona
+     265                              Vergüenza Ajena             1859                  Tarragona        Tarragonès Tarragona
+     266                                     Panellet             1808                   Terrassa Vallès Occidental Barcelona
+     267                               Roger Berruezo             1802                  Barcelona        Barcelonès Barcelona
+     268                                   Toni Xuclà             1781                  Barcelona        Barcelonès Barcelona
+     269                                Mr. Freak Ska             1755                     Mataró           Maresme Barcelona
+     270                                Chung-man Kim             1753              Premià de Mar           Maresme Barcelona
+     271                                    Xana Blue             1732                  Barcelona        Barcelonès Barcelona
+     272                                    Aina Reig             1709                     Girona           Gironès    Girona
+     273                                       Lòxias             1694       Castellar del Vallès Vallès Occidental Barcelona
+     274                                       vàlius             1640                  Barcelona        Barcelonès Barcelona
+     275                                  Els Cundits             1624                  Barcelona        Barcelonès Barcelona
+     276                         La República Rumbera             1616                 Granollers   Vallès Oriental Barcelona
+     277                                 Ivette Nadal             1609                 Granollers   Vallès Oriental Barcelona
+     278                                   La Taverna             1574      Sant Feliu de Guíxols      Baix Empordà    Girona
+     279                     La Salseta del Poble Sec             1569                  Barcelona        Barcelonès Barcelona
+     280                                      Canimas             1557    Sant Feliu de Pallerols          Garrotxa    Girona
+     281                                      Gemma P             1555                      Roses       Alt Empordà    Girona
+     282                              La Corda Fluixa             1553                  Puigcerdà          Cerdanya    Girona
+     283                                       Fortuu             1544       Fornells de la Selva           Gironès    Girona
+     284                           Els Amics de Manel             1543                     Sitges            Garraf Barcelona
+     285                                  Lídia Pujol             1526                  Barcelona        Barcelonès Barcelona
+     286                      The Goliards Collective             1488                  Barcelona        Barcelonès Barcelona
+     287                                        Flora             1456                  Barcelona        Barcelonès Barcelona
+     288                             Arribar i ploure             1453                          -               NaN       NaN
+     289                                 Gracià Pedro             1446                  Barcelona        Barcelonès Barcelona
+     290                                         Geri             1430      les Planes d'Hostoles          Garrotxa    Girona
+     291                                 La Masia BCN             1385                  Barcelona        Barcelonès Barcelona
+     292                               Falsterbo Marí             1368                  Barcelona        Barcelonès Barcelona
+     293                                  Reconquesta             1351       Sant Sadurní d'Anoia       Alt Penedès Barcelona
+     294                                        Bigwé             1338                  Barcelona        Barcelonès Barcelona
+     295                           El Son de la Chama             1335                  Tarragona        Tarragonès Tarragona
+     296                               Anna Roig Dolz             1331                  Barcelona        Barcelonès Barcelona
+     297                                         Bars             1325                   Sabadell Vallès Occidental Barcelona
+     298                                       Anímic             1315                   Collbató    Baix Llobregat Barcelona
+     299                                      Sherpah             1312                    Manresa             Bages Barcelona
+     300                              Miquel del Roig             1309           l'Ametlla de Mar         Baix Ebre Tarragona
+     301                                Rock per Xics             1296                     Girona           Gironès    Girona
+     302                               Ernest Crusats             1293                        Vic             Osona Barcelona
+     303                                     Làd Cúig             1263             Arenys de Munt           Maresme Barcelona
+     304                             Cobla Berga Jove             1227                      Berga          Berguedà Barcelona
+     305                                 Anna d'Ivori             1210                  Tarragona        Tarragonès Tarragona
+     306                                    La Màlaga             1182                  Barcelona        Barcelonès Barcelona
+     307                         La Porta dels Somnis             1180      Sant Cugat del Vallès Vallès Occidental Barcelona
+     308                                   Maria Coma             1164                  Barcelona        Barcelonès Barcelona
+     309                                     Quiròfan             1160                  Barcelona        Barcelonès Barcelona
+     310                                    Agudinine             1125              Molins de Rei    Baix Llobregat Barcelona
+     311                                    Selva Nua             1109                     Lleida            Segrià    Lleida
+     312                                Vinnie Kairos             1101                     Girona           Gironès    Girona
+     313                                    La Cosina             1093                       Reus         Baix Camp Tarragona
+     314                                 Oriol Canals             1084                  Barcelona        Barcelonès Barcelona
+     315                 Josep Xortó + The Congosound             1082                  Barcelona        Barcelonès Barcelona
+     316                      Petit Taller de Cançons             1061                el Vendrell      Baix Penedès Tarragona
+     317                                   Kabul Babà             1057                     Girona           Gironès    Girona
+     318                                       gusset             1045                     Mataró           Maresme Barcelona
+     319                               El Senyor Peix             1043             Malgrat de Mar           Maresme Barcelona
+     320                                  Roko Banana             1037                   Banyoles   Pla de l'Estany    Girona
+     321                                        Ninus             1035                   Cardedeu   Vallès Oriental Barcelona
+     322                                          Uri             1031                        Vic             Osona Barcelona
+     323                            Landry el Rumbero             1017                  Barcelona        Barcelonès Barcelona
+     324                                       Mtines             1008                  Barcelona        Barcelonès Barcelona
+     325                                      Bikimel              985                   Sabadell Vallès Occidental Barcelona
+     326                                 Roger Argemí              957                   Igualada             Anoia Barcelona
+     327                                        Èxta6              953              Viladecavalls Vallès Occidental Barcelona
+     328                                   Lia Sampai              952      Cerdanyola del Vallès Vallès Occidental Barcelona
+     329                                 Èric Vinaixa              930                    Miravet     Ribera d'Ebre Tarragona
+     330                              Sandra Bautista              924                Martorelles   Vallès Oriental Barcelona
+     331                                        Asra3              863                  Barcelona        Barcelonès Barcelona
+     332                               Aiguadvalencia              844          Mollet del Vallès   Vallès Oriental Barcelona
+     333                                  Shala Beatz              802                          -               NaN       NaN
+     334                                    Zadi Plug              792                  Barcelona        Barcelonès Barcelona
+     335                                        Rikus              765          Cassà de la Selva           Gironès    Girona
+     336                                         Km.0              723                          -               NaN       NaN
+     337                                     Zulabard              706                  Barcelona        Barcelonès Barcelona
+     338                                      PEGI 21              696                        Vic             Osona Barcelona
+     339                                        Fauna              669                 Mollerussa      Pla d'Urgell    Lleida
+     340                                          III              657                  Barcelona        Barcelonès Barcelona
+     341                                    Slad Mobb              653                  Barcelona        Barcelonès Barcelona
+     342                             Fescat goes punk              627                       Reus         Baix Camp Tarragona
+     343                                   ATALAYA 00              623                   Terrassa Vallès Occidental Barcelona
+     344                                   Titu Martí              522     Castellfollit del Boix             Bages Barcelona
+     345                                       Tramma              521                     Girona           Gironès    Girona
+     346                                        Bivac              389                   Banyoles   Pla de l'Estany    Girona
+     347                          Lírica de Trobadors              311                  Barcelona        Barcelonès Barcelona
+     348                                       Kid Pi              207                   Sabadell Vallès Occidental Barcelona
+     349                  Milford Mocs & Gunther Cucs              143                     Lleida            Segrià    Lleida
+     350                             Land Of Coconuts               61                  Barcelona        Barcelonès Barcelona
+----------------------------------------------------------------------------------
+Comunitat Autònoma : Comunitat Valenciana
+Nombre de registres Comunitat Autònoma : 46
+ Ranking                Artista  Oients Mensuals             Municipi        Comarca Província
+       1              La Fúmiga           403129               Alzira    Ribera Alta  València
+       2                    Zoo           357061               Gandia          Safor  València
+       3                 Auxili            81560            Ontinyent Vall d'Albaida  València
+       4         La Gossa Sorda            75490                 Pego    Marina Alta   Alacant
+       5            Xavi Sarrià            62729             València       València  València
+       6             Obrint Pas            62288             València       València  València
+       7               Aspencat            61454                 Xaló    Marina Alta   Alacant
+       8          Smoking Souls            54375                 Pego    Marina Alta   Alacant
+       9              El Diluvi            36328             Castalla         Alcoià   Alacant
+      10           Pau Alabajos            28885              Torrent      Horta Sud  València
+      11                 Cactus            24849                    -         Comtat   Alacant
+      12              Pupil·les            22115             València       València  València
+      13                 Esther            20824              Vinaròs  Baix Maestrat  Castelló
+      14                 Raimon            20510               Xàtiva        Costera  València
+      15         Sandra Monfort            19863            Pedreguer    Marina Alta   Alacant
+      16 Pep Gimeno 'Botifarra'            18902               Xàtiva        Costera  València
+      17              Dj Plan B            17965             València       València  València
+      18         Ovidi Montllor            17931                Alcoi         Alcoià   Alacant
+      19                  Atupa            11540             Montcada     Horta Nord  València
+      20                 Vienna            11025              Alacant       Alacantí   Alacant
+      21                 Maluks             9165             València       València  València
+      22               Malifeta             9000                    -            NaN  València
+      23              Àlex Blat             8332             València       València  València
+      24               La Maria             8301                Oliva          Safor  València
+      25         Pep de la Tona             7634                 Pego    Marina Alta   Alacant
+      26                   TESA             7217           Almussafes   Ribera Baixa  València
+      27                  NIUSS             6157             Algemesí    Ribera Alta  València
+      28           Mireia Vives             4693               Llíria  Camp de Túria  València
+      29            Dani Miquel             4444            l'Alcúdia    Ribera Alta  València
+      30          Feliu Ventura             3857               Xàtiva        Costera  València
+      31             Miquel Gil             3768            Catarroja      Horta Sud  València
+      32        Jonatan Penalba             3767            l'Alcúdia    Ribera Alta  València
+      33                 Tardor             3657             València       València  València
+      34         Oller i Guerra             2872             València       València  València
+      35          Borja Penalba             2572             València       València  València
+      36           Andreu Valor             1859           Cocentaina         Comtat   Alacant
+      37               Ramonets             1802             València       València  València
+      38 Senior i el Cor Brutal             1672             València       València  València
+      39               Atzembla             1654 Alfara del Patriarca     Horta Nord  València
+      40                 Quinto             1362                 Pego    Marina Alta   Alacant
+      41         Bajoqueta Rock             1332   Riba-roja de Túria  Camp de Túria  València
+      42         Victoria Maldi             1259              Alacant       Alacantí   Alacant
+      43               Sva-ters              941             Alcàsser      Horta Sud  València
+      44                  Vaire              815             València       València  València
+      45                Sa pena              531            Pedreguer    Marina Alta   Alacant
+      46            Aina Palmer               69             Borriana    Plana Baixa  Castelló
+----------------------------------------------------------------------------------
+Comunitat Autònoma : Illes Balears
+Nombre de registres Comunitat Autònoma : 37
+ Ranking                 Artista  Oients Mensuals              Municipi             Comarca     Província
+       1            Antònia Font           112595                 Palma            Mallorca Illes Balears
+       2             Maria Jaume            66056  Lloret de Vistalegre     Pla de Mallorca Illes Balears
+       3              Maria Hein            49882              Felanitx             Migjorn Illes Balears
+       4                Xanguito            44914               Bunyola Serra de Tramuntana Illes Balears
+       5      Joan Miquel Oliver            31610                Sóller Serra de Tramuntana Illes Balears
+       6             OR (O-ERRA)            24503               Manacor             Llevant Illes Balears
+       7             Tomeu Penya            23536  Vilafranca de Bonany     Pla de Mallorca Illes Balears
+       8                   FADES            20103                 Palma            Mallorca Illes Balears
+       9             Pèl de Gall            19893                     -             Menorca Illes Balears
+      10           Joan Bibiloni            17723               Manacor             Llevant Illes Balears
+      11                   Reïna            16933               Manacor             Llevant Illes Balears
+      12                Da Souza            16294                 Palma            Mallorca Illes Balears
+      13                 Anegats            13757           Son Servera             Llevant Illes Balears
+      14            Ja t'ho diré            11971 Ciutadella de Menorca             Menorca Illes Balears
+      15             Rudymentari             7827 Ciutadella de Menorca             Menorca Illes Balears
+      16            Cris Juanico             6629 Ciutadella de Menorca             Menorca Illes Balears
+      17            Projecte Mut             5163               Eivissa             Eivissa Illes Balears
+      18                 Ossifar             3822                 Palma            Mallorca Illes Balears
+      19             Mar Grimalt             3371              Felanitx            Migjorn  Illes Balears
+      20                 Plan-ET             3122               Manacor             Llevant Illes Balears
+      21             Suc i Sopes             2790 Ciutadella de Menorca             Menorca Illes Balears
+      22             Ses Bubotes             2638                 Palma            Mallorca Illes Balears
+      23            Slim Samurai             2628               Eivissa             Eivissa Illes Balears
+      24                 Cucorba             2592                  Muro     Pla de Mallorca Illes Balears
+      25            Miquel Serra             2565               Manacor             Llevant Illes Balears
+      26             Lluís Cabot             2425              Marratxí             Raiguer Illes Balears
+      27             Júlia Colom             2357           Valldemossa Serra de Tramuntana Illes Balears
+      28       The Binigaus Band             1988                     -             Menorca Illes Balears
+      29             Anna Ferrer             1988                   Maó             Menorca Illes Balears
+      30            Jaume Sureda             1638                 Palma            Mallorca Illes Balears
+      31           Ánimos Parrec             1447  Vilafranca de Bonany     Pla de Mallorca Illes Balears
+      32              Pitxorines             1349               Manacor             Llevant Illes Balears
+      33                     Tiu             1276                 Palma            Mallorca Illes Balears
+      34            Salvatge Cor              971                 Palma            Mallorca Illes Balears
+      35 Ses Bísties de Mongofre              817                   Maó             Menorca Illes Balears
+      36             Dos Sipiots              743 Ciutadella de Menorca             Menorca Illes Balears
+      37        Juanjo Monserrat              406                 Palma            Mallorca Illes Balears
+----------------------------------------------------------------------------------
+
+
+PER PROVÍNCIA
+Província : Barcelona
+Nombre de registres Província : 246
+ Ranking                             Artista  Oients Mensuals                  Municipi           Comarca
+       1                           The Tyets           913403                    Mataró           Maresme
+       2                             Mushkaa           877615           Vilassar de Mar           Maresme
+       3                       Oques Grasses           833867               Roda de Ter             Osona
+       4                          Stay Homas           578774                 Barcelona        Barcelonès
+       5                             Julieta           518774                 Barcelona        Barcelonès
+       6                        Els Catarres           370176                Aiguafreda   Vallès Oriental
+       7                               roots           324878                    Mataró           Maresme
+       8                                 Suu           301760                 Barcelona        Barcelonès
+       9                                Beth           250480                     Súria             Bages
+      10                              31 FAM           246474                  Sabadell Vallès Occidental
+      11                          Joan Dausà           241972   Sant Feliu de Llobregat    Baix Llobregat
+      12                             Blaumut           209347                 Barcelona        Barcelonès
+      13                               Manel           201604                 Barcelona        Barcelonès
+      14                    Flashy Ice Cream           175450                  Sabadell Vallès Occidental
+      15                        Doctor Prats           157650                  Terrassa Vallès Occidental
+      16               Els Amics de les Arts           157452                 Barcelona        Barcelonès
+      17                             Ginestà           156613                 Barcelona        Barcelonès
+      18                        Cesk Freixas           100763 Sant Pere de Riudebitlles       Alt Penedès
+      19                                 Sau            99067                       Vic             Osona
+      20                         Mama Dousha            96430                 Barcelona        Barcelonès
+      21             Al·lèrgiques al pol·len            94820                 Barcelona        Barcelonès
+      22                             Lildami            91477                  Terrassa Vallès Occidental
+      23                          Pau Vallvé            90381                 Barcelona        Barcelonès
+      24                        Socunbohemio            78511                 Barcelona        Barcelonès
+      25                      La Sra. Tomasa            73562                 Barcelona        Barcelonès
+      26                              Marala            72289                 Barcelona        Barcelonès
+      27                    Judit Neddermann            69708           Vilassar de Mar           Maresme
+      28                               Adala            68192                 Barcelona        Barcelonès
+      29                             Ven'nus            67366                  Sabadell Vallès Occidental
+      30                           Gertrudis            67137                la Garriga   Vallès Oriental
+      31                      Guillem Ramisa            66105               Roda de Ter             Osona
+      32                            Triquell            60836    Sant Quirze del Vallès Vallès Occidental
+      33                              Gossos            59963                   Manresa             Bages
+      34                       Pelat i Pelut            59872               Folgueroles             Osona
+      35                    Dàmaris Gelabert            57411                 Barcelona        Barcelonès
+      36                            Calagher            55767                    Mataró           Maresme
+      37                           La Trinca            55757              Canet de Mar           Maresme
+      38                             Mishima            51589                 Barcelona        Barcelonès
+      39                                Lluc            48557                  Cardedeu   Vallès Oriental
+      40                     El Pony Pisador            41318                 Barcelona        Barcelonès
+      41                           Strombers            40332                   Cardona             Bages
+      42                        Ferran Palau            38875                  Collbató    Baix Llobregat
+      43                      Homes Llúdriga            35680                 Barcelona        Barcelonès
+      44                           Manu Guix            34422                 Barcelona        Barcelonès
+      45                  La Guardiola Groga            33195                  Terrassa Vallès Occidental
+      46                       P.A.W.N. Gang            32495                 Barcelona        Barcelonès
+      47                            Sara Roy            32029                   Manresa             Bages
+      48                             Dani6ix            30940                      Teià           Maresme
+      49                              IZZKID            30696                      Teià           Maresme
+      50                                Iglú            29326                 Barcelona        Barcelonès
+      51                                Maio            29202                 Barcelona        Barcelonès
+      52                              miquel            28567                  Igualada             Anoia
+      53                             jovedry            28146                 Barcelona        Barcelonès
+      54                         Ebri Knight            27581                 Argentona           Maresme
+      55                             La Iaia            25367                       Vic             Osona
+      56                          Edu Esteve            25200                  Badalona        Barcelonès
+      57                        Roger Padrós            25139                   Polinyà Vallès Occidental
+      58                           Esquirols            23784                l'Esquirol             Osona
+      59                             Ambauka            21908             Molins de Rei    Baix Llobregat
+      60                    La Troba Kung-Fú            21649                la Garriga   Vallès Oriental
+      61                           David Ros            21349                 Barcelona        Barcelonès
+      62                             Scorpio            20688                 Barcelona        Barcelonès
+      63                                Xicu            20559             Castellbisbal Vallès Occidental
+      64                              enMatu            20475                  Terrassa Vallès Occidental
+      65                               Xiula            20402                 Barcelona        Barcelonès
+      66                        Ara va de bo            19689                 Barcelona        Barcelonès
+      67                         Andreu Rifé            19184                 Barcelona        Barcelonès
+      68             Baya Baye MGT Los Sosis            19128                   Montgat           Maresme
+      69                           Zulu 9.30            18793                 Barcelona        Barcelonès
+      70                     Guillem Gisbert            18608                 Barcelona        Barcelonès
+      71                           bert bert            18140                  Sabadell Vallès Occidental
+      72         Marcel Lázara i Júlia Arrey            17448                   Manlleu             Osona
+      73                        Dagoll Dagom            16498                 Barcelona        Barcelonès
+      74                        The Penguins            16489   Sant Feliu de Llobregat    Baix Llobregat
+      75                               CyBee            15906   Sant Feliu de Llobregat    Baix Llobregat
+      76                            Svetlana            15789                 Barcelona        Barcelonès
+      77                              Andana            15689                    Mataró           Maresme
+      78 Joan Garriga i el Mariatxi galàctic            15190                la Garriga   Vallès Oriental
+      79                              Vernat            15033                  Sabadell Vallès Occidental
+      80                Jo Jet i Maria Ribot            14911                   Manresa             Bages
+      81                           Sense Sal            14588                  Terrassa Vallès Occidental
+      82                        Quimi Portet            14544                       Vic             Osona
+      83                         Dr. Calypso            14254                 Barcelona        Barcelonès
+      84                              Compte            14149                Torrelavit       Alt Penedès
+      85               Pirat's Sound Sistema            14123                 Barcelona        Barcelonès
+      86                          Senyor Oca            13780                 Barcelona        Barcelonès
+      87                            Sr. Chen            13174                      Rubí Vallès Occidental
+      88                           Siderland            12999                 Barcelona        Barcelonès
+      89                            Good Jan            12836                 Barcelona        Barcelonès
+      90                           Mar Pujol            12633         Prats de Lluçanès          Lluçanès
+      91                        Yung Rovelló            12128                   Calella           Maresme
+      92                            Lil Guiu            11966                 Barcelona        Barcelonès
+      93                           Macedònia            11924      Castellar del Vallès Vallès Occidental
+      94                          Toti Soler            11195          Vilassar de Dalt           Maresme
+      95                           Mainasons            11051                la Garriga   Vallès Oriental
+      96                               Brams            10984                     Berga          Berguedà
+      97                      The Demencials            10712                       Vic             Osona
+      98                              Obeses            10592                      Tona             Osona
+      99                          Júlia Blum            10473                 Barcelona        Barcelonès
+     100                          Teuma Thug            10406                 Barcelona        Barcelonès
+     101                      Jordi Tonietti            10315                 Barcelona        Barcelonès
+     102                         Lali BeGood            10223                 Barcelona        Barcelonès
+     103                               Ariox            10186                  Cardedeu   Vallès Oriental
+     104             Achilifunk Sound System             9777                 Barcelona        Barcelonès
+     105                     The Crab Apples             9686  Santa Eulàlia de Ronçana   Vallès Oriental
+     106                          Inadaptats             9604    Vilafranca del Penedès       Alt Penedès
+     107                             Vittara             9571                 Barcelona        Barcelonès
+     108                         Joan Colomo             9093               Sant Celoni   Vallès Oriental
+     109                                CoCo             8798                 Barcelona        Barcelonès
+     110                         Marc Parrot             8333                     Tiana           Maresme
+     111                        La Coixinera             7691                    Mataró           Maresme
+     112                           Yung Mare             7546                 Barcelona        Barcelonès
+     113                                Azul             6995                 Barcelona        Barcelonès
+     114                           Still ill             6910                 Barcelona        Barcelonès
+     115                        David Rosell             6502                   Manresa             Bages
+     116                          Muyayo Rif             6440     Cornellà de Llobregat    Baix Llobregat
+     117                      Damià Olivella             6369                   Manresa             Bages
+     118                              SDP509             6351                   Manresa             Bages
+     119                           AlQuadrat             6144    Sant Quirze del Vallès Vallès Occidental
+     120                         Paula Valls             6020                   Manlleu             Osona
+     121    Anna Roig i l'Ombre de Ton Chien             5994      Sant Sadurní d'Anoia       Alt Penedès
+     122                        Eloi Sayrach             5625                 Barcelona        Barcelonès
+     123                               Balma             5561                 Barcelona        Barcelonès
+     124                        Gerard Aledo             5523    Sant Quirze del Vallès Vallès Occidental
+     125                          Lil Russia             5510                 Barcelona        Barcelonès
+     126                              Guineu             5057                 Barcelona        Barcelonès
+     127                           Com sona?             5013                 Barcelona        Barcelonès
+     128                              Seikos             4907   Sant Feliu de Llobregat    Baix Llobregat
+     129                    Los Barrankillos             4800  Santa Coloma de Gramenet        Barcelonès
+     130                             Julen G             4758                 Barcelona        Barcelonès
+     131                       Pere Espinosa             4652               Sant Celoni   Vallès Oriental
+     132                             Chill C             4580                  Sabadell Vallès Occidental
+     133                            Massaviu             4530                  Cardedeu   Vallès Oriental
+     134                        Quico Tretze             4413                  Igualada             Anoia
+     135                               FRANC             4295     Sant Cugat del Vallès Vallès Occidental
+     136                               Batec             4254                      Rubí Vallès Occidental
+     137                              Roslyn             4180                 Barcelona        Barcelonès
+     138                        Sergi Albert             4173                 Barcelona        Barcelonès
+     139                         Les Montses             4092    Sant Vicenç dels Horts    Baix Llobregat
+     140                         Galgo Lento             4059                  Terrassa Vallès Occidental
+     141                             Skatalà             4010                 Barcelona        Barcelonès
+     142                       Dijous Paella             4002                         -               NaN
+     143                              Nyandú             3951                    Oristà          Lluçanès
+     144                          Anaïs Vila             3923                 Santpedor             Bages
+     145                     The Anti-Patiks             3900                  Terrassa Vallès Occidental
+     146                         Gemma Humet             3791                  Terrassa Vallès Occidental
+     147                               Ailux             3760                 Barcelona        Barcelonès
+     148                         Marialluïsa             3735                  Igualada             Anoia
+     149                            roserona             3721                  Cardedeu   Vallès Oriental
+     150                             Paunezz             3669                  Igualada             Anoia
+     151                         Dan Peralbo             3663                   Torelló             Osona
+     152                         Uri Santafé             3486                      Moià           Moianès
+     153                        Toni Giménez             3406                 Barcelona        Barcelonès
+     154              Patriarcas de la Rumba             3402                 Barcelona        Barcelonès
+     155                              Mosaic             3375                 Barcelona        Barcelonès
+     156                               Acros             3343                 Barcelona        Barcelonès
+     157                         N'Gai N'Gai             3290           Sant Pol de Mar           Maresme
+     158                     Enemic interior             3290                 Barcelona        Barcelonès
+     159                  Els Surfing Sirles             3138               Sant Celoni   Vallès Oriental
+     160                              Alvert             3084                    Mataró           Maresme
+     161                        Carles Belda             3068                  Sabadell Vallès Occidental
+     162                           Caïm Riba             3044                 Barcelona        Barcelonès
+     163                         At Versaris             2987                  Sabadell Vallès Occidental
+     164                                OKDW             2921                  Cubelles            Garraf
+     165                       Quart primera             2898                 Barcelona        Barcelonès
+     166                    Arrels de Gràcia             2696                 Barcelona        Barcelonès
+     167                      Ramon Muntaner             2675     Cornellà de Llobregat    Baix Llobregat
+     168                               Ocumé             2656                 Barcelona        Barcelonès
+     169                         Pol Orobitg             2641     Cerdanyola del Vallès Vallès Occidental
+     170                          Guillamino             2612                 Barcelona        Barcelonès
+     171                       Arc de Triomf             2572           Vilassar de Mar           Maresme
+     172                       Ramon Calduch             2547         Montcada i Reixac Vallès Occidental
+     173                     Estúpida Erikah             2460                 Barcelona        Barcelonès
+     174              Autèntic Home Llúdriga             2400                 Barcelona        Barcelonès
+     175                              Henrio             2291                 Barcelona        Barcelonès
+     176                       Jofre Bardagí             2284                 Barcelona        Barcelonès
+     177     Els Terrícoles del Capità Twang             2238                 Barcelona        Barcelonès
+     178                     Filippo Landini             2132              Canet de Mar           Maresme
+     179                          Nuri Total             2100                 Barcelona        Barcelonès
+     180                                b1n0             2076                 Barcelona        Barcelonès
+     181                           Pilseners             2055                 Barcelona        Barcelonès
+     182                            Gigi Ros             1964                 Barcelona        Barcelonès
+     183                       Ferran Savall             1950     Cerdanyola del Vallès Vallès Occidental
+     184                        Salva Racero             1941                   Manresa             Bages
+     185                             Batiste             1938                 Barcelona        Barcelonès
+     186             La Tresca i la Verdesca             1898                  Badalona        Barcelonès
+     187                         Delta Delta             1865                 Barcelona        Barcelonès
+     188                           Bons nois             1865   Sant Feliu de Llobregat    Baix Llobregat
+     189                            Panellet             1808                  Terrassa Vallès Occidental
+     190                      Roger Berruezo             1802                 Barcelona        Barcelonès
+     191                          Toni Xuclà             1781                 Barcelona        Barcelonès
+     192                       Mr. Freak Ska             1755                    Mataró           Maresme
+     193                       Chung-man Kim             1753             Premià de Mar           Maresme
+     194                           Xana Blue             1732                 Barcelona        Barcelonès
+     195                              Lòxias             1694      Castellar del Vallès Vallès Occidental
+     196                              vàlius             1640                 Barcelona        Barcelonès
+     197                         Els Cundits             1624                 Barcelona        Barcelonès
+     198                La República Rumbera             1616                Granollers   Vallès Oriental
+     199                        Ivette Nadal             1609                Granollers   Vallès Oriental
+     200            La Salseta del Poble Sec             1569                 Barcelona        Barcelonès
+     201                  Els Amics de Manel             1543                    Sitges            Garraf
+     202                         Lídia Pujol             1526                 Barcelona        Barcelonès
+     203             The Goliards Collective             1488                 Barcelona        Barcelonès
+     204                               Flora             1456                 Barcelona        Barcelonès
+     205                        Gracià Pedro             1446                 Barcelona        Barcelonès
+     206                        La Masia BCN             1385                 Barcelona        Barcelonès
+     207                      Falsterbo Marí             1368                 Barcelona        Barcelonès
+     208                         Reconquesta             1351      Sant Sadurní d'Anoia       Alt Penedès
+     209                               Bigwé             1338                 Barcelona        Barcelonès
+     210                      Anna Roig Dolz             1331                 Barcelona        Barcelonès
+     211                                Bars             1325                  Sabadell Vallès Occidental
+     212                              Anímic             1315                  Collbató    Baix Llobregat
+     213                             Sherpah             1312                   Manresa             Bages
+     214                      Ernest Crusats             1293                       Vic             Osona
+     215                            Làd Cúig             1263            Arenys de Munt           Maresme
+     216                    Cobla Berga Jove             1227                     Berga          Berguedà
+     217                           La Màlaga             1182                 Barcelona        Barcelonès
+     218                La Porta dels Somnis             1180     Sant Cugat del Vallès Vallès Occidental
+     219                          Maria Coma             1164                 Barcelona        Barcelonès
+     220                            Quiròfan             1160                 Barcelona        Barcelonès
+     221                           Agudinine             1125             Molins de Rei    Baix Llobregat
+     222                        Oriol Canals             1084                 Barcelona        Barcelonès
+     223        Josep Xortó + The Congosound             1082                 Barcelona        Barcelonès
+     224                              gusset             1045                    Mataró           Maresme
+     225                      El Senyor Peix             1043            Malgrat de Mar           Maresme
+     226                               Ninus             1035                  Cardedeu   Vallès Oriental
+     227                                 Uri             1031                       Vic             Osona
+     228                   Landry el Rumbero             1017                 Barcelona        Barcelonès
+     229                              Mtines             1008                 Barcelona        Barcelonès
+     230                             Bikimel              985                  Sabadell Vallès Occidental
+     231                        Roger Argemí              957                  Igualada             Anoia
+     232                               Èxta6              953             Viladecavalls Vallès Occidental
+     233                          Lia Sampai              952     Cerdanyola del Vallès Vallès Occidental
+     234                     Sandra Bautista              924               Martorelles   Vallès Oriental
+     235                               Asra3              863                 Barcelona        Barcelonès
+     236                      Aiguadvalencia              844         Mollet del Vallès   Vallès Oriental
+     237                           Zadi Plug              792                 Barcelona        Barcelonès
+     238                            Zulabard              706                 Barcelona        Barcelonès
+     239                             PEGI 21              696                       Vic             Osona
+     240                                 III              657                 Barcelona        Barcelonès
+     241                           Slad Mobb              653                 Barcelona        Barcelonès
+     242                          ATALAYA 00              623                  Terrassa Vallès Occidental
+     243                          Titu Martí              522    Castellfollit del Boix             Bages
+     244                 Lírica de Trobadors              311                 Barcelona        Barcelonès
+     245                              Kid Pi              207                  Sabadell Vallès Occidental
+     246                    Land Of Coconuts               61                 Barcelona        Barcelonès
+----------------------------------------------------------------------------------
+Província : Tarragona
+Nombre de registres Província : 28
+ Ranking                                      Artista  Oients Mensuals                Municipi       Comarca
+       1                                  Figa Flawas          1932616                   Valls      Alt Camp
+       2                                        Buhos           399292                Calafell  Baix Penedès
+       3                                     Els Pets           128285               Constantí    Tarragonès
+       4                                  Lax'n'Busto           109895             el Vendrell  Baix Penedès
+       5                                Lluís Gavaldà            87077               Constantí    Tarragonès
+       6                                  Roba Estesa            60902                Cambrils     Baix Camp
+       7                              Pepet i Marieta            20533               Ulldecona       Montsià
+       8                                         Crim            19238               Tarragona    Tarragonès
+       9                                        Xeic!            16727                Rasquera Ribera d'Ebre
+      10                                  Porto Bello            13949               Altafulla    Tarragonès
+      11                                  Joan Rovira            13376                Camarles     Baix Ebre
+      12                               Mariona Escoda            10493                   Valls      Alt Camp
+      13                                    Whiskyn's             8798                    Reus     Baix Camp
+      14                                 Xarim Aresté             7071                    Flix Ribera d'Ebre
+      15                                  Groggy Rude             6827               Tarragona    Tarragonès
+      16                                Espaldamaceta             4482               Tarragona    Tarragonès
+      17 Quico el Célio, el Noi i el Mut de Ferreries             3248                 Tortosa     Baix Ebre
+      18                                  Som Mainada             3071 Sant Jaume dels Domenys  Baix Penedès
+      19                                     Segonamà             2089                 Riudoms     Baix Camp
+      20                                  Joan Masdéu             1890                    Reus     Baix Camp
+      21                              Vergüenza Ajena             1859               Tarragona    Tarragonès
+      22                           El Son de la Chama             1335               Tarragona    Tarragonès
+      23                              Miquel del Roig             1309        l'Ametlla de Mar     Baix Ebre
+      24                                 Anna d'Ivori             1210               Tarragona    Tarragonès
+      25                                    La Cosina             1093                    Reus     Baix Camp
+      26                      Petit Taller de Cançons             1061             el Vendrell  Baix Penedès
+      27                                 Èric Vinaixa              930                 Miravet Ribera d'Ebre
+      28                             Fescat goes punk              627                    Reus     Baix Camp
+----------------------------------------------------------------------------------
+Província : Girona
+Nombre de registres Província : 54
+ Ranking                   Artista  Oients Mensuals                   Municipi         Comarca
+       1                  Txarango           376189 Sant Joan de les Abadesses        Ripollès
+       2             Sopa de Cabra           181335                     Girona         Gironès
+       3                Pol Bordas           139363                     Girona         Gironès
+       4          Teràpia de Shock            98004                       Olot        Garrotxa
+       5               Lluís Llach            88809                     Verges    Baix Empordà
+       6            La Ludwig Band            32548                    Espolla     Alt Empordà
+       7        Boom Boom Fighters            27975                     Girona         Gironès
+       8                  Cookah P            24689                     Girona         Gironès
+       9              Miquel Abras            23574        la Bisbal d'Empordà    Baix Empordà
+      10                 Sangtraït            22690                la Jonquera     Alt Empordà
+      11               Núria López            22118                  Santa Pau        Garrotxa
+      12            Pep Puigdemont            17624                       Olot        Garrotxa
+      13               Adrià Puntí            15261                       Salt         Gironès
+      14                Josep Thió            12817                     Girona         Gironès
+      15 La Principal de la Bisbal            11743        la Bisbal d'Empordà    Baix Empordà
+      16                   Port Bo            11587                Palafrugell    Baix Empordà
+      17                  Sanjosex            10943        la Bisbal d'Empordà    Baix Empordà
+      18                      Cesc             9763                l'Armentera     Alt Empordà
+      19           Gerard Quintana             9745                     Girona         Gironès
+      20              Laura Gibert             9652              Lloret de Mar           Selva
+      21                    Mazoni             9310        la Bisbal d'Empordà    Baix Empordà
+      22 Els Pescadors de L'Escala             9144                   l'Escala     Alt Empordà
+      23          Els Atrapasomnis             8975          la Cellera de Ter           Selva
+      24                    Glaucs             7596                      Begur    Baix Empordà
+      25       Orchestra Fireluche             5631          la Cellera de Ter           Selva
+      26         Malson Atmosfèric             5228        Sant Julià de Ramis         Gironès
+      27     Remei de Ca la Fresca             4817                   Arbúcies           Selva
+      28                     Quimo             4653                     Girona         Gironès
+      29             Les anxovetes             4628                     Girona         Gironès
+      30            Hora de Joglar             4343                 Argelaguer        Garrotxa
+      31                     Fetus             4236        la Bisbal d'Empordà    Baix Empordà
+      32                 Umpah-Pah             3941                       Salt         Gironès
+      33           Sergi Carbonell             3827            Ribes de Freser        Ripollès
+      34               Germà Negre             3186                   Banyoles Pla de l'Estany
+      35             País de Xauxa             2883                   l'Escala     Alt Empordà
+      36             The Gruixut's             2752        la Bisbal d'Empordà    Baix Empordà
+      37                   Mesclat             2581                     Blanes           Selva
+      38              Paula Grande             2350                     Girona         Gironès
+      39                  CLASSE B             2317       Torroella de Montgrí    Baix Empordà
+      40                Àlex Pérez             1922                   Vidreres           Selva
+      41                 Aina Reig             1709                     Girona         Gironès
+      42                La Taverna             1574      Sant Feliu de Guíxols    Baix Empordà
+      43                   Canimas             1557    Sant Feliu de Pallerols        Garrotxa
+      44                   Gemma P             1555                      Roses     Alt Empordà
+      45           La Corda Fluixa             1553                  Puigcerdà        Cerdanya
+      46                    Fortuu             1544       Fornells de la Selva         Gironès
+      47                      Geri             1430      les Planes d'Hostoles        Garrotxa
+      48             Rock per Xics             1296                     Girona         Gironès
+      49             Vinnie Kairos             1101                     Girona         Gironès
+      50                Kabul Babà             1057                     Girona         Gironès
+      51               Roko Banana             1037                   Banyoles Pla de l'Estany
+      52                     Rikus              765          Cassà de la Selva         Gironès
+      53                    Tramma              521                     Girona         Gironès
+      54                     Bivac              389                   Banyoles Pla de l'Estany
+----------------------------------------------------------------------------------
+Província : València
+Nombre de registres Província : 31
+ Ranking                Artista  Oients Mensuals             Municipi        Comarca
+       1              La Fúmiga           403129               Alzira    Ribera Alta
+       2                    Zoo           357061               Gandia          Safor
+       3                 Auxili            81560            Ontinyent Vall d'Albaida
+       4            Xavi Sarrià            62729             València       València
+       5             Obrint Pas            62288             València       València
+       6           Pau Alabajos            28885              Torrent      Horta Sud
+       7              Pupil·les            22115             València       València
+       8                 Raimon            20510               Xàtiva        Costera
+       9 Pep Gimeno 'Botifarra'            18902               Xàtiva        Costera
+      10              Dj Plan B            17965             València       València
+      11                  Atupa            11540             Montcada     Horta Nord
+      12                 Maluks             9165             València       València
+      13               Malifeta             9000                    -            NaN
+      14              Àlex Blat             8332             València       València
+      15               La Maria             8301                Oliva          Safor
+      16                   TESA             7217           Almussafes   Ribera Baixa
+      17                  NIUSS             6157             Algemesí    Ribera Alta
+      18           Mireia Vives             4693               Llíria  Camp de Túria
+      19            Dani Miquel             4444            l'Alcúdia    Ribera Alta
+      20          Feliu Ventura             3857               Xàtiva        Costera
+      21             Miquel Gil             3768            Catarroja      Horta Sud
+      22        Jonatan Penalba             3767            l'Alcúdia    Ribera Alta
+      23                 Tardor             3657             València       València
+      24         Oller i Guerra             2872             València       València
+      25          Borja Penalba             2572             València       València
+      26               Ramonets             1802             València       València
+      27 Senior i el Cor Brutal             1672             València       València
+      28               Atzembla             1654 Alfara del Patriarca     Horta Nord
+      29         Bajoqueta Rock             1332   Riba-roja de Túria  Camp de Túria
+      30               Sva-ters              941             Alcàsser      Horta Sud
+      31                  Vaire              815             València       València
+----------------------------------------------------------------------------------
+Província : Illes Balears
+Nombre de registres Província : 37
+ Ranking                 Artista  Oients Mensuals              Municipi             Comarca
+       1            Antònia Font           112595                 Palma            Mallorca
+       2             Maria Jaume            66056  Lloret de Vistalegre     Pla de Mallorca
+       3              Maria Hein            49882              Felanitx             Migjorn
+       4                Xanguito            44914               Bunyola Serra de Tramuntana
+       5      Joan Miquel Oliver            31610                Sóller Serra de Tramuntana
+       6             OR (O-ERRA)            24503               Manacor             Llevant
+       7             Tomeu Penya            23536  Vilafranca de Bonany     Pla de Mallorca
+       8                   FADES            20103                 Palma            Mallorca
+       9             Pèl de Gall            19893                     -             Menorca
+      10           Joan Bibiloni            17723               Manacor             Llevant
+      11                   Reïna            16933               Manacor             Llevant
+      12                Da Souza            16294                 Palma            Mallorca
+      13                 Anegats            13757           Son Servera             Llevant
+      14            Ja t'ho diré            11971 Ciutadella de Menorca             Menorca
+      15             Rudymentari             7827 Ciutadella de Menorca             Menorca
+      16            Cris Juanico             6629 Ciutadella de Menorca             Menorca
+      17            Projecte Mut             5163               Eivissa             Eivissa
+      18                 Ossifar             3822                 Palma            Mallorca
+      19             Mar Grimalt             3371              Felanitx            Migjorn 
+      20                 Plan-ET             3122               Manacor             Llevant
+      21             Suc i Sopes             2790 Ciutadella de Menorca             Menorca
+      22             Ses Bubotes             2638                 Palma            Mallorca
+      23            Slim Samurai             2628               Eivissa             Eivissa
+      24                 Cucorba             2592                  Muro     Pla de Mallorca
+      25            Miquel Serra             2565               Manacor             Llevant
+      26             Lluís Cabot             2425              Marratxí             Raiguer
+      27             Júlia Colom             2357           Valldemossa Serra de Tramuntana
+      28       The Binigaus Band             1988                     -             Menorca
+      29             Anna Ferrer             1988                   Maó             Menorca
+      30            Jaume Sureda             1638                 Palma            Mallorca
+      31           Ánimos Parrec             1447  Vilafranca de Bonany     Pla de Mallorca
+      32              Pitxorines             1349               Manacor             Llevant
+      33                     Tiu             1276                 Palma            Mallorca
+      34            Salvatge Cor              971                 Palma            Mallorca
+      35 Ses Bísties de Mongofre              817                   Maó             Menorca
+      36             Dos Sipiots              743 Ciutadella de Menorca             Menorca
+      37        Juanjo Monserrat              406                 Palma            Mallorca
+----------------------------------------------------------------------------------
+Província : Lleida
+Nombre de registres Província : 15
+ Ranking                     Artista  Oients Mensuals         Municipi      Comarca
+       1                     Sexenni           169392           Lleida       Segrià
+       2             Renaldo & Clara            35116           Lleida       Segrià
+       3        El Petit de Cal Eril            23724       Massoteres      Segarra
+       4                       Koers            20121           Lleida       Segrià
+       5                 Joan Rafart            17763          Solsona     Solsonès
+       6                   Roger Mas            15782          Solsona     Solsonès
+       7               Lluís Sánchez            11203 Artesa de Lleida       Segrià
+       8                 Yung Rajola            10638           Lleida       Segrià
+       9               República Ska             5801           Lleida       Segrià
+      10   La Terrasseta de Preixens             3719          Tàrrega       Urgell
+      11              Pastorets Rock             2928           Lleida       Segrià
+      12                    Gemm Sol             1995          Solsona     Solsonès
+      13                   Selva Nua             1109           Lleida       Segrià
+      14                       Fauna              669       Mollerussa Pla d'Urgell
+      15 Milford Mocs & Gunther Cucs              143           Lleida       Segrià
+----------------------------------------------------------------------------------
+Província : Alacant
+Nombre de registres Província : 13
+ Ranking        Artista  Oients Mensuals   Municipi     Comarca
+       1 La Gossa Sorda            75490       Pego Marina Alta
+       2       Aspencat            61454       Xaló Marina Alta
+       3  Smoking Souls            54375       Pego Marina Alta
+       4      El Diluvi            36328   Castalla      Alcoià
+       5         Cactus            24849          -      Comtat
+       6 Sandra Monfort            19863  Pedreguer Marina Alta
+       7 Ovidi Montllor            17931      Alcoi      Alcoià
+       8         Vienna            11025    Alacant    Alacantí
+       9 Pep de la Tona             7634       Pego Marina Alta
+      10   Andreu Valor             1859 Cocentaina      Comtat
+      11         Quinto             1362       Pego Marina Alta
+      12 Victoria Maldi             1259    Alacant    Alacantí
+      13        Sa pena              531  Pedreguer Marina Alta
+----------------------------------------------------------------------------------
+Província : Castelló
+Nombre de registres Província : 2
+ Ranking     Artista  Oients Mensuals Municipi       Comarca
+       1      Esther            20824  Vinaròs Baix Maestrat
+       2 Aina Palmer               69 Borriana   Plana Baixa
+----------------------------------------------------------------------------------
+
+
+PER COMARCA
+Comarca : Barcelonès
+Nombre de registres Comarca : 110
+ Ranking                         Artista  Oients Mensuals                 Municipi
+       1                      Stay Homas           578774                Barcelona
+       2                         Julieta           518774                Barcelona
+       3                             Suu           301760                Barcelona
+       4                         Blaumut           209347                Barcelona
+       5                           Manel           201604                Barcelona
+       6           Els Amics de les Arts           157452                Barcelona
+       7                         Ginestà           156613                Barcelona
+       8                     Mama Dousha            96430                Barcelona
+       9         Al·lèrgiques al pol·len            94820                Barcelona
+      10                      Pau Vallvé            90381                Barcelona
+      11                    Socunbohemio            78511                Barcelona
+      12                  La Sra. Tomasa            73562                Barcelona
+      13                          Marala            72289                Barcelona
+      14                           Adala            68192                Barcelona
+      15                Dàmaris Gelabert            57411                Barcelona
+      16                         Mishima            51589                Barcelona
+      17                 El Pony Pisador            41318                Barcelona
+      18                  Homes Llúdriga            35680                Barcelona
+      19                       Manu Guix            34422                Barcelona
+      20                   P.A.W.N. Gang            32495                Barcelona
+      21                            Iglú            29326                Barcelona
+      22                            Maio            29202                Barcelona
+      23                         jovedry            28146                Barcelona
+      24                      Edu Esteve            25200                 Badalona
+      25                       David Ros            21349                Barcelona
+      26                         Scorpio            20688                Barcelona
+      27                           Xiula            20402                Barcelona
+      28                    Ara va de bo            19689                Barcelona
+      29                     Andreu Rifé            19184                Barcelona
+      30                       Zulu 9.30            18793                Barcelona
+      31                 Guillem Gisbert            18608                Barcelona
+      32                    Dagoll Dagom            16498                Barcelona
+      33                        Svetlana            15789                Barcelona
+      34                     Dr. Calypso            14254                Barcelona
+      35           Pirat's Sound Sistema            14123                Barcelona
+      36                      Senyor Oca            13780                Barcelona
+      37                       Siderland            12999                Barcelona
+      38                        Good Jan            12836                Barcelona
+      39                        Lil Guiu            11966                Barcelona
+      40                      Júlia Blum            10473                Barcelona
+      41                      Teuma Thug            10406                Barcelona
+      42                  Jordi Tonietti            10315                Barcelona
+      43                     Lali BeGood            10223                Barcelona
+      44         Achilifunk Sound System             9777                Barcelona
+      45                         Vittara             9571                Barcelona
+      46                            CoCo             8798                Barcelona
+      47                       Yung Mare             7546                Barcelona
+      48                            Azul             6995                Barcelona
+      49                       Still ill             6910                Barcelona
+      50                    Eloi Sayrach             5625                Barcelona
+      51                           Balma             5561                Barcelona
+      52                      Lil Russia             5510                Barcelona
+      53                          Guineu             5057                Barcelona
+      54                       Com sona?             5013                Barcelona
+      55                Los Barrankillos             4800 Santa Coloma de Gramenet
+      56                         Julen G             4758                Barcelona
+      57                          Roslyn             4180                Barcelona
+      58                    Sergi Albert             4173                Barcelona
+      59                         Skatalà             4010                Barcelona
+      60                           Ailux             3760                Barcelona
+      61                    Toni Giménez             3406                Barcelona
+      62          Patriarcas de la Rumba             3402                Barcelona
+      63                          Mosaic             3375                Barcelona
+      64                           Acros             3343                Barcelona
+      65                 Enemic interior             3290                Barcelona
+      66                       Caïm Riba             3044                Barcelona
+      67                   Quart primera             2898                Barcelona
+      68                Arrels de Gràcia             2696                Barcelona
+      69                           Ocumé             2656                Barcelona
+      70                      Guillamino             2612                Barcelona
+      71                 Estúpida Erikah             2460                Barcelona
+      72          Autèntic Home Llúdriga             2400                Barcelona
+      73                          Henrio             2291                Barcelona
+      74                   Jofre Bardagí             2284                Barcelona
+      75 Els Terrícoles del Capità Twang             2238                Barcelona
+      76                      Nuri Total             2100                Barcelona
+      77                            b1n0             2076                Barcelona
+      78                       Pilseners             2055                Barcelona
+      79                        Gigi Ros             1964                Barcelona
+      80                         Batiste             1938                Barcelona
+      81         La Tresca i la Verdesca             1898                 Badalona
+      82                     Delta Delta             1865                Barcelona
+      83                  Roger Berruezo             1802                Barcelona
+      84                      Toni Xuclà             1781                Barcelona
+      85                       Xana Blue             1732                Barcelona
+      86                          vàlius             1640                Barcelona
+      87                     Els Cundits             1624                Barcelona
+      88        La Salseta del Poble Sec             1569                Barcelona
+      89                     Lídia Pujol             1526                Barcelona
+      90         The Goliards Collective             1488                Barcelona
+      91                           Flora             1456                Barcelona
+      92                    Gracià Pedro             1446                Barcelona
+      93                    La Masia BCN             1385                Barcelona
+      94                  Falsterbo Marí             1368                Barcelona
+      95                           Bigwé             1338                Barcelona
+      96                  Anna Roig Dolz             1331                Barcelona
+      97                       La Màlaga             1182                Barcelona
+      98                      Maria Coma             1164                Barcelona
+      99                        Quiròfan             1160                Barcelona
+     100                    Oriol Canals             1084                Barcelona
+     101    Josep Xortó + The Congosound             1082                Barcelona
+     102               Landry el Rumbero             1017                Barcelona
+     103                          Mtines             1008                Barcelona
+     104                           Asra3              863                Barcelona
+     105                       Zadi Plug              792                Barcelona
+     106                        Zulabard              706                Barcelona
+     107                             III              657                Barcelona
+     108                       Slad Mobb              653                Barcelona
+     109             Lírica de Trobadors              311                Barcelona
+     110                Land Of Coconuts               61                Barcelona
+----------------------------------------------------------------------------------
+Comarca : Maresme
+Nombre de registres Comarca : 24
+ Ranking                 Artista  Oients Mensuals         Municipi
+       1               The Tyets           913403           Mataró
+       2                 Mushkaa           877615  Vilassar de Mar
+       3                   roots           324878           Mataró
+       4        Judit Neddermann            69708  Vilassar de Mar
+       5                Calagher            55767           Mataró
+       6               La Trinca            55757     Canet de Mar
+       7                 Dani6ix            30940             Teià
+       8                  IZZKID            30696             Teià
+       9             Ebri Knight            27581        Argentona
+      10 Baya Baye MGT Los Sosis            19128          Montgat
+      11                  Andana            15689           Mataró
+      12            Yung Rovelló            12128          Calella
+      13              Toti Soler            11195 Vilassar de Dalt
+      14             Marc Parrot             8333            Tiana
+      15            La Coixinera             7691           Mataró
+      16             N'Gai N'Gai             3290  Sant Pol de Mar
+      17                  Alvert             3084           Mataró
+      18           Arc de Triomf             2572  Vilassar de Mar
+      19         Filippo Landini             2132     Canet de Mar
+      20           Mr. Freak Ska             1755           Mataró
+      21           Chung-man Kim             1753    Premià de Mar
+      22                Làd Cúig             1263   Arenys de Munt
+      23                  gusset             1045           Mataró
+      24          El Senyor Peix             1043   Malgrat de Mar
+----------------------------------------------------------------------------------
+Comarca : Alt Camp
+Nombre de registres Comarca : 2
+ Ranking        Artista  Oients Mensuals Municipi
+       1    Figa Flawas          1932616    Valls
+       2 Mariona Escoda            10493    Valls
+----------------------------------------------------------------------------------
+Comarca : Osona
+Nombre de registres Comarca : 15
+ Ranking                     Artista  Oients Mensuals    Municipi
+       1               Oques Grasses           833867 Roda de Ter
+       2                         Sau            99067         Vic
+       3              Guillem Ramisa            66105 Roda de Ter
+       4               Pelat i Pelut            59872 Folgueroles
+       5                     La Iaia            25367         Vic
+       6                   Esquirols            23784  l'Esquirol
+       7 Marcel Lázara i Júlia Arrey            17448     Manlleu
+       8                Quimi Portet            14544         Vic
+       9              The Demencials            10712         Vic
+      10                      Obeses            10592        Tona
+      11                 Paula Valls             6020     Manlleu
+      12                 Dan Peralbo             3663     Torelló
+      13              Ernest Crusats             1293         Vic
+      14                         Uri             1031         Vic
+      15                     PEGI 21              696         Vic
+----------------------------------------------------------------------------------
+Comarca : Vallès Occidental
+Nombre de registres Comarca : 37
+ Ranking              Artista  Oients Mensuals               Municipi
+       1               31 FAM           246474               Sabadell
+       2     Flashy Ice Cream           175450               Sabadell
+       3         Doctor Prats           157650               Terrassa
+       4              Lildami            91477               Terrassa
+       5              Ven'nus            67366               Sabadell
+       6             Triquell            60836 Sant Quirze del Vallès
+       7   La Guardiola Groga            33195               Terrassa
+       8         Roger Padrós            25139                Polinyà
+       9                 Xicu            20559          Castellbisbal
+      10               enMatu            20475               Terrassa
+      11            bert bert            18140               Sabadell
+      12               Vernat            15033               Sabadell
+      13            Sense Sal            14588               Terrassa
+      14             Sr. Chen            13174                   Rubí
+      15            Macedònia            11924   Castellar del Vallès
+      16            AlQuadrat             6144 Sant Quirze del Vallès
+      17         Gerard Aledo             5523 Sant Quirze del Vallès
+      18              Chill C             4580               Sabadell
+      19                FRANC             4295  Sant Cugat del Vallès
+      20                Batec             4254                   Rubí
+      21          Galgo Lento             4059               Terrassa
+      22      The Anti-Patiks             3900               Terrassa
+      23          Gemma Humet             3791               Terrassa
+      24         Carles Belda             3068               Sabadell
+      25          At Versaris             2987               Sabadell
+      26          Pol Orobitg             2641  Cerdanyola del Vallès
+      27        Ramon Calduch             2547      Montcada i Reixac
+      28        Ferran Savall             1950  Cerdanyola del Vallès
+      29             Panellet             1808               Terrassa
+      30               Lòxias             1694   Castellar del Vallès
+      31                 Bars             1325               Sabadell
+      32 La Porta dels Somnis             1180  Sant Cugat del Vallès
+      33              Bikimel              985               Sabadell
+      34                Èxta6              953          Viladecavalls
+      35           Lia Sampai              952  Cerdanyola del Vallès
+      36           ATALAYA 00              623               Terrassa
+      37               Kid Pi              207               Sabadell
+----------------------------------------------------------------------------------
+Comarca : Vallès Oriental
+Nombre de registres Comarca : 18
+ Ranking                             Artista  Oients Mensuals                 Municipi
+       1                        Els Catarres           370176               Aiguafreda
+       2                           Gertrudis            67137               la Garriga
+       3                                Lluc            48557                 Cardedeu
+       4                    La Troba Kung-Fú            21649               la Garriga
+       5 Joan Garriga i el Mariatxi galàctic            15190               la Garriga
+       6                           Mainasons            11051               la Garriga
+       7                               Ariox            10186                 Cardedeu
+       8                     The Crab Apples             9686 Santa Eulàlia de Ronçana
+       9                         Joan Colomo             9093              Sant Celoni
+      10                       Pere Espinosa             4652              Sant Celoni
+      11                            Massaviu             4530                 Cardedeu
+      12                            roserona             3721                 Cardedeu
+      13                  Els Surfing Sirles             3138              Sant Celoni
+      14                La República Rumbera             1616               Granollers
+      15                        Ivette Nadal             1609               Granollers
+      16                               Ninus             1035                 Cardedeu
+      17                     Sandra Bautista              924              Martorelles
+      18                      Aiguadvalencia              844        Mollet del Vallès
+----------------------------------------------------------------------------------
+Comarca : Baix Penedès
+Nombre de registres Comarca : 4
+ Ranking                 Artista  Oients Mensuals                Municipi
+       1                   Buhos           399292                Calafell
+       2             Lax'n'Busto           109895             el Vendrell
+       3             Som Mainada             3071 Sant Jaume dels Domenys
+       4 Petit Taller de Cançons             1061             el Vendrell
+----------------------------------------------------------------------------------
+Comarca : Gironès
+Nombre de registres Comarca : 19
+ Ranking            Artista  Oients Mensuals             Municipi
+       1      Sopa de Cabra           181335               Girona
+       2         Pol Bordas           139363               Girona
+       3 Boom Boom Fighters            27975               Girona
+       4           Cookah P            24689               Girona
+       5        Adrià Puntí            15261                 Salt
+       6         Josep Thió            12817               Girona
+       7    Gerard Quintana             9745               Girona
+       8  Malson Atmosfèric             5228  Sant Julià de Ramis
+       9              Quimo             4653               Girona
+      10      Les anxovetes             4628               Girona
+      11          Umpah-Pah             3941                 Salt
+      12       Paula Grande             2350               Girona
+      13          Aina Reig             1709               Girona
+      14             Fortuu             1544 Fornells de la Selva
+      15      Rock per Xics             1296               Girona
+      16      Vinnie Kairos             1101               Girona
+      17         Kabul Babà             1057               Girona
+      18              Rikus              765    Cassà de la Selva
+      19             Tramma              521               Girona
+----------------------------------------------------------------------------------
+Comarca : Bages
+Nombre de registres Comarca : 12
+ Ranking              Artista  Oients Mensuals               Municipi
+       1                 Beth           250480                  Súria
+       2               Gossos            59963                Manresa
+       3            Strombers            40332                Cardona
+       4             Sara Roy            32029                Manresa
+       5 Jo Jet i Maria Ribot            14911                Manresa
+       6         David Rosell             6502                Manresa
+       7       Damià Olivella             6369                Manresa
+       8               SDP509             6351                Manresa
+       9           Anaïs Vila             3923              Santpedor
+      10         Salva Racero             1941                Manresa
+      11              Sherpah             1312                Manresa
+      12           Titu Martí              522 Castellfollit del Boix
+----------------------------------------------------------------------------------
+Comarca : Ribera Alta
+Nombre de registres Comarca : 4
+ Ranking         Artista  Oients Mensuals  Municipi
+       1       La Fúmiga           403129    Alzira
+       2           NIUSS             6157  Algemesí
+       3     Dani Miquel             4444 l'Alcúdia
+       4 Jonatan Penalba             3767 l'Alcúdia
+----------------------------------------------------------------------------------
+Comarca : Ripollès
+Nombre de registres Comarca : 2
+ Ranking         Artista  Oients Mensuals                   Municipi
+       1        Txarango           376189 Sant Joan de les Abadesses
+       2 Sergi Carbonell             3827            Ribes de Freser
+----------------------------------------------------------------------------------
+Comarca : Safor
+Nombre de registres Comarca : 2
+ Ranking  Artista  Oients Mensuals Municipi
+       1      Zoo           357061   Gandia
+       2 La Maria             8301    Oliva
+----------------------------------------------------------------------------------
+Comarca : Baix Llobregat
+Nombre de registres Comarca : 12
+ Ranking        Artista  Oients Mensuals                Municipi
+       1     Joan Dausà           241972 Sant Feliu de Llobregat
+       2   Ferran Palau            38875                Collbató
+       3        Ambauka            21908           Molins de Rei
+       4   The Penguins            16489 Sant Feliu de Llobregat
+       5          CyBee            15906 Sant Feliu de Llobregat
+       6     Muyayo Rif             6440   Cornellà de Llobregat
+       7         Seikos             4907 Sant Feliu de Llobregat
+       8    Les Montses             4092  Sant Vicenç dels Horts
+       9 Ramon Muntaner             2675   Cornellà de Llobregat
+      10      Bons nois             1865 Sant Feliu de Llobregat
+      11         Anímic             1315                Collbató
+      12      Agudinine             1125           Molins de Rei
+----------------------------------------------------------------------------------
+Comarca : Tarragonès
+Nombre de registres Comarca : 9
+ Ranking            Artista  Oients Mensuals  Municipi
+       1           Els Pets           128285 Constantí
+       2      Lluís Gavaldà            87077 Constantí
+       3               Crim            19238 Tarragona
+       4        Porto Bello            13949 Altafulla
+       5        Groggy Rude             6827 Tarragona
+       6      Espaldamaceta             4482 Tarragona
+       7    Vergüenza Ajena             1859 Tarragona
+       8 El Son de la Chama             1335 Tarragona
+       9       Anna d'Ivori             1210 Tarragona
+----------------------------------------------------------------------------------
+Comarca : Segrià
+Nombre de registres Comarca : 9
+ Ranking                     Artista  Oients Mensuals         Municipi
+       1                     Sexenni           169392           Lleida
+       2             Renaldo & Clara            35116           Lleida
+       3                       Koers            20121           Lleida
+       4               Lluís Sánchez            11203 Artesa de Lleida
+       5                 Yung Rajola            10638           Lleida
+       6               República Ska             5801           Lleida
+       7              Pastorets Rock             2928           Lleida
+       8                   Selva Nua             1109           Lleida
+       9 Milford Mocs & Gunther Cucs              143           Lleida
+----------------------------------------------------------------------------------
+Comarca : Marina Alta
+Nombre de registres Comarca : 7
+ Ranking        Artista  Oients Mensuals  Municipi
+       1 La Gossa Sorda            75490      Pego
+       2       Aspencat            61454      Xaló
+       3  Smoking Souls            54375      Pego
+       4 Sandra Monfort            19863 Pedreguer
+       5 Pep de la Tona             7634      Pego
+       6         Quinto             1362      Pego
+       7        Sa pena              531 Pedreguer
+----------------------------------------------------------------------------------
+Comarca : València
+Nombre de registres Comarca : 12
+ Ranking                Artista  Oients Mensuals Municipi
+       1            Xavi Sarrià            62729 València
+       2             Obrint Pas            62288 València
+       3              Pupil·les            22115 València
+       4              Dj Plan B            17965 València
+       5                 Maluks             9165 València
+       6              Àlex Blat             8332 València
+       7                 Tardor             3657 València
+       8         Oller i Guerra             2872 València
+       9          Borja Penalba             2572 València
+      10               Ramonets             1802 València
+      11 Senior i el Cor Brutal             1672 València
+      12                  Vaire              815 València
+----------------------------------------------------------------------------------
+Comarca : Baix Empordà
+Nombre de registres Comarca : 11
+ Ranking                   Artista  Oients Mensuals              Municipi
+       1               Lluís Llach            88809                Verges
+       2              Miquel Abras            23574   la Bisbal d'Empordà
+       3 La Principal de la Bisbal            11743   la Bisbal d'Empordà
+       4                   Port Bo            11587           Palafrugell
+       5                  Sanjosex            10943   la Bisbal d'Empordà
+       6                    Mazoni             9310   la Bisbal d'Empordà
+       7                    Glaucs             7596                 Begur
+       8                     Fetus             4236   la Bisbal d'Empordà
+       9             The Gruixut's             2752   la Bisbal d'Empordà
+      10                  CLASSE B             2317  Torroella de Montgrí
+      11                La Taverna             1574 Sant Feliu de Guíxols
+----------------------------------------------------------------------------------
+Comarca : Mallorca
+Nombre de registres Comarca : 9
+ Ranking          Artista  Oients Mensuals Municipi
+       1     Antònia Font           112595    Palma
+       2            FADES            20103    Palma
+       3         Da Souza            16294    Palma
+       4          Ossifar             3822    Palma
+       5      Ses Bubotes             2638    Palma
+       6     Jaume Sureda             1638    Palma
+       7              Tiu             1276    Palma
+       8     Salvatge Cor              971    Palma
+       9 Juanjo Monserrat              406    Palma
+----------------------------------------------------------------------------------
+Comarca : Garrotxa
+Nombre de registres Comarca : 6
+ Ranking          Artista  Oients Mensuals                Municipi
+       1 Teràpia de Shock            98004                    Olot
+       2      Núria López            22118               Santa Pau
+       3   Pep Puigdemont            17624                    Olot
+       4   Hora de Joglar             4343              Argelaguer
+       5          Canimas             1557 Sant Feliu de Pallerols
+       6             Geri             1430   les Planes d'Hostoles
+----------------------------------------------------------------------------------
+Comarca : Alt Penedès
+Nombre de registres Comarca : 5
+ Ranking                          Artista  Oients Mensuals                  Municipi
+       1                     Cesk Freixas           100763 Sant Pere de Riudebitlles
+       2                           Compte            14149                Torrelavit
+       3                       Inadaptats             9604    Vilafranca del Penedès
+       4 Anna Roig i l'Ombre de Ton Chien             5994      Sant Sadurní d'Anoia
+       5                      Reconquesta             1351      Sant Sadurní d'Anoia
+----------------------------------------------------------------------------------
+Comarca : Pla de Mallorca
+Nombre de registres Comarca : 4
+ Ranking       Artista  Oients Mensuals             Municipi
+       1   Maria Jaume            66056 Lloret de Vistalegre
+       2   Tomeu Penya            23536 Vilafranca de Bonany
+       3       Cucorba             2592                 Muro
+       4 Ánimos Parrec             1447 Vilafranca de Bonany
+----------------------------------------------------------------------------------
+Comarca : Vall d'Albaida
+Nombre de registres Comarca : 1
+ Ranking Artista  Oients Mensuals  Municipi
+       1  Auxili            81560 Ontinyent
+----------------------------------------------------------------------------------
+Comarca : Llevant
+Nombre de registres Comarca : 7
+ Ranking       Artista  Oients Mensuals    Municipi
+       1   OR (O-ERRA)            24503     Manacor
+       2 Joan Bibiloni            17723     Manacor
+       3         Reïna            16933     Manacor
+       4       Anegats            13757 Son Servera
+       5       Plan-ET             3122     Manacor
+       6  Miquel Serra             2565     Manacor
+       7    Pitxorines             1349     Manacor
+----------------------------------------------------------------------------------
+Comarca : Serra de Tramuntana
+Nombre de registres Comarca : 3
+ Ranking            Artista  Oients Mensuals    Municipi
+       1           Xanguito            44914     Bunyola
+       2 Joan Miquel Oliver            31610      Sóller
+       3        Júlia Colom             2357 Valldemossa
+----------------------------------------------------------------------------------
+Comarca : Alt Empordà
+Nombre de registres Comarca : 6
+ Ranking                   Artista  Oients Mensuals    Municipi
+       1            La Ludwig Band            32548     Espolla
+       2                 Sangtraït            22690 la Jonquera
+       3                      Cesc             9763 l'Armentera
+       4 Els Pescadors de L'Escala             9144    l'Escala
+       5             País de Xauxa             2883    l'Escala
+       6                   Gemma P             1555       Roses
+----------------------------------------------------------------------------------
+Comarca : Baix Camp
+Nombre de registres Comarca : 6
+ Ranking          Artista  Oients Mensuals Municipi
+       1      Roba Estesa            60902 Cambrils
+       2        Whiskyn's             8798     Reus
+       3         Segonamà             2089  Riudoms
+       4      Joan Masdéu             1890     Reus
+       5        La Cosina             1093     Reus
+       6 Fescat goes punk              627     Reus
+----------------------------------------------------------------------------------
+Comarca : Menorca
+Nombre de registres Comarca : 9
+ Ranking                 Artista  Oients Mensuals              Municipi
+       1             Pèl de Gall            19893                     -
+       2            Ja t'ho diré            11971 Ciutadella de Menorca
+       3             Rudymentari             7827 Ciutadella de Menorca
+       4            Cris Juanico             6629 Ciutadella de Menorca
+       5             Suc i Sopes             2790 Ciutadella de Menorca
+       6       The Binigaus Band             1988                     -
+       7             Anna Ferrer             1988                   Maó
+       8 Ses Bísties de Mongofre              817                   Maó
+       9             Dos Sipiots              743 Ciutadella de Menorca
+----------------------------------------------------------------------------------
+Comarca : Alcoià
+Nombre de registres Comarca : 2
+ Ranking        Artista  Oients Mensuals Municipi
+       1      El Diluvi            36328 Castalla
+       2 Ovidi Montllor            17931    Alcoi
+----------------------------------------------------------------------------------
+Comarca : Migjorn
+Nombre de registres Comarca : 1
+ Ranking    Artista  Oients Mensuals Municipi
+       1 Maria Hein            49882 Felanitx
+----------------------------------------------------------------------------------
+Comarca : Costera
+Nombre de registres Comarca : 3
+ Ranking                Artista  Oients Mensuals Municipi
+       1                 Raimon            20510   Xàtiva
+       2 Pep Gimeno 'Botifarra'            18902   Xàtiva
+       3          Feliu Ventura             3857   Xàtiva
+----------------------------------------------------------------------------------
+Comarca : Anoia
+Nombre de registres Comarca : 5
+ Ranking      Artista  Oients Mensuals Municipi
+       1       miquel            28567 Igualada
+       2 Quico Tretze             4413 Igualada
+       3  Marialluïsa             3735 Igualada
+       4      Paunezz             3669 Igualada
+       5 Roger Argemí              957 Igualada
+----------------------------------------------------------------------------------
+Comarca : Solsonès
+Nombre de registres Comarca : 3
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Joan Rafart            17763  Solsona
+       2   Roger Mas            15782  Solsona
+       3    Gemm Sol             1995  Solsona
+----------------------------------------------------------------------------------
+Comarca : Horta Sud
+Nombre de registres Comarca : 3
+ Ranking      Artista  Oients Mensuals  Municipi
+       1 Pau Alabajos            28885   Torrent
+       2   Miquel Gil             3768 Catarroja
+       3     Sva-ters              941  Alcàsser
+----------------------------------------------------------------------------------
+Comarca : Selva
+Nombre de registres Comarca : 6
+ Ranking               Artista  Oients Mensuals          Municipi
+       1          Laura Gibert             9652     Lloret de Mar
+       2      Els Atrapasomnis             8975 la Cellera de Ter
+       3   Orchestra Fireluche             5631 la Cellera de Ter
+       4 Remei de Ca la Fresca             4817          Arbúcies
+       5               Mesclat             2581            Blanes
+       6            Àlex Pérez             1922          Vidreres
+----------------------------------------------------------------------------------
+Comarca : Comtat
+Nombre de registres Comarca : 2
+ Ranking      Artista  Oients Mensuals   Municipi
+       1       Cactus            24849          -
+       2 Andreu Valor             1859 Cocentaina
+----------------------------------------------------------------------------------
+Comarca : Ribera d'Ebre
+Nombre de registres Comarca : 3
+ Ranking      Artista  Oients Mensuals Municipi
+       1        Xeic!            16727 Rasquera
+       2 Xarim Aresté             7071     Flix
+       3 Èric Vinaixa              930  Miravet
+----------------------------------------------------------------------------------
+Comarca : Segarra
+Nombre de registres Comarca : 1
+ Ranking              Artista  Oients Mensuals   Municipi
+       1 El Petit de Cal Eril            23724 Massoteres
+----------------------------------------------------------------------------------
+Comarca : Baix Maestrat
+Nombre de registres Comarca : 1
+ Ranking Artista  Oients Mensuals Municipi
+       1  Esther            20824  Vinaròs
+----------------------------------------------------------------------------------
+Comarca : Montsià
+Nombre de registres Comarca : 1
+ Ranking         Artista  Oients Mensuals  Municipi
+       1 Pepet i Marieta            20533 Ulldecona
+----------------------------------------------------------------------------------
+Comarca : Baix Ebre
+Nombre de registres Comarca : 3
+ Ranking                                      Artista  Oients Mensuals         Municipi
+       1                                  Joan Rovira            13376         Camarles
+       2 Quico el Célio, el Noi i el Mut de Ferreries             3248          Tortosa
+       3                              Miquel del Roig             1309 l'Ametlla de Mar
+----------------------------------------------------------------------------------
+Comarca : Lluçanès
+Nombre de registres Comarca : 2
+ Ranking   Artista  Oients Mensuals          Municipi
+       1 Mar Pujol            12633 Prats de Lluçanès
+       2    Nyandú             3951            Oristà
+----------------------------------------------------------------------------------
+Comarca : Horta Nord
+Nombre de registres Comarca : 2
+ Ranking  Artista  Oients Mensuals             Municipi
+       1    Atupa            11540             Montcada
+       2 Atzembla             1654 Alfara del Patriarca
+----------------------------------------------------------------------------------
+Comarca : Alacantí
+Nombre de registres Comarca : 2
+ Ranking        Artista  Oients Mensuals Municipi
+       1         Vienna            11025  Alacant
+       2 Victoria Maldi             1259  Alacant
+----------------------------------------------------------------------------------
+Comarca : Berguedà
+Nombre de registres Comarca : 2
+ Ranking          Artista  Oients Mensuals Municipi
+       1            Brams            10984    Berga
+       2 Cobla Berga Jove             1227    Berga
+----------------------------------------------------------------------------------
+Comarca : Eivissa
+Nombre de registres Comarca : 2
+ Ranking      Artista  Oients Mensuals Municipi
+       1 Projecte Mut             5163  Eivissa
+       2 Slim Samurai             2628  Eivissa
+----------------------------------------------------------------------------------
+Comarca : Ribera Baixa
+Nombre de registres Comarca : 1
+ Ranking Artista  Oients Mensuals   Municipi
+       1    TESA             7217 Almussafes
+----------------------------------------------------------------------------------
+Comarca : Camp de Túria
+Nombre de registres Comarca : 2
+ Ranking        Artista  Oients Mensuals           Municipi
+       1   Mireia Vives             4693             Llíria
+       2 Bajoqueta Rock             1332 Riba-roja de Túria
+----------------------------------------------------------------------------------
+Comarca : Pla de l'Estany
+Nombre de registres Comarca : 3
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Germà Negre             3186 Banyoles
+       2 Roko Banana             1037 Banyoles
+       3       Bivac              389 Banyoles
+----------------------------------------------------------------------------------
+Comarca : Garraf
+Nombre de registres Comarca : 2
+ Ranking            Artista  Oients Mensuals Municipi
+       1               OKDW             2921 Cubelles
+       2 Els Amics de Manel             1543   Sitges
+----------------------------------------------------------------------------------
+Comarca : Urgell
+Nombre de registres Comarca : 1
+ Ranking                   Artista  Oients Mensuals Municipi
+       1 La Terrasseta de Preixens             3719  Tàrrega
+----------------------------------------------------------------------------------
+Comarca : Moianès
+Nombre de registres Comarca : 1
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Uri Santafé             3486     Moià
+----------------------------------------------------------------------------------
+Comarca : Migjorn 
+Nombre de registres Comarca : 1
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Mar Grimalt             3371 Felanitx
+----------------------------------------------------------------------------------
+Comarca : Raiguer
+Nombre de registres Comarca : 1
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Lluís Cabot             2425 Marratxí
+----------------------------------------------------------------------------------
+Comarca : Cerdanya
+Nombre de registres Comarca : 1
+ Ranking         Artista  Oients Mensuals  Municipi
+       1 La Corda Fluixa             1553 Puigcerdà
+----------------------------------------------------------------------------------
+Comarca : Pla d'Urgell
+Nombre de registres Comarca : 1
+ Ranking Artista  Oients Mensuals   Municipi
+       1   Fauna              669 Mollerussa
+----------------------------------------------------------------------------------
+Comarca : Plana Baixa
+Nombre de registres Comarca : 1
+ Ranking     Artista  Oients Mensuals Municipi
+       1 Aina Palmer               69 Borriana
+----------------------------------------------------------------------------------
+
+
+PER MUNICIPI
+Municipi : Barcelona
+Nombre de registres Municipi : 107
+Suma d'Oients Mensuals entre habitants: 2.112
+ Ranking                         Artista  Oients Mensuals
+       1                      Stay Homas           578774
+       2                         Julieta           518774
+       3                             Suu           301760
+       4                         Blaumut           209347
+       5                           Manel           201604
+       6           Els Amics de les Arts           157452
+       7                         Ginestà           156613
+       8                     Mama Dousha            96430
+       9         Al·lèrgiques al pol·len            94820
+      10                      Pau Vallvé            90381
+      11                    Socunbohemio            78511
+      12                  La Sra. Tomasa            73562
+      13                          Marala            72289
+      14                           Adala            68192
+      15                Dàmaris Gelabert            57411
+      16                         Mishima            51589
+      17                 El Pony Pisador            41318
+      18                  Homes Llúdriga            35680
+      19                       Manu Guix            34422
+      20                   P.A.W.N. Gang            32495
+      21                            Iglú            29326
+      22                            Maio            29202
+      23                         jovedry            28146
+      24                       David Ros            21349
+      25                         Scorpio            20688
+      26                           Xiula            20402
+      27                    Ara va de bo            19689
+      28                     Andreu Rifé            19184
+      29                       Zulu 9.30            18793
+      30                 Guillem Gisbert            18608
+      31                    Dagoll Dagom            16498
+      32                        Svetlana            15789
+      33                     Dr. Calypso            14254
+      34           Pirat's Sound Sistema            14123
+      35                      Senyor Oca            13780
+      36                       Siderland            12999
+      37                        Good Jan            12836
+      38                        Lil Guiu            11966
+      39                      Júlia Blum            10473
+      40                      Teuma Thug            10406
+      41                  Jordi Tonietti            10315
+      42                     Lali BeGood            10223
+      43         Achilifunk Sound System             9777
+      44                         Vittara             9571
+      45                            CoCo             8798
+      46                       Yung Mare             7546
+      47                            Azul             6995
+      48                       Still ill             6910
+      49                    Eloi Sayrach             5625
+      50                           Balma             5561
+      51                      Lil Russia             5510
+      52                          Guineu             5057
+      53                       Com sona?             5013
+      54                         Julen G             4758
+      55                          Roslyn             4180
+      56                    Sergi Albert             4173
+      57                         Skatalà             4010
+      58                           Ailux             3760
+      59                    Toni Giménez             3406
+      60          Patriarcas de la Rumba             3402
+      61                          Mosaic             3375
+      62                           Acros             3343
+      63                 Enemic interior             3290
+      64                       Caïm Riba             3044
+      65                   Quart primera             2898
+      66                Arrels de Gràcia             2696
+      67                           Ocumé             2656
+      68                      Guillamino             2612
+      69                 Estúpida Erikah             2460
+      70          Autèntic Home Llúdriga             2400
+      71                          Henrio             2291
+      72                   Jofre Bardagí             2284
+      73 Els Terrícoles del Capità Twang             2238
+      74                      Nuri Total             2100
+      75                            b1n0             2076
+      76                       Pilseners             2055
+      77                        Gigi Ros             1964
+      78                         Batiste             1938
+      79                     Delta Delta             1865
+      80                  Roger Berruezo             1802
+      81                      Toni Xuclà             1781
+      82                       Xana Blue             1732
+      83                          vàlius             1640
+      84                     Els Cundits             1624
+      85        La Salseta del Poble Sec             1569
+      86                     Lídia Pujol             1526
+      87         The Goliards Collective             1488
+      88                           Flora             1456
+      89                    Gracià Pedro             1446
+      90                    La Masia BCN             1385
+      91                  Falsterbo Marí             1368
+      92                           Bigwé             1338
+      93                  Anna Roig Dolz             1331
+      94                       La Màlaga             1182
+      95                      Maria Coma             1164
+      96                        Quiròfan             1160
+      97                    Oriol Canals             1084
+      98    Josep Xortó + The Congosound             1082
+      99               Landry el Rumbero             1017
+     100                          Mtines             1008
+     101                           Asra3              863
+     102                       Zadi Plug              792
+     103                        Zulabard              706
+     104                             III              657
+     105                       Slad Mobb              653
+     106             Lírica de Trobadors              311
+     107                Land Of Coconuts               61
+----------------------------------------------------------------------------------
+Municipi : Valls
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 79.385
+ Ranking        Artista  Oients Mensuals
+       1    Figa Flawas          1932616
+       2 Mariona Escoda            10493
+----------------------------------------------------------------------------------
+Municipi : Mataró
+Nombre de registres Municipi : 8
+Suma d'Oients Mensuals entre habitants: 10.206
+ Ranking       Artista  Oients Mensuals
+       1     The Tyets           913403
+       2         roots           324878
+       3      Calagher            55767
+       4        Andana            15689
+       5  La Coixinera             7691
+       6        Alvert             3084
+       7 Mr. Freak Ska             1755
+       8        gusset             1045
+----------------------------------------------------------------------------------
+Municipi : Vilassar de Mar
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 45.158
+ Ranking          Artista  Oients Mensuals
+       1          Mushkaa           877615
+       2 Judit Neddermann            69708
+       3    Arc de Triomf             2572
+----------------------------------------------------------------------------------
+Municipi : Roda de Ter
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 138.671
+ Ranking        Artista  Oients Mensuals
+       1  Oques Grasses           833867
+       2 Guillem Ramisa            66105
+----------------------------------------------------------------------------------
+Municipi : Sabadell
+Nombre de registres Municipi : 11
+Suma d'Oients Mensuals entre habitants: 2.474
+ Ranking          Artista  Oients Mensuals
+       1           31 FAM           246474
+       2 Flashy Ice Cream           175450
+       3          Ven'nus            67366
+       4        bert bert            18140
+       5           Vernat            15033
+       6          Chill C             4580
+       7     Carles Belda             3068
+       8      At Versaris             2987
+       9             Bars             1325
+      10          Bikimel              985
+      11           Kid Pi              207
+----------------------------------------------------------------------------------
+Municipi : Girona
+Nombre de registres Municipi : 14
+Suma d'Oients Mensuals entre habitants: 3.998
+ Ranking            Artista  Oients Mensuals
+       1      Sopa de Cabra           181335
+       2         Pol Bordas           139363
+       3 Boom Boom Fighters            27975
+       4           Cookah P            24689
+       5         Josep Thió            12817
+       6    Gerard Quintana             9745
+       7              Quimo             4653
+       8      Les anxovetes             4628
+       9       Paula Grande             2350
+      10          Aina Reig             1709
+      11      Rock per Xics             1296
+      12      Vinnie Kairos             1101
+      13         Kabul Babà             1057
+      14             Tramma              521
+----------------------------------------------------------------------------------
+Municipi : Alzira
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 9.089
+ Ranking   Artista  Oients Mensuals
+       1 La Fúmiga           403129
+----------------------------------------------------------------------------------
+Municipi : Calafell
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 14.467
+ Ranking Artista  Oients Mensuals
+       1   Buhos           399292
+----------------------------------------------------------------------------------
+Municipi : Sant Joan de les Abadesses
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 34.823
+ Ranking  Artista  Oients Mensuals
+       1 Txarango           376189
+----------------------------------------------------------------------------------
+Municipi : Aiguafreda
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 147.363
+ Ranking      Artista  Oients Mensuals
+       1 Els Catarres           370176
+----------------------------------------------------------------------------------
+Municipi : -
+Nombre de registres Municipi : 12
+Suma d'Oients Mensuals entre habitants: nan
+ Ranking           Artista  Oients Mensuals
+       1         Scotty DK           198910
+       2      El Pot Petit            88248
+       3            Cactus            24849
+       4       Pèl de Gall            19893
+       5       Lo Puto Cat            13568
+       6          Malifeta             9000
+       7      La Pataqueta             4673
+       8     Dijous Paella             4002
+       9 The Binigaus Band             1988
+      10  Arribar i ploure             1453
+      11       Shala Beatz              802
+      12              Km.0              723
+----------------------------------------------------------------------------------
+Municipi : Gandia
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 4.789
+ Ranking Artista  Oients Mensuals
+       1     Zoo           357061
+----------------------------------------------------------------------------------
+Municipi : Terrassa
+Nombre de registres Municipi : 10
+Suma d'Oients Mensuals entre habitants: 1.483
+ Ranking            Artista  Oients Mensuals
+       1       Doctor Prats           157650
+       2            Lildami            91477
+       3 La Guardiola Groga            33195
+       4             enMatu            20475
+       5          Sense Sal            14588
+       6        Galgo Lento             4059
+       7    The Anti-Patiks             3900
+       8        Gemma Humet             3791
+       9           Panellet             1808
+      10         ATALAYA 00              623
+----------------------------------------------------------------------------------
+Municipi : Sant Feliu de Llobregat
+Nombre de registres Municipi : 5
+Suma d'Oients Mensuals entre habitants: 6.183
+ Ranking      Artista  Oients Mensuals
+       1   Joan Dausà           241972
+       2 The Penguins            16489
+       3        CyBee            15906
+       4       Seikos             4907
+       5    Bons nois             1865
+----------------------------------------------------------------------------------
+Municipi : Súria
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 42.112
+ Ranking Artista  Oients Mensuals
+       1    Beth           250480
+----------------------------------------------------------------------------------
+Municipi : Lleida
+Nombre de registres Municipi : 8
+Suma d'Oients Mensuals entre habitants: 1.747
+ Ranking                     Artista  Oients Mensuals
+       1                     Sexenni           169392
+       2             Renaldo & Clara            35116
+       3                       Koers            20121
+       4                 Yung Rajola            10638
+       5               República Ska             5801
+       6              Pastorets Rock             2928
+       7                   Selva Nua             1109
+       8 Milford Mocs & Gunther Cucs              143
+----------------------------------------------------------------------------------
+Municipi : Constantí
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 32.312
+ Ranking       Artista  Oients Mensuals
+       1      Els Pets           128285
+       2 Lluís Gavaldà            87077
+----------------------------------------------------------------------------------
+Municipi : València
+Nombre de registres Municipi : 12
+Suma d'Oients Mensuals entre habitants: 0.247
+ Ranking                Artista  Oients Mensuals
+       1            Xavi Sarrià            62729
+       2             Obrint Pas            62288
+       3              Pupil·les            22115
+       4              Dj Plan B            17965
+       5                 Maluks             9165
+       6              Àlex Blat             8332
+       7                 Tardor             3657
+       8         Oller i Guerra             2872
+       9          Borja Penalba             2572
+      10               Ramonets             1802
+      11 Senior i el Cor Brutal             1672
+      12                  Vaire              815
+----------------------------------------------------------------------------------
+Municipi : Palma
+Nombre de registres Municipi : 9
+Suma d'Oients Mensuals entre habitants: 0.392
+ Ranking          Artista  Oients Mensuals
+       1     Antònia Font           112595
+       2            FADES            20103
+       3         Da Souza            16294
+       4          Ossifar             3822
+       5      Ses Bubotes             2638
+       6     Jaume Sureda             1638
+       7              Tiu             1276
+       8     Salvatge Cor              971
+       9 Juanjo Monserrat              406
+----------------------------------------------------------------------------------
+Municipi : Vic
+Nombre de registres Municipi : 7
+Suma d'Oients Mensuals entre habitants: 3.206
+ Ranking        Artista  Oients Mensuals
+       1            Sau            99067
+       2        La Iaia            25367
+       3   Quimi Portet            14544
+       4 The Demencials            10712
+       5 Ernest Crusats             1293
+       6            Uri             1031
+       7        PEGI 21              696
+----------------------------------------------------------------------------------
+Municipi : Pego
+Nombre de registres Municipi : 4
+Suma d'Oients Mensuals entre habitants: 13.711
+ Ranking        Artista  Oients Mensuals
+       1 La Gossa Sorda            75490
+       2  Smoking Souls            54375
+       3 Pep de la Tona             7634
+       4         Quinto             1362
+----------------------------------------------------------------------------------
+Municipi : Manresa
+Nombre de registres Municipi : 8
+Suma d'Oients Mensuals entre habitants: 1.653
+ Ranking              Artista  Oients Mensuals
+       1               Gossos            59963
+       2             Sara Roy            32029
+       3 Jo Jet i Maria Ribot            14911
+       4         David Rosell             6502
+       5       Damià Olivella             6369
+       6               SDP509             6351
+       7         Salva Racero             1941
+       8              Sherpah             1312
+----------------------------------------------------------------------------------
+Municipi : Olot
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 3.219
+ Ranking          Artista  Oients Mensuals
+       1 Teràpia de Shock            98004
+       2   Pep Puigdemont            17624
+----------------------------------------------------------------------------------
+Municipi : la Garriga
+Nombre de registres Municipi : 4
+Suma d'Oients Mensuals entre habitants: 6.901
+ Ranking                             Artista  Oients Mensuals
+       1                           Gertrudis            67137
+       2                    La Troba Kung-Fú            21649
+       3 Joan Garriga i el Mariatxi galàctic            15190
+       4                           Mainasons            11051
+----------------------------------------------------------------------------------
+Municipi : el Vendrell
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 2.892
+ Ranking                 Artista  Oients Mensuals
+       1             Lax'n'Busto           109895
+       2 Petit Taller de Cançons             1061
+----------------------------------------------------------------------------------
+Municipi : Sant Pere de Riudebitlles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 42.337
+ Ranking      Artista  Oients Mensuals
+       1 Cesk Freixas           100763
+----------------------------------------------------------------------------------
+Municipi : Verges
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 75.97
+ Ranking     Artista  Oients Mensuals
+       1 Lluís Llach            88809
+----------------------------------------------------------------------------------
+Municipi : Ontinyent
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.307
+ Ranking Artista  Oients Mensuals
+       1  Auxili            81560
+----------------------------------------------------------------------------------
+Municipi : Sant Quirze del Vallès
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 3.59
+ Ranking      Artista  Oients Mensuals
+       1     Triquell            60836
+       2    AlQuadrat             6144
+       3 Gerard Aledo             5523
+----------------------------------------------------------------------------------
+Municipi : Cardedeu
+Nombre de registres Municipi : 5
+Suma d'Oients Mensuals entre habitants: 3.692
+ Ranking  Artista  Oients Mensuals
+       1     Lluc            48557
+       2    Ariox            10186
+       3 Massaviu             4530
+       4 roserona             3721
+       5    Ninus             1035
+----------------------------------------------------------------------------------
+Municipi : Manacor
+Nombre de registres Municipi : 6
+Suma d'Oients Mensuals entre habitants: 1.621
+ Ranking       Artista  Oients Mensuals
+       1   OR (O-ERRA)            24503
+       2 Joan Bibiloni            17723
+       3         Reïna            16933
+       4       Plan-ET             3122
+       5  Miquel Serra             2565
+       6    Pitxorines             1349
+----------------------------------------------------------------------------------
+Municipi : Lloret de Vistalegre
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 49.296
+ Ranking     Artista  Oients Mensuals
+       1 Maria Jaume            66056
+----------------------------------------------------------------------------------
+Municipi : la Bisbal d'Empordà
+Nombre de registres Municipi : 6
+Suma d'Oients Mensuals entre habitants: 5.606
+ Ranking                   Artista  Oients Mensuals
+       1              Miquel Abras            23574
+       2 La Principal de la Bisbal            11743
+       3                  Sanjosex            10943
+       4                    Mazoni             9310
+       5                     Fetus             4236
+       6             The Gruixut's             2752
+----------------------------------------------------------------------------------
+Municipi : Teià
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 9.59
+ Ranking Artista  Oients Mensuals
+       1 Dani6ix            30940
+       2  IZZKID            30696
+----------------------------------------------------------------------------------
+Municipi : Xaló
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 22.437
+ Ranking  Artista  Oients Mensuals
+       1 Aspencat            61454
+----------------------------------------------------------------------------------
+Municipi : Cambrils
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.753
+ Ranking     Artista  Oients Mensuals
+       1 Roba Estesa            60902
+----------------------------------------------------------------------------------
+Municipi : Folgueroles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 26.434
+ Ranking       Artista  Oients Mensuals
+       1 Pelat i Pelut            59872
+----------------------------------------------------------------------------------
+Municipi : Canet de Mar
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 3.894
+ Ranking         Artista  Oients Mensuals
+       1       La Trinca            55757
+       2 Filippo Landini             2132
+----------------------------------------------------------------------------------
+Municipi : Felanitx
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 2.896
+ Ranking     Artista  Oients Mensuals
+       1  Maria Hein            49882
+       2 Mar Grimalt             3371
+----------------------------------------------------------------------------------
+Municipi : Bunyola
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 7.156
+ Ranking  Artista  Oients Mensuals
+       1 Xanguito            44914
+----------------------------------------------------------------------------------
+Municipi : Xàtiva
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 1.48
+ Ranking                Artista  Oients Mensuals
+       1                 Raimon            20510
+       2 Pep Gimeno 'Botifarra'            18902
+       3          Feliu Ventura             3857
+----------------------------------------------------------------------------------
+Municipi : Igualada
+Nombre de registres Municipi : 5
+Suma d'Oients Mensuals entre habitants: 1.015
+ Ranking      Artista  Oients Mensuals
+       1       miquel            28567
+       2 Quico Tretze             4413
+       3  Marialluïsa             3735
+       4      Paunezz             3669
+       5 Roger Argemí              957
+----------------------------------------------------------------------------------
+Municipi : Cardona
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 8.694
+ Ranking   Artista  Oients Mensuals
+       1 Strombers            40332
+----------------------------------------------------------------------------------
+Municipi : Collbató
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 8.845
+ Ranking      Artista  Oients Mensuals
+       1 Ferran Palau            38875
+       2       Anímic             1315
+----------------------------------------------------------------------------------
+Municipi : Castalla
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 3.588
+ Ranking   Artista  Oients Mensuals
+       1 El Diluvi            36328
+----------------------------------------------------------------------------------
+Municipi : Solsona
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 3.89
+ Ranking     Artista  Oients Mensuals
+       1 Joan Rafart            17763
+       2   Roger Mas            15782
+       3    Gemm Sol             1995
+----------------------------------------------------------------------------------
+Municipi : Tarragona
+Nombre de registres Municipi : 6
+Suma d'Oients Mensuals entre habitants: 0.256
+ Ranking            Artista  Oients Mensuals
+       1               Crim            19238
+       2        Groggy Rude             6827
+       3      Espaldamaceta             4482
+       4    Vergüenza Ajena             1859
+       5 El Son de la Chama             1335
+       6       Anna d'Ivori             1210
+----------------------------------------------------------------------------------
+Municipi : Espolla
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 79.0
+ Ranking        Artista  Oients Mensuals
+       1 La Ludwig Band            32548
+----------------------------------------------------------------------------------
+Municipi : Sóller
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.234
+ Ranking            Artista  Oients Mensuals
+       1 Joan Miquel Oliver            31610
+----------------------------------------------------------------------------------
+Municipi : Ciutadella de Menorca
+Nombre de registres Municipi : 5
+Suma d'Oients Mensuals entre habitants: 1.013
+ Ranking      Artista  Oients Mensuals
+       1 Ja t'ho diré            11971
+       2  Rudymentari             7827
+       3 Cris Juanico             6629
+       4  Suc i Sopes             2790
+       5  Dos Sipiots              743
+----------------------------------------------------------------------------------
+Municipi : Torrent
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.351
+ Ranking      Artista  Oients Mensuals
+       1 Pau Alabajos            28885
+----------------------------------------------------------------------------------
+Municipi : Argentona
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.2
+ Ranking     Artista  Oients Mensuals
+       1 Ebri Knight            27581
+----------------------------------------------------------------------------------
+Municipi : Badalona
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.121
+ Ranking                 Artista  Oients Mensuals
+       1              Edu Esteve            25200
+       2 La Tresca i la Verdesca             1898
+----------------------------------------------------------------------------------
+Municipi : Polinyà
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.956
+ Ranking      Artista  Oients Mensuals
+       1 Roger Padrós            25139
+----------------------------------------------------------------------------------
+Municipi : Vilafranca de Bonany
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 8.409
+ Ranking       Artista  Oients Mensuals
+       1   Tomeu Penya            23536
+       2 Ánimos Parrec             1447
+----------------------------------------------------------------------------------
+Municipi : Buenos Aires
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.008
+ Ranking    Artista  Oients Mensuals
+       1 Gato Pérez            24134
+----------------------------------------------------------------------------------
+Municipi : l'Esquirol
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 10.88
+ Ranking   Artista  Oients Mensuals
+       1 Esquirols            23784
+----------------------------------------------------------------------------------
+Municipi : Massoteres
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 111.906
+ Ranking              Artista  Oients Mensuals
+       1 El Petit de Cal Eril            23724
+----------------------------------------------------------------------------------
+Municipi : Manlleu
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 1.122
+ Ranking                     Artista  Oients Mensuals
+       1 Marcel Lázara i Júlia Arrey            17448
+       2                 Paula Valls             6020
+----------------------------------------------------------------------------------
+Municipi : Molins de Rei
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.888
+ Ranking   Artista  Oients Mensuals
+       1   Ambauka            21908
+       2 Agudinine             1125
+----------------------------------------------------------------------------------
+Municipi : la Jonquera
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 6.834
+ Ranking   Artista  Oients Mensuals
+       1 Sangtraït            22690
+----------------------------------------------------------------------------------
+Municipi : Santa Pau
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 13.704
+ Ranking     Artista  Oients Mensuals
+       1 Núria López            22118
+----------------------------------------------------------------------------------
+Municipi : Vinaròs
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.726
+ Ranking Artista  Oients Mensuals
+       1  Esther            20824
+----------------------------------------------------------------------------------
+Municipi : Castellbisbal
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.639
+ Ranking Artista  Oients Mensuals
+       1    Xicu            20559
+----------------------------------------------------------------------------------
+Municipi : Ulldecona
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 3.147
+ Ranking         Artista  Oients Mensuals
+       1 Pepet i Marieta            20533
+----------------------------------------------------------------------------------
+Municipi : Pedreguer
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 2.649
+ Ranking        Artista  Oients Mensuals
+       1 Sandra Monfort            19863
+       2        Sa pena              531
+----------------------------------------------------------------------------------
+Municipi : Salt
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.597
+ Ranking     Artista  Oients Mensuals
+       1 Adrià Puntí            15261
+       2   Umpah-Pah             3941
+----------------------------------------------------------------------------------
+Municipi : Montgat
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.568
+ Ranking                 Artista  Oients Mensuals
+       1 Baya Baye MGT Los Sosis            19128
+----------------------------------------------------------------------------------
+Municipi : Alcoi
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.304
+ Ranking        Artista  Oients Mensuals
+       1 Ovidi Montllor            17931
+----------------------------------------------------------------------------------
+Municipi : Rubí
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.222
+ Ranking  Artista  Oients Mensuals
+       1 Sr. Chen            13174
+       2    Batec             4254
+----------------------------------------------------------------------------------
+Municipi : Sant Celoni
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 0.931
+ Ranking            Artista  Oients Mensuals
+       1        Joan Colomo             9093
+       2      Pere Espinosa             4652
+       3 Els Surfing Sirles             3138
+----------------------------------------------------------------------------------
+Municipi : Rasquera
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 21.363
+ Ranking Artista  Oients Mensuals
+       1   Xeic!            16727
+----------------------------------------------------------------------------------
+Municipi : la Cellera de Ter
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 7.49
+ Ranking             Artista  Oients Mensuals
+       1    Els Atrapasomnis             8975
+       2 Orchestra Fireluche             5631
+----------------------------------------------------------------------------------
+Municipi : Torrelavit
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 9.95
+ Ranking Artista  Oients Mensuals
+       1  Compte            14149
+----------------------------------------------------------------------------------
+Municipi : Altafulla
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.628
+ Ranking     Artista  Oients Mensuals
+       1 Porto Bello            13949
+----------------------------------------------------------------------------------
+Municipi : Son Servera
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.131
+ Ranking Artista  Oients Mensuals
+       1 Anegats            13757
+----------------------------------------------------------------------------------
+Municipi : Castellar del Vallès
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.556
+ Ranking   Artista  Oients Mensuals
+       1 Macedònia            11924
+       2    Lòxias             1694
+----------------------------------------------------------------------------------
+Municipi : Camarles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 4.188
+ Ranking     Artista  Oients Mensuals
+       1 Joan Rovira            13376
+----------------------------------------------------------------------------------
+Municipi : Prats de Lluçanès
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 4.851
+ Ranking   Artista  Oients Mensuals
+       1 Mar Pujol            12633
+----------------------------------------------------------------------------------
+Municipi : Reus
+Nombre de registres Municipi : 4
+Suma d'Oients Mensuals entre habitants: 0.117
+ Ranking          Artista  Oients Mensuals
+       1        Whiskyn's             8798
+       2      Joan Masdéu             1890
+       3        La Cosina             1093
+       4 Fescat goes punk              627
+----------------------------------------------------------------------------------
+Municipi : Alacant
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.037
+ Ranking        Artista  Oients Mensuals
+       1         Vienna            11025
+       2 Victoria Maldi             1259
+----------------------------------------------------------------------------------
+Municipi : Berga
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.729
+ Ranking          Artista  Oients Mensuals
+       1            Brams            10984
+       2 Cobla Berga Jove             1227
+----------------------------------------------------------------------------------
+Municipi : Calella
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.629
+ Ranking      Artista  Oients Mensuals
+       1 Yung Rovelló            12128
+----------------------------------------------------------------------------------
+Municipi : l'Escala
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 1.174
+ Ranking                   Artista  Oients Mensuals
+       1 Els Pescadors de L'Escala             9144
+       2             País de Xauxa             2883
+----------------------------------------------------------------------------------
+Municipi : Palafrugell
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.498
+ Ranking Artista  Oients Mensuals
+       1 Port Bo            11587
+----------------------------------------------------------------------------------
+Municipi : Montcada
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.526
+ Ranking Artista  Oients Mensuals
+       1   Atupa            11540
+----------------------------------------------------------------------------------
+Municipi : Artesa de Lleida
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 7.298
+ Ranking       Artista  Oients Mensuals
+       1 Lluís Sánchez            11203
+----------------------------------------------------------------------------------
+Municipi : Vilassar de Dalt
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.234
+ Ranking    Artista  Oients Mensuals
+       1 Toti Soler            11195
+----------------------------------------------------------------------------------
+Municipi : Tona
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.268
+ Ranking Artista  Oients Mensuals
+       1  Obeses            10592
+----------------------------------------------------------------------------------
+Municipi : l'Armentera
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 10.266
+ Ranking Artista  Oients Mensuals
+       1    Cesc             9763
+----------------------------------------------------------------------------------
+Municipi : Santa Eulàlia de Ronçana
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.304
+ Ranking         Artista  Oients Mensuals
+       1 The Crab Apples             9686
+----------------------------------------------------------------------------------
+Municipi : Lloret de Mar
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.247
+ Ranking      Artista  Oients Mensuals
+       1 Laura Gibert             9652
+----------------------------------------------------------------------------------
+Municipi : Vilafranca del Penedès
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.239
+ Ranking    Artista  Oients Mensuals
+       1 Inadaptats             9604
+----------------------------------------------------------------------------------
+Municipi : Cornellà de Llobregat
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.101
+ Ranking        Artista  Oients Mensuals
+       1     Muyayo Rif             6440
+       2 Ramon Muntaner             2675
+----------------------------------------------------------------------------------
+Municipi : Tiana
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.932
+ Ranking     Artista  Oients Mensuals
+       1 Marc Parrot             8333
+----------------------------------------------------------------------------------
+Municipi : Oliva
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.331
+ Ranking  Artista  Oients Mensuals
+       1 La Maria             8301
+----------------------------------------------------------------------------------
+Municipi : l'Alcúdia
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.684
+ Ranking         Artista  Oients Mensuals
+       1     Dani Miquel             4444
+       2 Jonatan Penalba             3767
+----------------------------------------------------------------------------------
+Municipi : Eivissa
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.157
+ Ranking      Artista  Oients Mensuals
+       1 Projecte Mut             5163
+       2 Slim Samurai             2628
+----------------------------------------------------------------------------------
+Municipi : Begur
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.952
+ Ranking Artista  Oients Mensuals
+       1  Glaucs             7596
+----------------------------------------------------------------------------------
+Municipi : Sant Sadurní d'Anoia
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.572
+ Ranking                          Artista  Oients Mensuals
+       1 Anna Roig i l'Ombre de Ton Chien             5994
+       2                      Reconquesta             1351
+----------------------------------------------------------------------------------
+Municipi : Almussafes
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.805
+ Ranking Artista  Oients Mensuals
+       1    TESA             7217
+----------------------------------------------------------------------------------
+Municipi : Flix
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.074
+ Ranking      Artista  Oients Mensuals
+       1 Xarim Aresté             7071
+----------------------------------------------------------------------------------
+Municipi : Algemesí
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.225
+ Ranking Artista  Oients Mensuals
+       1   NIUSS             6157
+----------------------------------------------------------------------------------
+Municipi : Cerdanyola del Vallès
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 0.096
+ Ranking       Artista  Oients Mensuals
+       1   Pol Orobitg             2641
+       2 Ferran Savall             1950
+       3    Lia Sampai              952
+----------------------------------------------------------------------------------
+Municipi : Sant Cugat del Vallès
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.059
+ Ranking              Artista  Oients Mensuals
+       1                FRANC             4295
+       2 La Porta dels Somnis             1180
+----------------------------------------------------------------------------------
+Municipi : Sant Julià de Ramis
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.462
+ Ranking           Artista  Oients Mensuals
+       1 Malson Atmosfèric             5228
+----------------------------------------------------------------------------------
+Municipi : Arbúcies
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.729
+ Ranking               Artista  Oients Mensuals
+       1 Remei de Ca la Fresca             4817
+----------------------------------------------------------------------------------
+Municipi : Santa Coloma de Gramenet
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.04
+ Ranking          Artista  Oients Mensuals
+       1 Los Barrankillos             4800
+----------------------------------------------------------------------------------
+Municipi : Llíria
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.202
+ Ranking      Artista  Oients Mensuals
+       1 Mireia Vives             4693
+----------------------------------------------------------------------------------
+Municipi : Banyoles
+Nombre de registres Municipi : 3
+Suma d'Oients Mensuals entre habitants: 0.23
+ Ranking     Artista  Oients Mensuals
+       1 Germà Negre             3186
+       2 Roko Banana             1037
+       3       Bivac              389
+----------------------------------------------------------------------------------
+Municipi : Argelaguer
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 10.967
+ Ranking        Artista  Oients Mensuals
+       1 Hora de Joglar             4343
+----------------------------------------------------------------------------------
+Municipi : Sant Vicenç dels Horts
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.145
+ Ranking     Artista  Oients Mensuals
+       1 Les Montses             4092
+----------------------------------------------------------------------------------
+Municipi : Oristà
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 7.197
+ Ranking Artista  Oients Mensuals
+       1  Nyandú             3951
+----------------------------------------------------------------------------------
+Municipi : Santpedor
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.516
+ Ranking    Artista  Oients Mensuals
+       1 Anaïs Vila             3923
+----------------------------------------------------------------------------------
+Municipi : Ribes de Freser
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 2.174
+ Ranking         Artista  Oients Mensuals
+       1 Sergi Carbonell             3827
+----------------------------------------------------------------------------------
+Municipi : Catarroja
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.134
+ Ranking    Artista  Oients Mensuals
+       1 Miquel Gil             3768
+----------------------------------------------------------------------------------
+Municipi : Tàrrega
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.213
+ Ranking                   Artista  Oients Mensuals
+       1 La Terrasseta de Preixens             3719
+----------------------------------------------------------------------------------
+Municipi : Torelló
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.254
+ Ranking     Artista  Oients Mensuals
+       1 Dan Peralbo             3663
+----------------------------------------------------------------------------------
+Municipi : Moià
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.546
+ Ranking     Artista  Oients Mensuals
+       1 Uri Santafé             3486
+----------------------------------------------------------------------------------
+Municipi : Sant Pol de Mar
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.606
+ Ranking     Artista  Oients Mensuals
+       1 N'Gai N'Gai             3290
+----------------------------------------------------------------------------------
+Municipi : Tortosa
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.097
+ Ranking                                      Artista  Oients Mensuals
+       1 Quico el Célio, el Noi i el Mut de Ferreries             3248
+----------------------------------------------------------------------------------
+Municipi : Granollers
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.052
+ Ranking              Artista  Oients Mensuals
+       1 La República Rumbera             1616
+       2         Ivette Nadal             1609
+----------------------------------------------------------------------------------
+Municipi : Sant Jaume dels Domenys
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.17
+ Ranking     Artista  Oients Mensuals
+       1 Som Mainada             3071
+----------------------------------------------------------------------------------
+Municipi : Cubelles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.185
+ Ranking Artista  Oients Mensuals
+       1    OKDW             2921
+----------------------------------------------------------------------------------
+Municipi : Maó
+Nombre de registres Municipi : 2
+Suma d'Oients Mensuals entre habitants: 0.097
+ Ranking                 Artista  Oients Mensuals
+       1             Anna Ferrer             1988
+       2 Ses Bísties de Mongofre              817
+----------------------------------------------------------------------------------
+Municipi : Muro
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.371
+ Ranking Artista  Oients Mensuals
+       1 Cucorba             2592
+----------------------------------------------------------------------------------
+Municipi : Blanes
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.065
+ Ranking Artista  Oients Mensuals
+       1 Mesclat             2581
+----------------------------------------------------------------------------------
+Municipi : Montcada i Reixac
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.069
+ Ranking       Artista  Oients Mensuals
+       1 Ramon Calduch             2547
+----------------------------------------------------------------------------------
+Municipi : Marratxí
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.07
+ Ranking     Artista  Oients Mensuals
+       1 Lluís Cabot             2425
+----------------------------------------------------------------------------------
+Municipi : Valldemossa
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.163
+ Ranking     Artista  Oients Mensuals
+       1 Júlia Colom             2357
+----------------------------------------------------------------------------------
+Municipi : Torroella de Montgrí
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.196
+ Ranking  Artista  Oients Mensuals
+       1 CLASSE B             2317
+----------------------------------------------------------------------------------
+Municipi : Riudoms
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.318
+ Ranking  Artista  Oients Mensuals
+       1 Segonamà             2089
+----------------------------------------------------------------------------------
+Municipi : Vidreres
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.242
+ Ranking    Artista  Oients Mensuals
+       1 Àlex Pérez             1922
+----------------------------------------------------------------------------------
+Municipi : Cocentaina
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.161
+ Ranking      Artista  Oients Mensuals
+       1 Andreu Valor             1859
+----------------------------------------------------------------------------------
+Municipi : Premià de Mar
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.061
+ Ranking       Artista  Oients Mensuals
+       1 Chung-man Kim             1753
+----------------------------------------------------------------------------------
+Municipi : Alfara del Patriarca
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.5
+ Ranking  Artista  Oients Mensuals
+       1 Atzembla             1654
+----------------------------------------------------------------------------------
+Municipi : Sant Feliu de Guíxols
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.071
+ Ranking    Artista  Oients Mensuals
+       1 La Taverna             1574
+----------------------------------------------------------------------------------
+Municipi : Sant Feliu de Pallerols
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.084
+ Ranking Artista  Oients Mensuals
+       1 Canimas             1557
+----------------------------------------------------------------------------------
+Municipi : Roses
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.079
+ Ranking Artista  Oients Mensuals
+       1 Gemma P             1555
+----------------------------------------------------------------------------------
+Municipi : Puigcerdà
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.164
+ Ranking         Artista  Oients Mensuals
+       1 La Corda Fluixa             1553
+----------------------------------------------------------------------------------
+Municipi : Fornells de la Selva
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.578
+ Ranking Artista  Oients Mensuals
+       1  Fortuu             1544
+----------------------------------------------------------------------------------
+Municipi : Sitges
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.052
+ Ranking            Artista  Oients Mensuals
+       1 Els Amics de Manel             1543
+----------------------------------------------------------------------------------
+Municipi : les Planes d'Hostoles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.835
+ Ranking Artista  Oients Mensuals
+       1    Geri             1430
+----------------------------------------------------------------------------------
+Municipi : Riba-roja de Túria
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.06
+ Ranking        Artista  Oients Mensuals
+       1 Bajoqueta Rock             1332
+----------------------------------------------------------------------------------
+Municipi : l'Ametlla de Mar
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.191
+ Ranking         Artista  Oients Mensuals
+       1 Miquel del Roig             1309
+----------------------------------------------------------------------------------
+Municipi : Arenys de Munt
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.138
+ Ranking  Artista  Oients Mensuals
+       1 Làd Cúig             1263
+----------------------------------------------------------------------------------
+Municipi : Malgrat de Mar
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.056
+ Ranking        Artista  Oients Mensuals
+       1 El Senyor Peix             1043
+----------------------------------------------------------------------------------
+Municipi : Viladecavalls
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.126
+ Ranking Artista  Oients Mensuals
+       1   Èxta6              953
+----------------------------------------------------------------------------------
+Municipi : Alcàsser
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.094
+ Ranking  Artista  Oients Mensuals
+       1 Sva-ters              941
+----------------------------------------------------------------------------------
+Municipi : Miravet
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.317
+ Ranking      Artista  Oients Mensuals
+       1 Èric Vinaixa              930
+----------------------------------------------------------------------------------
+Municipi : Martorelles
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.192
+ Ranking         Artista  Oients Mensuals
+       1 Sandra Bautista              924
+----------------------------------------------------------------------------------
+Municipi : Mollet del Vallès
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.016
+ Ranking        Artista  Oients Mensuals
+       1 Aiguadvalencia              844
+----------------------------------------------------------------------------------
+Municipi : Cassà de la Selva
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.073
+ Ranking Artista  Oients Mensuals
+       1   Rikus              765
+----------------------------------------------------------------------------------
+Municipi : Mollerussa
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.046
+ Ranking Artista  Oients Mensuals
+       1   Fauna              669
+----------------------------------------------------------------------------------
+Municipi : Castellfollit del Boix
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 1.168
+ Ranking    Artista  Oients Mensuals
+       1 Titu Martí              522
+----------------------------------------------------------------------------------
+Municipi : Borriana
+Nombre de registres Municipi : 1
+Suma d'Oients Mensuals entre habitants: 0.002
+ Ranking     Artista  Oients Mensuals
+       1 Aina Palmer               69
+----------------------------------------------------------------------------------
+
+
