@@ -1,27 +1,13 @@
 /* Strava/assets/css/custom.css */
 
-/* Override blue elements to orange */
-a {
-    color: orange;
+/* Example: change background color for the subpage */
+body {
+    background-color: lightgray; /* Change background for the subpage */
 }
 
-a:hover {
-    color: darkorange;
-}
-
-/* Override other blue elements (buttons, headers, etc.) */
+/* Example: override specific elements */
 .post-title,
 .site-title,
-.site-description,
-.post-date {
+.site-description {
     color: orange;
-}
-
-/* Override any other blue components */
-.site-header {
-    background-color: orange;
-}
-
-.post-header {
-    border-bottom: 2px solid orange;
 }
