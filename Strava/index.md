@@ -1,6 +1,6 @@
 # Strava Dashboard Project
 
-**[Link Repositorio Github](https://github.com/arnaugr55/Strava_project))**<br>
+**[Link Repositorio Github](https://github.com/arnaugr55/Strava_project)**<br>
 **[Link Strava](https://www.strava.com/)**
 
 En este proyecto he descargado mi archivo strava que contiene información de mis actividades y otras estadísticas de mi cuenta Strava [aquí](https://www.strava.com/athlete/delete_your_account). Con estos datos, y usando python he creado varios datasets con los que me he hecho un Dashboard interactivo, con Power BI.
@@ -21,20 +21,22 @@ Pestaña General<br>
   <img src="https://arnaugr55.github.io/Strava/resources/captura_01.png" alt="Primera Pestaña" width="850">
 </div>
 Gráficas e info:
- - Panel de información con los totales (número de actividades, distancia, tiempo, desnivel positivo y montañas subidas).
- - Mapa interactivo con todos los tracks de la ruta. Si nos colocamos sobre un punto, nos da la infromación sobre las coordenadas, la actividad, altitud (mts), fecha y hora y km de la actividad.
- - Paneles con la actividad con + distancia, + rápida, + desnivel positivo y + duradera.
- - Tabla con la información de todas las actividades. Contiene las columnas Actividad, Fecha y hora, Desnivel positivo, Distancia, Velocidad Mediana, Tiempo en Movimiento, Tiempo Transcurrido y Montañas. Por defecto viene ordenado por la fecha de la actividad, pero se puede cambiar y ordenar por cualquiera de estas columnas.
- - Ranking geográfico de municipios, comarcas y provincias con más KMs recorridos.
+- Panel de información con los totales (número de actividades, distancia, tiempo, desnivel positivo y montañas subidas).
+- Mapa interactivo con todos los tracks de la ruta. Si nos colocamos sobre un punto, nos da la infromación sobre las coordenadas, la actividad, altitud (mts), fecha y hora y km de la actividad.
+- Paneles con la actividad con + distancia, + rápida, + desnivel positivo y + duradera.
+- Tabla con la información de todas las actividades. Contiene las columnas Actividad, Fecha y hora, Desnivel positivo, Distancia, Velocidad Mediana, Tiempo en Movimiento, Tiempo Transcurrido y Montañas. Por defecto viene ordenado por la fecha de la actividad, pero se puede cambiar y ordenar por cualquiera de estas columnas.
+- Ranking geográfico de municipios, comarcas y provincias con más KMs recorridos.
+ 
 Filtros:
- - Por la fecha de la actividad.
- - Por la distancia mínima o máxima de la actividad.
- - En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia) nos saldrán solo las rutas en las que se haya pasado por aquel terriiorio.
- - En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
-Otros:
- - Panel para acceder a la otra pestaña (Mapas y Estadísticas) con un Ctrl+Clic.
+- Por la fecha de la actividad.
+- Por la distancia mínima o máxima de la actividad.
+- En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia) nos saldrán solo las rutas en las que se haya pasado por aquel terriiorio.
+- En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
 
-- La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.<br>
+Otros:
+- Panel para acceder a la otra pestaña (Mapas y Estadísticas) con un Ctrl+Clic.
+
+Pestaña Mapas & Estadísticas<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_02.png" alt="Primera Pestaña" width="850">
 </div>
