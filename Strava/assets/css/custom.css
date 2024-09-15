@@ -1,13 +1,16 @@
-/* Strava/assets/css/custom.css */
+/* Strava/assets/css/custom-subpage.css */
 
-/* Example: change background color for the subpage */
+/* Example: change the background color for the subpage */
 body {
     background-color: lightgray; /* Change background for the subpage */
 }
 
-/* Example: override specific elements */
-.post-title,
-.site-title,
-.site-description {
+/* Override leap-day theme colors or styles */
+.site-title {
     color: orange;
+}
+
+/* Hide or modify elements specific to the subpage */
+.site-header {
+    display: none; /* Hide the header on the subpage */
 }
