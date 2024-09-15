@@ -15,21 +15,24 @@ Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 Los scripts se encuentran en el github del proyecto. Ahí están comentados paso a paso.
 
 ***Dashboard***<br>
-Con la información recogida, he creado un dashboard de 2 pestañas.
+Con la información recogida, he creado un dashboard de 2 pestañas.<br>
 Pestaña General<br>
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Strava/resources/captura_01.png" alt="Primera Pestaña" width="850">
 </div>
 Gráficas e info:
- - Panel de información con los totales (número de actividades, distancia, tiempo, desnivel psoitivo y montañas subidas).
- - Mapa interactivo con todos los tracks de la ruta. Si nos colocamos sobre un punto, nos da la infromacióm sobre las coordenadas, la actividad, altitud (mts), fecha y hora y km de la actividad.
+ - Panel de información con los totales (número de actividades, distancia, tiempo, desnivel positivo y montañas subidas).
+ - Mapa interactivo con todos los tracks de la ruta. Si nos colocamos sobre un punto, nos da la infromación sobre las coordenadas, la actividad, altitud (mts), fecha y hora y km de la actividad.
  - Paneles con la actividad con + distancia, + rápida, + desnivel positivo y + duradera.
- - Tabla con la información de todas las actividades. Contiene las columnas Actividad, Fecha y hora, Desnivel positivo, Distancia, Velocidad Mediana, Tiempo en Movimiento, Tiempo Transcurrido y Montañas.
+ - Tabla con la información de todas las actividades. Contiene las columnas Actividad, Fecha y hora, Desnivel positivo, Distancia, Velocidad Mediana, Tiempo en Movimiento, Tiempo Transcurrido y Montañas. Por defecto viene ordenado por la fecha de la actividad, pero se puede cambiar y ordenar por cualquiera de estas columnas.
  - Ranking geográfico de municipios, comarcas y provincias con más KMs recorridos.
 Filtros:
-- 
+ - Por la fecha de la actividad.
+ - Por la distancia mínima o máxima de la actividad.
+ - En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia) nos saldrán solo las rutas en las que se haya pasado por aquel terriiorio.
+ - En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
 Otros:
-- 
+ - Panel para acceder a la otra pestaña (Mapas y Estadísticas) con un Ctrl+Clic.
 
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.<br>
 <div style="text-align: center;">
