@@ -12,11 +12,11 @@
 .tabs ul li a {
   text-decoration: none;
   padding: 10px 15px;
-  background-color: #f1f1f1;
+  background-color: #bbe2f0;
   border-radius: 4px;
   color: #000;
 }
 
 .tabs ul li a:hover {
-  background-color: #ddd;
+  background-color: #6ac9eb;
 }
