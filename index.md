@@ -98,3 +98,15 @@ Proyecto en el cual estoy trabajando. De momento muestro, como aperitivo, un map
         background-color: white;
     }
 </style>
+
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TDPH3JHKE7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TDPH3JHKE7');
+</script>
+<!-- Fin de Google Analytics -->
