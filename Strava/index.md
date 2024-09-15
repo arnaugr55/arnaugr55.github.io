@@ -41,7 +41,8 @@ Filtros:
 - Por la fecha de la actividad.
 - Por la distancia mínima o máxima de la actividad.
 - En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia), nos saldrán solo las rutas en las que se haya pasado por aquel territorio.
-- En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.<br>
+- En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
+
 ▢ Todos estos filtros afectan a las actividades que se muestran.
 
 Otros:
@@ -65,7 +66,8 @@ Gráficas e info:
 Filtros:
 - Por la fecha de la actividad.
 - En las gráficas de año o mes, se puede seleccionar un año o mes, para que filtre ese año o mes.
-- En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.<br>
+- En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.
+
 ▢ Todos estos filtros afectan a las actividades que se muestran.
 
 <br>Aquí está el video de su funcionamiento publicado en LinkedIn:
