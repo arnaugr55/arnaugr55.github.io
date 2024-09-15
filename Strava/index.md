@@ -60,4 +60,10 @@ Filtros:
 - En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.
 Todos estos filtros afectan a las actividades que se muestran.
 
+<br>Aquí está el video de su funcionamiento publicado en LinkedIn:
+
+<div style="text-align: center;">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7205284381215625216" height="500" width="640" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+</div>
+
 **Si encontráis interesante el proyecto y queréis tenerlo también para vuestros datos, no dudéis en contactar conmigo y os resuelvo las dudas, vemos como lo podemos hacer...**
