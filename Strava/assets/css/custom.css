@@ -1,14 +1,8 @@
-/* Ensure higher specificity */
-body {
-    background-color: lightgray !important;
+header {
+    background-color: orange !important;
 }
 
-/* Change the color of the title */
-h1, .site-title {
-    color: orange !important;
-}
-
-/* Example of changing link colors */
-a {
-    color: orange !important;
+/* Optionally, change the title text color for better contrast */
+header .site-title {
+    color: white !important; /* Make title text white */
 }
