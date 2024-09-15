@@ -2,7 +2,7 @@ theme : jekyll-theme-cayman
 
 # Site Author
 author:
-  name             : "Arnau Garriga Riba"
+  name             : 
   avatar           : "/images/ArnauGarrigaRiba_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist Portfolio"
   location         : "Catalunya"
