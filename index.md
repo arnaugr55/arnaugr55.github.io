@@ -1,3 +1,10 @@
+<div class="tabs">
+  <ul>
+    <li><a href="#home">Inicio</a></li>
+    <li><a href="/Strava/">Strava Project</a></li>
+  </ul>
+</div>
+
 #  Arnau Garriga Riba <br />- Data Science Portfolio
 
 En este Portfolio hago una compilación de todos los proyectos hechos. Algunos en la universidad y otros ya en mis tiempos libres por auto-aprendizaje.
