@@ -1,6 +1,5 @@
-theme : jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 
-color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
+# Include the custom stylesheet
+include:
+  - custom.css
