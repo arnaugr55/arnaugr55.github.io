@@ -15,8 +15,6 @@ Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 ***Dashboard***<br>
 Con la información recogida, he creado un dashboard de 2 pestañas.
 - En la primera hay la información general, un mapa con los recorridos de todas las actividades (o los seleccionados) e infromación de kms recorridos por Localidad (poblaciones, comarcas y provincias catalanas).
-  ![Primera Pestaña](https://github.com/arnaugr55/Strava_project/blob/main/resultados/captura_01.png)
+  <img src="https://arnaugr55.github.io/Strava/resources/captura_01.png" alt="Primera Pestaña" width="300">
 - La segunda consiste en un conjunto de gráficas y mapas. En uno de los mapas podemos ver las montañas subidas con información de estas.
-  ![Segunda Pestaña](https://github.com/arnaugr55/Strava_project/blob/main/resultados/captura_02.png)
-
-
+  <img src="https://arnaugr55.github.io/Strava/resources/captura_02.png" alt="Primera Pestaña" width="300">
