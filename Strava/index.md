@@ -2,7 +2,7 @@
 
 <div class="tabs">
   <ul>
-    <li><a href="../index.md">Inicio</a></li>
+    <li><a href="../">Inicio</a></li>
     <li><a href="/Strava/">Strava Project</a></li>
   </ul>
 </div>
