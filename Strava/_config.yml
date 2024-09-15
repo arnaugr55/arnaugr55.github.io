@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
 
-# Include the custom stylesheet
 include:
   - custom.css
