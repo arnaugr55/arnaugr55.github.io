@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Link to the custom CSS for this subpage -->
-<link rel="stylesheet" href="/subpage/assets/css/custom.css">
+<link rel="stylesheet" href="/Strava/assets/css/custom.css">
 
-## This is my subpage
+# This is my subpage
 
