@@ -6,10 +6,10 @@
     <li><a href="/Strava/">Strava Project</a></li>
   </ul>
 </div>
-<link rel="stylesheet" href="/custom.css">
+<link rel="stylesheet" href="/custom.css"><br>
 
-**[Link Repositorio Github](https://github.com/arnaugr55/Strava_project)**<br>
-**[Link Strava](https://www.strava.com/)**
+--> **[Link Repositorio Github](https://github.com/arnaugr55/Strava_project)**<br>
+--> **[Link Strava](https://www.strava.com/)**
 
 En este proyecto he descargado mi archivo strava que contiene información de mis actividades y otras estadísticas de mi cuenta Strava [aquí](https://www.strava.com/athlete/delete_your_account). Con estos datos, y usando python he creado varios datasets con los que me he hecho un Dashboard interactivo, con Power BI.
 
@@ -22,7 +22,7 @@ Estos ficheros generados los cargaremos posteriormente al dashboard de Power BI.
 
 Los scripts se encuentran en el github del proyecto. Ahí están comentados paso a paso.
 
-***Dashboard***<br>
+<br>***Dashboard***<br>
 Con la información recogida, he creado un dashboard de 2 pestañas.<br>
 
 --Pestaña General--<br>
@@ -41,7 +41,7 @@ Filtros:
 - Por la fecha de la actividad.
 - Por la distancia mínima o máxima de la actividad.
 - En el ranking geográfico, si seleccionamos un territorio (municipio, comarca o provincia), nos saldrán solo las rutas en las que se haya pasado por aquel territorio.
-- En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.
+- En la tabla, se puede seleccionar una actividad, para que filtre por esa actividad.<br>
 Todos estos filtros afectan a las actividades que se muestran.
 
 Otros:
@@ -65,7 +65,7 @@ Gráficas e info:
 Filtros:
 - Por la fecha de la actividad.
 - En las gráficas de año o mes, se puede seleccionar un año o mes, para que filtre ese año o mes.
-- En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.
+- En los mapas de municipio, se puede seleccionar un municipio o comarca, para que filtre ese municipio o comarca.<br>
 Todos estos filtros afectan a las actividades que se muestran.
 
 <br>Aquí está el video de su funcionamiento publicado en LinkedIn:
