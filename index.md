@@ -4,6 +4,7 @@
     <li><a href="/Strava/">Strava Project</a></li>
   </ul>
 </div>
+<link rel="stylesheet" href="/custom.css">
 
 #  Arnau Garriga Riba <br />- Data Science Portfolio
 
