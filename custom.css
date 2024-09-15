@@ -1,0 +1,22 @@
+/* Añade este estilo a tu archivo custom.css */
+.tabs ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.tabs ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.tabs ul li a {
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: #f1f1f1;
+  border-radius: 4px;
+  color: #000;
+}
+
+.tabs ul li a:hover {
+  background-color: #ddd;
+}
