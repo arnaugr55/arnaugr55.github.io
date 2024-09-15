@@ -1,6 +1,6 @@
 # Strava Dashboard Project
 
-**[Link Repsoitorio Github]([Strava/](https://github.com/arnaugr55/Strava_project))**
+**[Link Repsoitorio Github]([Strava/](https://github.com/arnaugr55/Strava_project))**<br>
 **[Link Strava](https://www.strava.com/)**
 
 En este proyecto he descargado mi archivo strava que contiene información de mis actividades y otras estadísticas de mi cuenta Strava [aquí](https://www.strava.com/athlete/delete_your_account). Con este, y usando python he creado varios datasets con los que me he hecho un Dashboard interactivo, con Power BI.
