@@ -1,4 +1,4 @@
-# Strava Dashboard Project
+# Flags Similarity Project
 
 <div class="tabs">
   <ul>
@@ -32,6 +32,36 @@ El código se encuentra en el fichero *Graph representations of flags similarity
 
 <br>***Ejemplo del dataset***<br>
 Algunas de las filas del dataset:
+<table>
+  <thead>
+    <tr>
+      <th>name</th>
+      <th>landmass</th>
+      <th>zone</th>
+      <th>area</th>
+      <th>population</th>
+      <!-- Añade más columnas aquí -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Afghanistan</td>
+      <td>5</td>
+      <td>1</td>
+      <td>648</td>
+      <td>16</td>
+      <!-- Añade más filas aquí -->
+    </tr>
+    <tr>
+      <td>Albania</td>
+      <td>3</td>
+      <td>1</td>
+      <td>29</td>
+      <td>3</td>
+      <!-- Añade más filas aquí -->
+    </tr>
+  </tbody>
+  
 | name           | landmass | zone | area | population | language | religion | bars | stripes | colours | red | green | blue | gold | white | black | orange | mainhue | circles | crosses | saltires | quarters | sunstars | crescent | triangle | icon | animate | text | topleft | botright |
 |----------------|----------|------|------|------------|----------|----------|------|---------|---------|-----|-------|------|------|-------|-------|--------|---------|---------|---------|----------|----------|----------|----------|----------|------|---------|------|---------|----------|
 | Afghanistan    | 5        | 1    | 648  | 16         | 10       | 2        | 3    | 0       | 4       | 1   | 1     | 0    | 0    | 1     | 1     | 0      | black   | 0       | 0       | 0        | 0        | 0        | 0        | 1        | 0    | 1       | black | green   |
