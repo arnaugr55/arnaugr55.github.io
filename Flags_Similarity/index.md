@@ -47,7 +47,7 @@ Como vemos en este ejemplo, la bandera de España es similar a otras banderas co
 
 --Grafos Generados--<br>
 Se han generado un total de 6 grafos. Son los siguientes.
-<iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/grafos_banderas_tabla.html" width="100%" height="500px"></iframe>
+<iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/grafos_banderas_tabla.html" width="100%" height="900px"></iframe>
 
 
 Además, en el notebook también podemos ver que se han hecho análisis (xxxx) sobre los resultados. 
