@@ -42,7 +42,7 @@ Con un KNN calculamos las 10 banderas/vecinos más parecidos para cada una. El u
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Flags_Similarity/resources/top10_similitud.png" alt="España y banderas similares" width="850">
 </div>
-Como vemos en este ejemplo, la bandera de España es similar a otras banderas con franjas horizontales, colores rojizos, símbolos en el medio...
+Como vemos en este ejemplo, la bandera de España es similar a otras banderas con franjas horizontales, colores rojizos, símbolos en el medio...<br>
 
 
 --Grafos Generados--<br>
@@ -50,6 +50,5 @@ Se han generado un total de 6 grafos. Son los siguientes.
 <iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/grafos_banderas_tabla.html" width="100%" height="900px"></iframe>
 
 
-Además, en el notebook también podemos ver que se han hecho análisis (xxxx) sobre los resultados. 
-
+**Recomiendo que abráis el notebook, donde podréis ver el código y los resultados de forma visual y comprensible.**
 
