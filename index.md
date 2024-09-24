@@ -18,6 +18,15 @@ En este Portfolio hago una compilación de todos los proyectos hechos. Algunos e
 ## Mis mejores Proyectos
 
 
+**[Strava-Dashboard-Project](Strava/)**
+
+Proyecto de Python + Power BI con la información que da la red social de deportes, Strava, sobre las actividades hechas.
+
+Mediante Power BI he creado un dashboard interactivo donde se pueden ver los recorridos realizados, total de kilómetros o actividades, montañas subidas por mi propio usuario.
+
+Para adaptar y transformar los datos obtenidos he usado Python.
+
+
 **[Flags Similarity](https://github.com/arnaugr55/Flags-Similarity)**
 
 En este proyecto se ha cogido un csv con información de las banderas de todos los países del mundo. Esta información consiste en características, como número de rayas verticales, número de rayas horizontales, color más predominante, número de estrellas...
@@ -40,15 +49,6 @@ Tras entrar la palabra, se tiene que especifar el resultado, para que el algorit
 Proyecto de Computer Vision, en el cual, separa las 35 piezas de un puzzle 7*5 en fotos separadas y es capaz de resolver el puzzle colocando estas piezas en su posición correcta.
 
 En este proyecto se ha usado el lenguaje M, y se ha desarrollado con **MATLAB**.<br>
-
-
-**[Strava-Dashboard-Project](Strava/)**
-
-Proyecto de Python + Power BI con la información que da la red social de deportes, Strava, sobre las actividades hechas.
-
-Mediante Power BI he creado un dashboard interactivo donde se pueden ver los recorridos realizados, total de kilómetros o actividades, montañas subidas por mi propio usuario.
-
-Para adaptar y transformar los datos obtenidos he usado Python.
 
 
 **Spotify Catalunya Data**
