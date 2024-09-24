@@ -30,61 +30,26 @@ El conjunto de datos se realizó en 1986, por lo que está muy desactualizado. S
 ***Código***<br>
 El código se encuentra en el fichero *Graph representations of flags similarity.ipynb* del repositorio. Se encuentra explicado en inglés paso a paso.
 
-<br>***Ejemplo del dataset***<br>
+<br>***Dataset***<br>
+El dataset de entrada con la información de cada país y de su bandera es el siguiente:
 <iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/banderas_paises.html" width="100%" height="500px"></iframe>
-
-
-
-Algunas de las filas del dataset:
-<table>
-  <thead>
-    <tr>
-      <th>name</th>
-      <th>landmass</th>
-      <th>zone</th>
-      <th>area</th>
-      <th>population</th>
-      <!-- Añade más columnas aquí -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Afghanistan</td>
-      <td>5</td>
-      <td>1</td>
-      <td>648</td>
-      <td>16</td>
-      <!-- Añade más filas aquí -->
-    </tr>
-    <tr>
-      <td>Albania</td>
-      <td>3</td>
-      <td>1</td>
-      <td>29</td>
-      <td>3</td>
-      <!-- Añade más filas aquí -->
-    </tr>
-  </tbody>
-  
-| name           | landmass | zone | area | population | language | religion | bars | stripes | colours | red | green | blue | gold | white | black | orange | mainhue | circles | crosses | saltires | quarters | sunstars | crescent | triangle | icon | animate | text | topleft | botright |
-|----------------|----------|------|------|------------|----------|----------|------|---------|---------|-----|-------|------|------|-------|-------|--------|---------|---------|---------|----------|----------|----------|----------|----------|------|---------|------|---------|----------|
-| Afghanistan    | 5        | 1    | 648  | 16         | 10       | 2        | 3    | 0       | 4       | 1   | 1     | 0    | 0    | 1     | 1     | 0      | black   | 0       | 0       | 0        | 0        | 0        | 0        | 1        | 0    | 1       | black | green   |
-| Albania        | 3        | 1    | 29   | 3          | 6        | 6        | 0    | 0       | 3       | 1   | 0     | 0    | 1    | 0     | 1     | 0      | red     | 0       | 0       | 0        | 1        | 0        | 0        | 0        | 1    | 0       | red   | red     |
-| Algeria        | 4        | 1    | 2388 | 20         | 8        | 2        | 2    | 0       | 3       | 1   | 1     | 0    | 0    | 1     | 0     | 0      | green   | 0       | 0       | 0        | 1        | 1        | 0        | 0        | 0    | 0       | green | white   |
-| American-Samoa | 6        | 3    | 0    | 0          | 1        | 1        | 0    | 0       | 5       | 1   | 0     | 1    | 1    | 1     | 0     | 1      | blue    | 0       | 0       | 0        | 0        | 0        | 1        | 1        | 1    | 0       | blue  | red     |
-| Andorra        | 3        | 1    | 0    | 0          | 6        | 0        | 3    | 0       | 3       | 1   | 0     | 1    | 1    | 0     | 0     | 0      | gold    | 0       | 0       | 0        | 0        | 0        | 0        | 0        | 0    | 0       | blue  | red     |
-| Angola         | 4        | 2    | 1247 | 7          | 10       | 5        | 0    | 2       | 3       | 1   | 0     | 0    | 1    | 0     | 1     | 0      | red     | 0       | 0       | 0        | 1        | 0        | 0        | 1        | 0    | 0       | red   | black   |
-| Anguilla       | 1        | 4    | 0    | 0          | 1        | 1        | 0    | 0       | 4       | 1   | 0     | 1    | 1    | 1     | 0     | 0      | blue    | 0       | 2       | 1        | 1        | 0        | 0        | 0        | 1    | 0       | white | blue    |
-| Antigua-Barbuda| 1        | 4    | 0    | 0          | 1        | 1        | 0    | 1       | 5       | 1   | 0     | 1    | 1    | 1     | 1     | 0      | red     | 0       | 0       | 0        | 1        | 0        | 1        | 0        | 0    | 0       | black | red     |
-| Argentina      | 2        | 3    | 2777 | 45         | 2        | 0        | 0    | 3       | 2       | 0   | 0     | 1    | 0    | 1     | 0     | 0      | blue    | 0       | 0       | 0        | 0        | 0        | 0        | 0        | 0    | 0       | blue  | blue    |
 
 <br>
 
 <br>***Resultados***<br>
 --TOP10 Similitudes--<br>
-xxx
+Con un KNN calculamos las 10 banderas/vecinos más parecidos para cada una. El usuario puede entrar el país y obtendrá las 10 banderas más parecidas a la del país seleccionado:
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Flags_Similarity/resources/top10_similitud.png" alt="España y banderas similares" width="850">
+</div>
+Como vemos en este ejemplo, la bandera de España es similar a otras banderas con franjas horizontales, colores rojizos, símbolos en el medio...
+
+
 --Grafos Generados--<br>
-Se han generado un total de 6 grafos. Esos son los siguientes.
+Se han generado un total de 6 grafos. Son los siguientes.
+<iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/grafos_banderas_tabla.html" width="100%" height="500px"></iframe>
+
+
 Además, en el notebook también podemos ver que se han hecho análisis (xxxx) sobre los resultados. 
 
 
