@@ -8,6 +8,7 @@
 </div>
 <link rel="stylesheet" href="/custom.css"><br>
 
+**Publicació**: 08/06/2024
 --> **[Link Repositorio Github](https://github.com/arnaugr55/Strava_project)**<br>
 --> **[Link Strava](https://www.strava.com/)**
 
