@@ -31,6 +31,10 @@ El conjunto de datos se realizó en 1986, por lo que está muy desactualizado. S
 El código se encuentra en el fichero *Graph representations of flags similarity.ipynb* del repositorio. Se encuentra explicado en inglés paso a paso.
 
 <br>***Ejemplo del dataset***<br>
+<iframe src="https://arnaugr55.github.io/Flags_Similarity/resources/banderas_paises.html" width="100%" height="500px"></iframe>
+
+
+
 Algunas de las filas del dataset:
 <table>
   <thead>
