@@ -46,6 +46,7 @@
             <tr>
                 <th>Título</th>
                 <th>Imagen</th>
+				<th>Descripicón</th>
                 <th>Fichero gexf</th>
                 <th>Análisis</th>
             </tr>
@@ -53,21 +54,59 @@
         <tbody>
             <tr>
                 <td><strong>Grafo dirigido y ponderado con todas las aristas</strong></td>
-                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G1.png"  width="600"></td>
+				<td>Contiene todos los países + sus 10 aristas "salientes" por país.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G1.png"  width="500"></td>
                 <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G1.gexf">Link Gexf Grafo1</a></td>
                 <td>Revisando las  Degree, Closeness & Betweeness Centralities del grafo, vemos que Austria y Bahrein son las que tiene una centralidad más alta de todo el grafo.</td>
             </tr>
             <tr>
-                <td>Albania</td>
-                <td>3</td>
-                <td>1</td>
-                <td>29</td>
+                <td><strong>Grafo de Austria</strong></td>
+                <td>Grafo de Austria y sus vecions. Con todas las conexiones entre estos nodos.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G2.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G2.gexf">Link Gexf Grafo2</a></td>
+                <td>Vemos que hay 16 banderas que tienen la de Austria en su top10. De este grupo de banderas, las que tienen una centralidad mas alta son Laos, Rusia y Eslovaquia (sin contar Austria, claro).</td>
             </tr>
             <tr>
-                <td>Algeria</td>
-                <td>4</td>
-                <td>1</td>
-                <td>2388</td>
+                <td><strong>Grafo con solo las X aristas con menos peso</strong></td>
+                <td>Este gráfo no dirigido consiste en mostrar solo las 65 aristas con menor peso (es decir, que indican que sus banderas se parecen más) y sus nodos.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G3.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G3.gexf">Link Gexf Grafo3</a></td>
+                <td>Hay un total de 75 nodos en el grafo.<br>Hay 24 componentes conexos (subgrafos) en el grafo.<br>El componente conexo con mas nodos es el que forman Bahrain, Greenland, Switzerland, Norway, Tonga, United Kingdom, Japan y Denmark. 8 nodos con 11 aristas entre ellos.</td>
+            </tr>
+            <tr>
+                <td><strong>Grafo camino</strong></td>
+                <td>En primer lugar, crearemos el grafo con todos los nodos pero sin aristas. Luego iremos añadiendo las aristas (empezaremos por las que tengan menor distancia) hasta que todos los nodos estén conectados en un único componente.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G4.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G4.gexf">Link Gexf Grafo4</a></td>
+                <td>Los nodos con mas centralidad en este grafo son Ethiopia, Benin y Mali.<br>El camino más largo entre los nodos de este grafo es entre Kazakhstan y Uganda.</td>
+            </tr>
+			<tr>
+                <td><strong>EuroGraph</strong></td>
+                <td>Este consiste en un grafo donde solo tenemos los países europeos. En esta ocasión, haremos 4 aristas por nodo.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G5.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G5.gexf">Link Gexf Grafo5</a></td>
+                <td>La bandera con mas centralidad, en este caso, es la de Suiza.</td>
+            </tr>
+			<tr>
+                <td><strong>EuroGraph 2</strong></td>
+                <td>Cogemos el grafo anterior, lo convertimos a indirecto y vamos borrando en cada iteración el NODO con mas betweenness centrality hasta quedarse con 5 componentes conexos.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G5_.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G5_.gexf">Link Gexf Grafo5_</a></td>
+                <td>Se han borrado los siguientes nodos: Montenegro, Lithuania, Monaco, Gibraltar, France y Hungary.</td>
+            </tr>
+			<tr>
+                <td><strong>Grafo TOP25 Países</strong></td>
+                <td>Este grafo contiene sólo los TOP25 países del mundo en términos de población. En esta ocasión, haremos 3 aristas por nodo.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G6.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G6.gexf">Link Gexf Grafo6</a></td>
+                <td>Las banderas con mas centralidad, en este caso, son las de Turkey, Vietnam, India, Nigeria & Japan.</td>
+            </tr>
+			<tr>
+                <td><strong>Grafo TOP25 Países 2</strong></td>
+                <td>Cogemos el grafo anterior, lo convertimos a indirecto y vamos borrando en cada iteración la ARISTA con mas betweenness centrality hasta quedarse con 4 componentes conexos.</td>
+                <td><img src="https://raw.githubusercontent.com/arnaugr55/Flags-Similarity/refs/heads/main/Graphs/G6_.png"  width="500"></td>
+                <td><a href="https://github.com/arnaugr55/Flags-Similarity/blob/main/gexf%20files/G6_.gexf">Link Gexf Grafo6_</a></td>
+                <td>Se han borrado un total de 10 aristas.</td>
             </tr>
         </tbody>
     </table>
