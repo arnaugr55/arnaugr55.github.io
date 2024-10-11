@@ -2,6 +2,7 @@
   <ul>
     <li><a href="#home">Inicio</a></li>
     <li><a href="/Strava/">Strava Project</a></li>
+    <li><a href="/Flags/">Flags Similarity</a></li>
   </ul>
 </div>
 <link rel="stylesheet" href="/custom.css">
@@ -27,7 +28,7 @@ Mediante Power BI he creado un dashboard interactivo donde se pueden ver los rec
 Para adaptar y transformar los datos obtenidos he usado Python.
 
 
-**[Flags Similarity](https://github.com/arnaugr55/Flags-Similarity)**
+**[Flags Similarity](Flags_Similarity/)**
 
 En este proyecto se ha cogido un csv con información de las banderas de todos los países del mundo. Esta información consiste en características, como número de rayas verticales, número de rayas horizontales, color más predominante, número de estrellas...
 
