@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/custom.css"><br>
 
 **Publicación**: 19/02/2023<br>
---> **[Link Repositorio Github](Flags-Similarity)**<br>
+--> **[Link Repositorio Github](https://github.com/arnaugr55/Flags-Similarity)**<br>
 
 ***Información***<br>
 Proyecto realizado en un notebook de python (.ipynb). En el notebook tenemos un grupo de gráficos que muestran la similitud entre las banderas de los 214 países y territorios. Esta similitud se ha encontrado mediante un modelo de KNN.
