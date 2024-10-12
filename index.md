@@ -2,7 +2,7 @@
   <ul>
     <li><a href="#home">Inicio</a></li>
     <li><a href="/Strava/">Strava Project</a></li>
-    <li><a href="/Flags Similarity/">Flags Similarity</a></li>
+    <li><a href="/Flags_Similarity/">Flags Similarity</a></li>
   </ul>
 </div>
 <link rel="stylesheet" href="/custom.css">
