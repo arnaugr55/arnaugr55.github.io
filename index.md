@@ -5,6 +5,7 @@
     <li><a href="/Flags_Similarity/">Flags Similarity</a></li>
     <li><a href="/Wordle_Solver/">Wordle</a></li>
     <li><a href="/Puzzle_Solver/">Puzzle</a></li>
+    <li><a href="/Simulació UCL/">Puzzle</a></li>
   </ul>
 </div>
 <link rel="stylesheet" href="/custom.css">
@@ -28,6 +29,15 @@ Proyecto de Python + Power BI con la información que da la red social de deport
 Mediante Power BI he creado un dashboard interactivo donde se pueden ver los recorridos realizados, total de kilómetros o actividades, montañas subidas por mi propio usuario.
 
 Para adaptar y transformar los datos obtenidos he usado Python.
+
+
+**[Simulacio-UCL](Simulacio_UCL/)**
+
+Proyecto de código Python en el que he programado el desarrollo de la Champions League. Desde la definidión de los 144 partidos de la Fase Liga hasta la final.
+
+Se ha usado la librería de Flask para mostrar la clasificación y los resultados en un html en el navegador. Además, también se ha usado la librería PIL para mostrar en imágenes, los contrincantes de cada equipo en la fase liga y el bracket de las ronda eliminatoria.
+
+El proyecto tabién cuenta con la opción de lanzar vasrias simulaiones una tras otra. Tras esto, devuelve un csv con los resultados de cada equipo en cada iteración.
 
 
 **[Flags Similarity](Flags_Similarity/)**
