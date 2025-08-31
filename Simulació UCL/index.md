@@ -19,8 +19,8 @@ Proyecto Python que simula el desarrollo de la Champions League. Desde la defini
 
 
 ***Código***<br>
-1. **main.py**: Código que se ejecuta y que orquesta todo el flujo. Va llamando a las funciones de funcions.py en orden y les va entrando los parámetros y variables que toquen según lo que indique el usuario. Como digo, al ejecutarlo se le harán unas pocas preguntas por pantalla al usuario que este debe responder. Son preguntas del estilo: *¿cuántas iteraciones quieres?, quieres coger una fase de grupos ya generada?...*
-2. **funcions.py**: Es donde está todo el grueso. Está compuesta por funciones, cada una con un propósito distinto. (ej: hacer la fase de grupos, simular partidos, generar el html de la clasificación...)
+1. **main.py**: Código que se ejecuta y que orquesta todo el flujo. Va llamando a las funciones de funcions.py en orden y les va entrando los parámetros y variables que toquen según lo que indique el usuario. Como digo, al ejecutarlo se le harán unas pocas preguntas por pantalla al usuario que este debe responder. Son preguntas del estilo: *¿cuántas iteraciones quieres?, quieres coger una fase liga ya generada?...*
+2. **funcions.py**: Es donde está todo el grueso. Está compuesta por funciones, cada una con un propósito distinto. (ej: hacer la fase liga, simular partidos, generar el html de la clasificación...)
 
 Los scripts se encuentran en el github del proyecto. Ahí están comentados paso a paso.
 
@@ -28,7 +28,7 @@ Los scripts se encuentran en el github del proyecto. Ahí están comentados paso
 
 Generación de la Fase Liga:
 1. **validem_sorteig_fase_lliga()**: Llama a *sorteig_fase_lliga()* hasta que esta función le devuelva una fase liga completa. Tras esto, se guarda la fase de liga como *enfrontaments_matriu_AAAAAAAAAA*. Donde AAAAAAAAAA son 10 cifras o letras aleatorias.
-2. **sorteig_fase_lliga()**: Itera equipo a equipo y le va metiendo los 8 rivales. Los va guardando en una matriz 36x36. En cuanto ve que a un equipo no le puede meter más rivales (ya sea por +2 rivales misma liga o +2 rivales mismo bombo), sale de la función, por mucho que la fase de grupos esté incompleta. Aun así, como *validem_sorteig_fase_lliga()* verá que no está completa, la volverá a llamar empezando de nuevo... y así hasta que se consigan los 144 enfrentamientos.
+2. **sorteig_fase_lliga()**: Itera equipo a equipo y le va metiendo los 8 rivales. Los va guardando en una matriz 36x36. En cuanto ve que a un equipo no le puede meter más rivales (ya sea por +2 rivales misma liga o +2 rivales mismo bombo), sale de la función, por mucho que la fase liga esté incompleta. Aun así, como *validem_sorteig_fase_lliga()* verá que no está completa, la volverá a llamar empezando de nuevo... y así hasta que se consigan los 144 enfrentamientos.
 3. **definim_local_visitant()**: Convierte la matriz de partidos en pandas dataset con los 144 partidos. Luego para cada equipo, le da 4 partidos como local y 4 como visitante. Tras esto, ordena los partido para meter delante al equipo local (ej: PSV vs PSG, el local será el PSV)
 4. **fase_lliga_imatge()**: Se muestran 4 imágenes. Cada una de ellas son los 9 equipos de cada bombo, con sus 8 respectivos rivales.
 5. **assignar_jornades()**: Añade, para cada partido, la jornada en la que se jugará (de 1 a 8).
