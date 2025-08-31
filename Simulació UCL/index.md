@@ -33,6 +33,11 @@ Generación de la Fase Liga:
 4. **fase_lliga_imatge()**: Se muestran 4 imágenes. Cada una de ellas son los 9 equipos de cada bombo, con sus 8 respectivos rivales.
 5. **assignar_jornades()**: Añade, para cada partido, la jornada en la que se jugará (de 1 a 8).
 ---> Las funciones 1, 2, 3 y 5 suelen tardar bastante, por lo que tenemos la posibilidad de coger una fase liga ya pre generada, evitando así, que se llame a estas funciones.
+   
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Simulació UCL/resources/fase_lliga_POT1.png" alt="Se muestra la fase liga" width="400">
+</div><br/>
+
 
 Simulación de la Fase Liga:
 1. **fase_lliga()**: Función que simula la fase liga. Va iterando jornada a jornada, simulando los partidos y actualizando la clasificación.
@@ -48,8 +53,23 @@ Simulación de la Fase Liga:
 5. **html_table_fase_lliga()**: Crea y muestra un HTML con la clasificación de la fase liga tras cada jornada. Muestra las zonas de clasificación directa, playoffs y eliminación en colores distintos.
 6. **desempat()**: Se encarga de, cuando han finalizado las 8 jornadas, desempatar a los equipos que tienen los mismos puntos.
 
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Simulació UCL/resources/resultats_jornada.png" alt="Se muestran los resultados de la jornada." width="700">
+</div><br/>
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Simulació UCL/resources/classificacio_final.png" alt="Se muestra la clasificación en la fase liga" width="400">
+</div><br/>
+
+
 Playoffs y rondas eliminatorias:
 1. **determinar_classificat()**: Llama 2 veces a *partit()*, simulando la ida y la vuelta de la eliminatoria. Si tras los 2 partidos los equipos quedan empatados, se llama a *desempat()*. Retorna el quipo que pasa la eliminatoria.
 2. **update_results()**: Actualiza el diccionario "arribat" que va guardando a qué ronda llega cada equipo.
 3. **genera_imatge_brackets_final()**: Va generando el bracket de octavos hasta la final. A cada clic, la imagen "avanza" simulándose un partido.
 4. **bracket_phase()**: Simula las rondas eliminatorias, llamando a *determinar_classificat()* para los partidos hasta llegar a la final, que llama a *partit()*.
+
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Simulació UCL/resources/resultats_playoffs.png" alt="Se muestran los resultados de los playoffs." width="700">
+</div><br/>
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Simulació UCL/resources/bracket_final.png" alt="Se muestra el bracket" width="800">
+</div><br/>
