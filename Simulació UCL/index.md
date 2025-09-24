@@ -73,3 +73,9 @@ Playoffs y rondas eliminatorias:
 <div style="text-align: center;">
   <img src="https://arnaugr55.github.io/Simulació UCL/resources/bracket_final.png" alt="Se muestra el bracket" width="800">
 </div><br/>
+
+
+***CSV con las simulaciones***<br>
+Tenemos la opción de hacer varias iteraciones y guardar los resultados de todos ellos en un csv. En este, se muestra, para cada uno de los 36 equipos, cuantas veces han ganado la Champions o han llegado a la final, o semi...<br>
+Este de aquí abajo es un ejemplo con 10.000 iteraciones para la UCL de la temporada 2025/26.
+<iframe src="https://arnaugr55.github.io/Simulació_UCL/resources/Equips_resultats_10000x.html" width="100%" height="500px"></iframe>
