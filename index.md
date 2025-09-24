@@ -31,7 +31,7 @@ Mediante Power BI he creado un dashboard interactivo donde se pueden ver los rec
 Para adaptar y transformar los datos obtenidos he usado Python.
 
 
-**[Simulacio-UCL](Simulacio_UCL/)**
+**[Simulacio-UCL](Simulació_UCL/)**
 
 Proyecto de código Python en el que he programado el desarrollo de la Champions League. Desde la definidión de los 144 partidos de la Fase Liga hasta la final.
 
