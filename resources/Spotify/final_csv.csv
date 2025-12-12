@@ -1,554 +1,649 @@
 Artista,Oients Mensuals,Municipi,Spotify_id,Comarca,Població,Província,Comunitat Autònoma
-The Tyets,769000,Mataró,6I63R76ouyFvUIwPggQxxT,Maresme,129661.0,Barcelona,Catalunya
-Oques Grasses,745800,Roda de Ter,5qPeAT4ikl6gJNUexAOEy0,Osona,6490.0,Barcelona,Catalunya
-Figa Flawas,674700,Valls,2enhM5DK9oTxWiCVpFIDv3,Alt Camp,24477.0,Tarragona,Catalunya
-Mushkaa,518299,Vilassar de Mar,3jU5LKRsimuyZjA0lSkdPp,Maresme,21035.0,Barcelona,Catalunya
-La Fúmiga,411500,Alzira,2Y4AiImxLUoWEgxedb3Gtz,Ribera Alta,44352.0,València,Comunitat Valenciana
-Buhos,370500,Calafell,7BdgXLhynRQk78pKkhAsAR,Baix Penedès,27601.0,Tarragona,Catalunya
-Els Catarres,356600,Aiguafreda,0InCPtI0kadS7s3cZrcbbY,Vallès Oriental,2512.0,Barcelona,Catalunya
-Stay Homas,347000,Barcelona,7fUEi9sgiLw8gwQ307T6IU,Barcelonès,1664182.0,Barcelona,Catalunya
-Txarango,342700,Sant Joan de les Abadesses,6XYRpcgPIK9OejoVzA7PbC,Ripollès,10803.0,Girona,Catalunya
-Julieta,272100,Barcelona,7DzqOghrDEW0vlJxZXaeLj,Barcelonès,1664182.0,Barcelona,Catalunya
-Zoo,263100,Gandia,7a3ryRcO3alwbqaX4RagzM,Safor,74562.0,València,Comunitat Valenciana
-Ginestà,244700,Barcelona,3hi1Ewhqpzl1jO2GemGmv6,Barcelonès,1664182.0,Barcelona,Catalunya
-Beth,225100,Súria,6CkxdsUcfqkBviY2N6xsVA,Bages,5948.0,Barcelona,Catalunya
-Blaumut,208100,Barcelona,3LvDuQ0lHuIaNzW3Sv3NVO,Barcelonès,1664182.0,Barcelona,Catalunya
-31 FAM,203600,Sabadell,0LweECx5LKm6I3gIcWMdpB,Vallès Occidental,216520.0,Barcelona,Catalunya
-Manel,202400,Barcelona,40tHhop0T30DwienQBmTxb,Barcelonès,1664182.0,Barcelona,Catalunya
-Doctor Prats,190200,Terrassa,7ncQ3AmAxYqTv2vY46YclW,Vallès Occidental,223627.0,Barcelona,Catalunya
-Sopa de Cabra,189100,Girona,1qNkvcsEC2Hry31JWkYO3D,Gironès,103369.0,Girona,Catalunya
-Joan Dausà,184200,Sant Feliu de Llobregat,1GRFao1QTh0i5Wx5Ms0A3I,Baix Llobregat,45467.0,Barcelona,Catalunya
-Els Amics de les Arts,183400,Barcelona,0op3EnoEZ0jQY13sbyoSo2,Barcelonès,1664182.0,Barcelona,Catalunya
-Els Pets,141700,Constantí,0OVfimlbekXaMrP8IoCzHJ,Tarragonès,6665.0,Tarragona,Catalunya
-roots,134500,Mataró,25rfSQptHe18iy1f4TYR7A,Maresme,129661.0,Barcelona,Catalunya
-Lax'n'Busto,121800,el Vendrell,7Ix9GNTGIUIFBpPC6K0QeP,Baix Penedès,38373.0,Tarragona,Catalunya
-Flashy Ice Cream,118300,Sabadell,24yN33FZM27S4x4EJCFsjR,Vallès Occidental,216520.0,Barcelona,Catalunya
-FC Barcelona,115900,Barcelona,2zfI0nMFZdaQrFDx9l5OSR,Barcelonès,1664182.0,Barcelona,Catalunya
-Scotty DK,112200,-,0gOjPKtrlU8B7w11OkbYdo,,,,Catalunya
-El Pot Petit,109400,-,0ppZDI2m82SqnYimw7a7xj,Alt Empordà,,Girona,Catalunya
-Teràpia de Shock,108800,Olot,516I5yMeUCjpibhW6Jbn1U,Garrotxa,35926.0,Girona,Catalunya
+Oques Grasses,761238,Roda de Ter,5qPeAT4ikl6gJNUexAOEy0,Osona,6490.0,Barcelona,Catalunya
+The Tyets,604891,Mataró,6I63R76ouyFvUIwPggQxxT,Maresme,129661.0,Barcelona,Catalunya
+Figa Flawas,585225,Valls,2enhM5DK9oTxWiCVpFIDv3,Alt Camp,24477.0,Tarragona,Catalunya
+Mushkaa,461726,Vilassar de Mar,3jU5LKRsimuyZjA0lSkdPp,Maresme,21035.0,Barcelona,Catalunya
+Buhos,354862,Calafell,7BdgXLhynRQk78pKkhAsAR,Baix Penedès,27601.0,Tarragona,Catalunya
+La Fúmiga,331979,Alzira,2Y4AiImxLUoWEgxedb3Gtz,Ribera Alta,44352.0,València,Comunitat Valenciana
+Stay Homas,331314,Barcelona,7fUEi9sgiLw8gwQ307T6IU,Barcelonès,1664182.0,Barcelona,Catalunya
+Txarango,319246,Sant Joan de les Abadesses,6XYRpcgPIK9OejoVzA7PbC,Ripollès,10803.0,Girona,Catalunya
+Miki Núñez,312031,Terrassa,2hahtdJusGYC77DKod4qfB,Vallès Occidental,223627.0,Barcelona,Catalunya
+Els Catarres,297717,Aiguafreda,0InCPtI0kadS7s3cZrcbbY,Vallès Oriental,2512.0,Barcelona,Catalunya
+Alfred García,281462,El Prat de Llobregat,0CQgFG7XHyXRpSi24kl0cx,Baix Llobregat,65385.0,Barcelona,Catalunya
+Zoo,267271,Gandia,7a3ryRcO3alwbqaX4RagzM,Safor,74562.0,València,Comunitat Valenciana
+Julieta,267077,Barcelona,7DzqOghrDEW0vlJxZXaeLj,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan Dausà,220716,Sant Feliu de Llobregat,1GRFao1QTh0i5Wx5Ms0A3I,Baix Llobregat,45467.0,Barcelona,Catalunya
+Manel,215527,Barcelona,40tHhop0T30DwienQBmTxb,Barcelonès,1664182.0,Barcelona,Catalunya
+Ginestà,214204,Barcelona,3hi1Ewhqpzl1jO2GemGmv6,Barcelonès,1664182.0,Barcelona,Catalunya
+Beth,196793,Súria,6CkxdsUcfqkBviY2N6xsVA,Bages,5948.0,Barcelona,Catalunya
+Sopa de Cabra,194919,Girona,1qNkvcsEC2Hry31JWkYO3D,Gironès,103369.0,Girona,Catalunya
+Doctor Prats,188806,Terrassa,7ncQ3AmAxYqTv2vY46YclW,Vallès Occidental,223627.0,Barcelona,Catalunya
+Els Amics de les Arts,183038,Barcelona,0op3EnoEZ0jQY13sbyoSo2,Barcelonès,1664182.0,Barcelona,Catalunya
+Blaumut,178133,Barcelona,3LvDuQ0lHuIaNzW3Sv3NVO,Barcelonès,1664182.0,Barcelona,Catalunya
+31 FAM,170389,Sabadell,0LweECx5LKm6I3gIcWMdpB,Vallès Occidental,216520.0,Barcelona,Catalunya
+FC Barcelona,160332,Barcelona,2zfI0nMFZdaQrFDx9l5OSR,Barcelonès,1664182.0,Barcelona,Catalunya
+Els Pets,146063,Constantí,0OVfimlbekXaMrP8IoCzHJ,Tarragonès,6665.0,Tarragona,Catalunya
+Teràpia de Shock,141751,Olot,516I5yMeUCjpibhW6Jbn1U,Garrotxa,35926.0,Girona,Catalunya
+Lax'n'Busto,124190,el Vendrell,7Ix9GNTGIUIFBpPC6K0QeP,Baix Penedès,38373.0,Tarragona,Catalunya
+El Pot Petit,121155,-,0ppZDI2m82SqnYimw7a7xj,Alt Empordà,,Girona,Catalunya
+Scotty DK,117274,-,0gOjPKtrlU8B7w11OkbYdo,,,,Catalunya
+roots,115513,Mataró,25rfSQptHe18iy1f4TYR7A,Maresme,129661.0,Barcelona,Catalunya
 Dani6ix & IZZKID,108500,Teià,3uvPbZvw5KBjF8WRkMsjcz,Maresme,6427.0,Barcelona,Catalunya
-Sau,98600,Vic,3msvxEo03ktYlej2y2j3lF,Osona,47630.0,Barcelona,Catalunya
-Dj Capde,92300,Vic,0DXKg3FniPodRRMb4AlCGw,Osona,47630.0,Barcelona,Catalunya
-Antònia Font,91400,Palma,503mwh1GWEiWy9bzzpiTFW,Mallorca,407648.0,Illes Balears,Illes Balears
-Lluís Llach,91400,Verges,3zVGMz661UQBxwt04UIYV0,Baix Empordà,1169.0,Girona,Catalunya
-La Gossa Sorda,91000,Pego,0luDJsRYWbHW2Sj1I5TPrE,Marina Alta,10128.0,Alacant,Comunitat Valenciana
-Pau Vallvé,87200,Barcelona,2e9wKql4wZPFzTfNgpBa9s,Barcelonès,1664182.0,Barcelona,Catalunya
-Sexenni,83400,Lleida,4u6NigaxBfdKYhDdifXSCR,Segrià,140403.0,Lleida,Catalunya
-Dàmaris Gelabert,83000,Barcelona,3FGL9zcXC0ZcBFui2S9PxK,Barcelonès,1664182.0,Barcelona,Catalunya
-Gossos,81800,Manresa,798kDjwOnvYR4iLHoDR3Gl,Bages,78245.0,Barcelona,Catalunya
-Lluís Gavaldà,81400,Constantí,138mB2iB94eTAMfzGGKsv9,Tarragonès,6665.0,Tarragona,Catalunya
-Al·lèrgiques al pol·len,80900,Barcelona,0M6k9ahckv10ACmoT6IIbS,Barcelonès,1664182.0,Barcelona,Catalunya
-Cesk Freixas,79700,Sant Pere de Riudebitlles,5cl9YjDDdgrN50CJzZO6er,Alt Penedès,2380.0,Barcelona,Catalunya
-La Ludwig Band,79000,Espolla,1hOwyBjBzD71G76KApDEy5,Alt Empordà,412.0,Girona,Catalunya
-Ven'nus,78000,Sabadell,37sDYqqodoEv0XbJxCSLSK,Vallès Occidental,216520.0,Barcelona,Catalunya
-Judit Neddermann,76000,Vilassar de Mar,1ImywUogV5mfqWMyXEvkgE,Maresme,21035.0,Barcelona,Catalunya
-Auxili,74500,Ontinyent,4RwMQgPzQB228Lh2YCnI1B,Vall d'Albaida,35347.0,València,Comunitat Valenciana
-Baya Baye MGT Los Sosis,71600,Montgat,1B7narxB55v6EoUuA9kSBk,Maresme,12200.0,Barcelona,Catalunya
-Mama Dousha,70600,Barcelona,4jT1Pg2Ji7Zr2XnxrH1fsN,Barcelonès,1664182.0,Barcelona,Catalunya
-Pol Bordas,66500,Girona,1PcEYX38hbrPwOfzZmEqEI,Gironès,103369.0,Girona,Catalunya
-JazzWoman,65600,València,7yMJSfFJgb2YFBAKSckG4z,València,794288.0,València,Comunitat Valenciana
-Maria Jaume,65099,Lloret de Vistalegre,2QYudLHQwV6MDxWpZZtMNO,Pla de Mallorca,1340.0,Illes Balears,Illes Balears
-Habla de Mí en Presente,64400,Berlín,6Ve7C0L8bH6NfejnYfKOJn,,3878100.0,,
-Adala,62900,Barcelona,353yEVdHO50wAvfjzQUwN4,Barcelonès,1664182.0,Barcelona,Catalunya
-Lildami,57700,Terrassa,0gasUYSkVsXgX3p3bera9b,Vallès Occidental,223627.0,Barcelona,Catalunya
-Xavi Sarrià,55700,València,4PMfEsMG04n1mU3jbQGDVA,València,794288.0,València,Comunitat Valenciana
-Obrint Pas,54600,València,2FURpqYsZpi99ySpKCOyQE,València,794288.0,València,Comunitat Valenciana
-Svetlana,54400,Barcelona,3ax5cuCKLmHd6NEt0ZWGW6,Barcelonès,1664182.0,Barcelona,Catalunya
-Triquell,54100,Sant Quirze del Vallès,68CQGYnlJfrMyRcd255jVW,Vallès Occidental,20195.0,Barcelona,Catalunya
-Aspencat,52300,Xaló,2cvEw5LbWVI1CspbDOgmcQ,Marina Alta,2739.0,Alacant,Comunitat Valenciana
-La Trinca,50200,Canet de Mar,54Toa4i5KlxdbgaEUbz7Tj,Maresme,14865.0,Barcelona,Catalunya
-Alosa,47600,Blanes,3wGkgRi4YbaoT5a2iNj5fB,Selva,39914.0,Girona,Catalunya
-Mishima,46700,Barcelona,2E7iSyZ5Mv8x5mGu1RcKzT,Barcelonès,1664182.0,Barcelona,Catalunya
-Smoking Souls,46500,Pego,6EHWCnoYjPLhtr7Grw3804,Marina Alta,10128.0,Alacant,Comunitat Valenciana
-Guillem Ramisa,45400,Roda de Ter,2u6RzkkEtegMEBAy6MYcsW,Osona,6490.0,Barcelona,Catalunya
-Coral Sant Jordi,43600,Barcelona,11UrPWyoQgpyY2jETDYPBB,Barcelonès,1664182.0,Barcelona,Catalunya
-Roba Estesa,41900,Cambrils,3VzGOFrX7MDtLe2Wfndgjt,Baix Camp,34734.0,Tarragona,Catalunya
-Manu Guix,41400,Barcelona,6lyzFu3LfGxmXYO2jyxix3,Barcelonès,1664182.0,Barcelona,Catalunya
-Strombers,40300,Cardona,53QBC13AaAEh9AgmUFx5CH,Bages,4639.0,Barcelona,Catalunya
-Xanguito,39800,Bunyola,6IBu1sEZuZb5fSADgjncHJ,Serra de Tramuntana,6276.0,Illes Balears,Illes Balears
-Gertrudis,38600,la Garriga,3eAm5IYwnH7uTX5EBT9sbi,Vallès Oriental,16668.0,Barcelona,Catalunya
-Marala,37900,Barcelona,4LSJTZxetK3RlF5VO2AUqY,Barcelonès,1664182.0,Barcelona,Catalunya
-Roger Padrós,37500,Polinyà,5mSnwh5KuQs5rIcjQg2aje,Vallès Occidental,8504.0,Barcelona,Catalunya
-Maria Hein,36100,Felanitx,3XROpF1yIcXOcMjDkswghI,Migjorn,18388.0,Illes Balears,Illes Balears
-Pelat i Pelut,35600,Folgueroles,0Fqs1pyFYl8J2SMqmRJlV2,Osona,2265.0,Barcelona,Catalunya
-Guillem Gisbert,35100,Barcelona,0LqWxjJpozUhGWiacey9CL,Barcelonès,1664182.0,Barcelona,Catalunya
-P.A.W.N. Gang,34800,Barcelona,46HCmOnDrKgcbvTFFgnkkC,Barcelonès,1664182.0,Barcelona,Catalunya
-Socunbohemio,33900,Barcelona,3Zyph9kkkEfTKaMQrLotUV,Barcelonès,1664182.0,Barcelona,Catalunya
-Roger Mas,33200,Solsona,3KajPNH0UsaJhWiAf68JYY,Solsonès,9137.0,Lleida,Catalunya
-Jofre Bardagí,32900,Barcelona,6Ruvv3UraUke347B3R1lrj,Barcelonès,1664182.0,Barcelona,Catalunya
-FADES,32100,Palma,2GbjEKkwENPIzGzGU4haSO,Mallorca,407648.0,Illes Balears,Illes Balears
-El Diluvi,32100,Castalla,21OW9V8Wv1j0zqVTqz5V94,Alcoià,10124.0,Alacant,Comunitat Valenciana
-Sara Roy,31900,Manresa,71OOfmrGnQoJqrUIq133qs,Bages,78245.0,Barcelona,Catalunya
-Esther,31800,Vinaròs,5WTbB8itm33YPgupEhcMUS,Baix Maestrat,28682.0,Castelló,Comunitat Valenciana
-El Pony Pisador,31500,Barcelona,2Y4XnV7Msopr4ZHPKXBsH5,Barcelonès,1664182.0,Barcelona,Catalunya
-La Guardiola Groga,31500,Terrassa,4KhPNR1YMiuKcjk5VgK0f6,Vallès Occidental,223627.0,Barcelona,Catalunya
-Xicu,30900,Castellbisbal,7kvpnHcyn0RxXpUgEk8ov6,Vallès Occidental,12540.0,Barcelona,Catalunya
-Cactus,30000,-,6lZHxuO4S36ijw1trp5Z71,Comtat,,Alacant,Comunitat Valenciana
-Ferran Palau,29800,Collbató,7h0Xj4rDQMndEq2JsZZVzM,Baix Llobregat,4544.0,Barcelona,Catalunya
-Ouineta,29200,la Roca del Vallès,3a1trTgNtHPigdFxMGg1e3,Vallès Oriental,10754.0,Barcelona,Catalunya
-Sandra Monfort,28600,Pedreguer,61e36FRgKb0nR158oVJvij,Marina Alta,7699.0,Alacant,Comunitat Valenciana
-El Petit de Cal Eril,28100,Massoteres,5nlJ049WJIE7reR0SgUVyF,Segarra,212.0,Lleida,Catalunya
-Lali BeGood,27800,Barcelona,45HbN8ylTlLEtkS6SucwwX,Barcelonès,1664182.0,Barcelona,Catalunya
-Homes Llúdriga,27700,Barcelona,2V8IXjDqu1NsPCNRMlYWNr,Barcelonès,1664182.0,Barcelona,Catalunya
-Miquel Abras,27600,la Bisbal d'Empordà,4b8pGMcm329VfIv0uG3Piv,Baix Empordà,11159.0,Girona,Catalunya
-Boom Boom Fighters,27400,Girona,2bNKVXUVgZPjFR9VNYJNj6,Gironès,103369.0,Girona,Catalunya
-Crim,27200,Tarragona,2p7rRgVQsbzdA8zkpb83Q2,Tarragonès,136496.0,Tarragona,Catalunya
-Ambauka,25900,Molins de Rei,4N8xNpFMzKYOHVd9E1eNE8,Baix Llobregat,25940.0,Barcelona,Catalunya
-Quimi Portet,25500,Vic,03FGY5MFUz7JNP6yYbiceB,Osona,47630.0,Barcelona,Catalunya
-Tomeu Penya,25200,Vilafranca de Bonany,6KLolR6RNEUVUvKOOsxrXm,Pla de Mallorca,2971.0,Illes Balears,Illes Balears
-Jordi Tonietti,24200,Barcelona,1TKnsJe47nMx5NEMYZoy64,Barcelonès,1664182.0,Barcelona,Catalunya
-Ebri Knight,23100,Argentona,2GBUTum66FDsK1M6zd3u7G,Maresme,12536.0,Barcelona,Catalunya
-Dj Plan B,23000,València,0fCfaBpB9swXSqhNRU38rR,València,794288.0,València,Comunitat Valenciana
-Calagher,22900,Mataró,3ffpiODsUFT0nYlOborFVI,Maresme,129661.0,Barcelona,Catalunya
-Maio,22600,Barcelona,47cUV27yaXyttFU8K5HEvP,Barcelonès,1664182.0,Barcelona,Catalunya
-Ernest Prana,22500,Sabadell,7elQrux5S6rY1UwForG9t5,Vallès Occidental,216520.0,Barcelona,Catalunya
-Mar Pujol,22500,Prats de Lluçanès,1Lwzj7r2h7OYhhM4bDcFQe,Lluçanès,2604.0,Barcelona,Catalunya
-Malifeta,22200,-,7zmlWioAkvlpV4krlZkmQc,,,València,Comunitat Valenciana
-La Iaia,22000,Vic,2RoEO8VblRUUzcDp0zd1jn,Osona,47630.0,Barcelona,Catalunya
-Pupil·les,21800,València,3x9exBPPsch8NHTpOTJu83,València,794288.0,València,Comunitat Valenciana
-Lluc,21400,Santa Maria de Palautordera,7DyiuN7G1T9S6l5BCvVNXI,Vallès Oriental,18424.0,Barcelona,Catalunya
-Renaldo & Clara,21200,Lleida,29eGrPvxOuFDGOyOUi3RLq,Segrià,140403.0,Lleida,Catalunya
-Sangtraït,20700,la Jonquera,0T4rfoOZaBOSDm6DyGVGzF,Alt Empordà,3320.0,Girona,Catalunya
-Cookah P,19700,Girona,23d92HZZYDNJRlshjZIAt3,Gironès,103369.0,Girona,Catalunya
-Maig,19700,Barcelona,4oeSQBgx78jrlG6bGZrdgD,Barcelonès,1664182.0,Barcelona,Catalunya
-Núria López,19600,Santa Pau,5c2QITgp1iC7pY7Q396R2x,Garrotxa,1614.0,Girona,Catalunya
-Andreu Rifé,19400,Barcelona,4TxqqltARJw6R4wIFCgRXg,Barcelonès,1664182.0,Barcelona,Catalunya
-Raimon,19300,Xàtiva,53gngrNkCMQim2Fg4qbHZm,Costera,29231.0,València,Comunitat Valenciana
-Iglú,19300,Barcelona,4Wfi7bsHCX2jfKgYvwl4gO,Barcelonès,1664182.0,Barcelona,Catalunya
-Will.X.O,19100,Barcelona,0NNMqY9gUwR31gMAG27X6w,Barcelonès,1664182.0,Barcelona,Catalunya
-Pèl de Gall,18400,-,55fgmyROp14p0jbdzVEK8g,Menorca,,Illes Balears,Illes Balears
-Lo Puto Cat,18400,-,0Vnj54RNnbtxB4BFEDELju,,,,Catalunya
-Joan Miquel Oliver,18400,Sóller,6zXhOyC07G4spYTHFLm7oo,Serra de Tramuntana,14150.0,Illes Balears,Illes Balears
-Ja t'ho diré,18200,Ciutadella de Menorca,5d2POCYAVv4ardPLgc6kH0,Menorca,29580.0,Illes Balears,Illes Balears
-Eloi Sayrach,17900,Barcelona,0Ddz5exoprFRNpCym6FLXe,Barcelonès,1664182.0,Barcelona,Catalunya
-La Troba Kung-Fú,17800,la Garriga,78LSyERttuORro7Rz8ar3L,Vallès Oriental,16668.0,Barcelona,Catalunya
-Vernat,17500,Sabadell,5lxFyGjIisTPiz6W2MiOm9,Vallès Occidental,216520.0,Barcelona,Catalunya
-Xiula,17300,Barcelona,75Jrb42ngkh2fqfQi0O6um,Barcelonès,1664182.0,Barcelona,Catalunya
-Dan Peralbo,17000,Torelló,3FYUDIpmulHS4rb5xpP9iN,Osona,14400.0,Barcelona,Catalunya
-Remei de Ca la Fresca,17000,Arbúcies,4EumXNdcUtH8akCtwEYUwu,Selva,6608.0,Girona,Catalunya
-The Penguins,16900,Sant Feliu de Llobregat,3jtvYbfq9GfapNH5MhNjDm,Baix Llobregat,45467.0,Barcelona,Catalunya
-gavina.mp3,16600,Barcelona,1HQjBUjN7QCO8rIldwSXeZ,Barcelonès,1664182.0,Barcelona,Catalunya
-Jo Jet i Maria Ribot,16500,Manresa,2VLAEUc8hJ7R6EPktTBFhx,Bages,78245.0,Barcelona,Catalunya
-Lil Guiu,16400,Barcelona,1GPrbtpaDXV9wxRuRHUNmv,Barcelonès,1664182.0,Barcelona,Catalunya
-Pep Gimeno 'Botifarra',16300,Xàtiva,67nzmyyXxcTT4ZU8lBxcvp,Costera,29231.0,València,Comunitat Valenciana
-Dagoll Dagom,16300,Barcelona,36OL5KYUY6Ccs6tszNTqHZ,Barcelonès,1664182.0,Barcelona,Catalunya
-enMatu,16000,Terrassa,1uXmpBAndznIassr1HjWbA,Vallès Occidental,223627.0,Barcelona,Catalunya
-Koers,15700,Lleida,6EEs0hbsFGYZ3VdNOErO9n,Segrià,140403.0,Lleida,Catalunya
-Animal,15600,Sant Quirze del Vallès,4R5uqcGNfcfkFpUKxSPCfK,Vallès Occidental,20195.0,Barcelona,Catalunya
-Pau Alabajos,15000,Torrent,2fx0EsmjDotI8Vq4daoB2g,Horta Sud,82208.0,València,Comunitat Valenciana
-Edu Esteve,14800,Badalona,2Nl5f6i0dHSjz9UvaDfSQD,Barcelonès,223166.0,Barcelona,Catalunya
-Senyor Oca,14800,Barcelona,5zl0XS3Yjo4eBViGndCB61,Barcelonès,1664182.0,Barcelona,Catalunya
-jovedry,14700,Barcelona,7aM2zF8ZvXMD8DzZY98W10,Barcelonès,1664182.0,Barcelona,Catalunya
-Pep Puigdemont,14600,Olot,0yRbGYdxmPwoA9sHhyg8Q9,Garrotxa,35926.0,Girona,Catalunya
-Gato Pérez,14500,Buenos Aires,0xTE8Ru20PBrfPDxrwYAD9,,3120612.0,,
-Marcel Lázara i Júlia Arrey,14000,Manlleu,36Di8MUKOV0zDs1hTzyb9d,Osona,20912.0,Barcelona,Catalunya
-Gerard Quintana,14000,Girona,07MOFkELf3tpgB9pqLQurj,Gironès,103369.0,Girona,Catalunya
-Els Atrapasomnis,13700,la Cellera de Ter,182RYYfNdCeUEXmEE8BzeL,Selva,1950.0,Girona,Catalunya
-Macedònia,13600,Castellar del Vallès,4hIcN54cqZk0JXdTQiGF4T,Vallès Occidental,24488.0,Barcelona,Catalunya
-Pepet i Marieta,13400,Ulldecona,7KKKewRz8PCindxuBfnLPp,Montsià,6525.0,Tarragona,Catalunya
-Mazoni,13000,la Bisbal d'Empordà,5jxwrEuiCDAujXZXIvCShs,Baix Empordà,11159.0,Girona,Catalunya
-miquel,13000,Igualada,3VUidb50jCH78EzrGpAVyj,Anoia,40742.0,Barcelona,Catalunya
-Mainasons,12900,la Garriga,2ZQffgTQE5JS8vjCl0PiJ1,Vallès Oriental,16668.0,Barcelona,Catalunya
-OR (O-ERRA),12900,Manacor,3rqMgw2cpWZaZP4kHtY8NO,Llevant,40831.0,Illes Balears,Illes Balears
-Andana,12900,Mataró,3Z21NTe0lIVuG6DnFOX0Ni,Maresme,129661.0,Barcelona,Catalunya
-Àlex Pérez,12800,Vidreres,4LwXFmiHbqgBiAWFjp3ljH,Selva,7951.0,Girona,Catalunya
-David Ros,12800,Barcelona,1DGsfQSrh6DuyEYFCGpUeS,Barcelonès,1664182.0,Barcelona,Catalunya
-Esquirols,12500,l'Esquirol,0zH2Nk2nvnHCrD6kJLnDYm,Osona,2186.0,Barcelona,Catalunya
-Porto Bello,12300,Altafulla,2hZTwRCdE5JFf7ohaIs6W2,Tarragonès,5307.0,Tarragona,Catalunya
-Joan Bibiloni,12200,Manacor,4jBaiMLmjCqpci9wENQ7fR,Llevant,40831.0,Illes Balears,Illes Balears
-Ovidi Montllor,11900,Alcoi,3GBaJmaRSCLv9DZXo5tgRL,Alcoià,58994.0,Alacant,Comunitat Valenciana
-Xeic!,11800,Rasquera,3V8Ri9UHBCg1YeAwfqW6yz,Ribera d'Ebre,783.0,Tarragona,Catalunya
-Dr. Calypso,11800,Barcelona,6NzQGCr2sqQJ7AepiQpVGW,Barcelonès,1664182.0,Barcelona,Catalunya
-Pirat's Sound Sistema,11600,Barcelona,3bSjpDHDskBXS2z5WuaXaq,Barcelonès,1664182.0,Barcelona,Catalunya
-Pep de la Tona,11500,Pego,2rMgRVKwlDL618ZirhIeat,Marina Alta,10128.0,Alacant,Comunitat Valenciana
-Port Bo,11500,Palafrugell,5sghLheanUsG26zk991W2Y,Baix Empordà,23244.0,Girona,Catalunya
-Àlex Blat,11300,València,4cTMg9gbEOYVvEtKtspGYg,València,794288.0,València,Comunitat Valenciana
-Margarett,11200,Barcelona,2la5ZJvk9pLFyfHNUdQC1O,Barcelonès,1664182.0,Barcelona,Catalunya
-Adrià Puntí,10900,Salt,4gQzCU2uamGf9aX5DMOnuV,Gironès,32138.0,Girona,Catalunya
-Sisa,10800,Barcelona,6rgsgH0TXknBetbEa6mtdf,Barcelonès,1664182.0,Barcelona,Catalunya
-Atupa,10800,Montcada,01o583ZRPv5Q8UTvpMT1QK,Horta Nord,21935.0,València,Comunitat Valenciana
-Pau Riba,10800,Palma,2zSk5pjoQqWROuvp5RUrVL,Mallorca,407648.0,Illes Balears,Illes Balears
-Sense Sal,10800,Terrassa,0jQrR51vUkXd4ISpJnEFTr,Vallès Occidental,223627.0,Barcelona,Catalunya
-Joan Rovira,10700,Camarles,5kWu63fBFmBS8KVbL6lUWm,Baix Ebre,3194.0,Tarragona,Catalunya
-OKDW,10600,Cubelles,3gJX7610Ji5aE5wJhkhuTO,Garraf,15770.0,Barcelona,Catalunya
-Vuit,10600,Cunit,60uQL4Gg6Lbh6Jl6pD7xzB,Baix Penedès,13533.0,Tarragona,Catalunya
-Good Jan,10500,Barcelona,5OnhZfL9VuuicSPxkFxwJk,Barcelonès,1664182.0,Barcelona,Catalunya
-Josep Thió,10300,Girona,1ynknzrpslHlkD4cd2icCq,Gironès,103369.0,Girona,Catalunya
-Groggy Rude,10300,Tarragona,4qOAKa6tiDSzvMiGGrPzjC,Tarragonès,136496.0,Tarragona,Catalunya
-Anegats,10200,Son Servera,4VhEs0xRqmIysn0tdTyLR1,Llevant,12165.0,Illes Balears,Illes Balears
-La Maria,10000,Oliva,2trmdI9kJ4hY5c1GZANnaQ,Safor,25101.0,València,Comunitat Valenciana
-Sanjosex,9900,la Bisbal d'Empordà,3xvSV6NiocgZuGdVK3n0lE,Baix Empordà,11159.0,Girona,Catalunya
-Joan Rafart,9800,Solsona,38dfWliIkUqaBCIDd7WSxK,Solsonès,9137.0,Lleida,Catalunya
-Brams,9300,Berga,0QYoTBFk6RrLqna6PfszFy,Berguedà,16760.0,Barcelona,Catalunya
-Inadaptats,9200,Vilafranca del Penedès,4mqXPNpuimTATkJ3WNHGik,Alt Penedès,40154.0,Barcelona,Catalunya
-Balma,9200,Barcelona,120KlGliWpuFD6rw7oiLAH,Barcelonès,1664182.0,Barcelona,Catalunya
-Cesc,9100,l'Armentera,6JgIKVieCcwKpdx4LwnbR0,Alt Empordà,951.0,Girona,Catalunya
-Toti Soler,9100,Vilassar de Dalt,5Gymmxz9DpDUlI8cyEhqra,Maresme,9072.0,Barcelona,Catalunya
-Still ill,9100,Barcelona,3RCztsjXccqtUFDj5Qxi3n,Barcelonès,1664182.0,Barcelona,Catalunya
-Teuma Thug,9000,Barcelona,6YNAXZ2z0lrtPOMSkO3KRY,Barcelonès,1664182.0,Barcelona,Catalunya
-Whiskyn's,8800,Reus,3ebwHQYvONnv8xIrW2wYDA,Baix Camp,106168.0,Tarragona,Catalunya
-Quinto,8700,Pego,6mklD5ITuLhHHJZDttOhgh,Marina Alta,10128.0,Alacant,Comunitat Valenciana
-CyBee,8500,Sant Feliu de Llobregat,6XaaHZYcV08dN3b1GXsb0o,Baix Llobregat,45467.0,Barcelona,Catalunya
-Joan Colomo,8400,Sant Celoni,5PgFxKraqTJUjncc2f3gFB,Vallès Oriental,18136.0,Barcelona,Catalunya
-Lal’Ba,8400,Olesa de Montserrat,1wlYowWXP2lahrXGn5opzG,Baix Llobregat,24144.0,Barcelona,Catalunya
-Colomet,8300,València,0Iex9HZLBlEmTgzmd9cvnn,València,794288.0,València,Comunitat Valenciana
-Els Pescadors de L'Escala,8300,l'Escala,145BqjM1GvEdRHtYJ3NnX6,Alt Empordà,10244.0,Girona,Catalunya
-Magalí Datzira,8200,Barcelona,4Wwktb7LI1OtXAWRO6Hln4,Barcelonès,1664182.0,Barcelona,Catalunya
-País de Xauxa,8100,l'Escala,1HwSB9hnfL3Fwm2pbDGNq6,Alt Empordà,10244.0,Girona,Catalunya
-Marc Parrot,8000,Tiana,2ueY5TbhGwb2WBGiHMR6pp,Maresme,8945.0,Barcelona,Catalunya
-Cloe,7900,Barcelona,0bZpmYTPXVvnSiZ7SLiMPa,Barcelonès,1664182.0,Barcelona,Catalunya
-Yung Rajola,7800,Lleida,5ZY6lI5dEppItx901v0wYa,Segrià,140403.0,Lleida,Catalunya
-La Coixinera,7500,Mataró,2m5tZBEzEePSyyMmG6NLVg,Maresme,129661.0,Barcelona,Catalunya
-Tardor,7300,València,79zvwxLcJBLcUHaJ25n3yx,València,794288.0,València,Comunitat Valenciana
-NIUSS,7300,Algemesí,2NvEpqoU9axJtMG4Qk92XG,Ribera Alta,27331.0,València,Comunitat Valenciana
-Obeses,7200,Tona,3BkB8VHV7IeyjFTzlX6ohi,Osona,8356.0,Barcelona,Catalunya
-Da Souza,7200,Palma,3rD7bBI9zkYhu62o79tWe6,Mallorca,407648.0,Illes Balears,Illes Balears
-Vienna,7200,Alacant,2qT0hAMqLp6dvHFlcR5HWK,Alacantí,334887.0,Alacant,Comunitat Valenciana
-Maluks,7100,València,0vz1Tn02DpGRpM3GsiPBqi,València,794288.0,València,Comunitat Valenciana
-Scorpio,7000,Barcelona,66sVsxa3MGkILbbcv5cJ4W,Barcelonès,1664182.0,Barcelona,Catalunya
-David Rosell,6900,Manresa,7cdbNBNnPPiUEdo57yKd2e,Bages,78245.0,Barcelona,Catalunya
-Cris Juanico,6900,Ciutadella de Menorca,1hnG3sbjWvITvOpTt9wmNO,Menorca,29580.0,Illes Balears,Illes Balears
-ultralone,6900,-,57EoNqpI63PUZvuqhfdAUp,,,,Catalunya
-Joan Garriga i el Mariatxi galàctic,6900,la Garriga,0EQqEBz10VJZ8QHaJweeNE,Vallès Oriental,16668.0,Barcelona,Catalunya
-Quico Tretze,6900,Igualada,4Otr92EF2M2h78jnAxmEZu,Anoia,40742.0,Barcelona,Catalunya
-The Demencials,6900,Vic,2L4OuuKQTtaFxQzqQOMxsC,Osona,47630.0,Barcelona,Catalunya
-Al Tall,6800,València,7f6UyaGmBD2Vuq1ygnxYa3,València,794288.0,València,Comunitat Valenciana
-Julen G,6600,Barcelona,00h3dzDtOjWaXlkvgrnmWO,Barcelonès,1664182.0,Barcelona,Catalunya
-Gemma BaÃ±os,6500,-,5lgxp789uy128P3kUUOBqz,,,,
-Mariona Escoda,6500,Valls,3FhvXs9qsXIxDrpDps6fWR,Alt Camp,24477.0,Tarragona,Catalunya
-Ariox,6400,Cardedeu,40qrXwBvQ93tL5ondgFXzE,Vallès Oriental,18424.0,Barcelona,Catalunya
-Glaucs,6400,Begur,1RQRp6AZqcumsPeHciLBr5,Baix Empordà,3891.0,Girona,Catalunya
-Rudymentari,6300,Ciutadella de Menorca,1TrrU7UZ93JDlbSCGD5mhh,Menorca,29580.0,Illes Balears,Illes Balears
-Siderland,6300,Barcelona,0J4ED5b2q2T3B6OhOvNFru,Barcelonès,1664182.0,Barcelona,Catalunya
-N'Gai N'Gai,6300,Sant Pol de Mar,0VTsAewekEk1CtS08fI9QH,Maresme,5428.0,Barcelona,Catalunya
-Orchestra Fireluche,6300,la Cellera de Ter,1eirXxHGEOsSL4o1ao1b03,Selva,1950.0,Girona,Catalunya
-Sr. Chen,6200,Rubí,6GqSICEGHY2MW8mgwYzz5Q,Vallès Occidental,78591.0,Barcelona,Catalunya
-Vinnie Kairos,6200,Girona,3enVyMO0pmP8TIqtBFfmtz,Gironès,103369.0,Girona,Catalunya
-roserona,6200,Cardedeu,50Gz3aUc4gTUXQYskqIWza,Vallès Oriental,18424.0,Barcelona,Catalunya
-La Principal de la Bisbal,6200,la Bisbal d'Empordà,2oColxnsqUheAKCmlj7n9J,Baix Empordà,11159.0,Girona,Catalunya
-Guillem Bautista,6100,Badalona,4aMz9dbnuj9prr7EkFnf2r,Barcelonès,223166.0,Barcelona,Catalunya
-Celobert,6000,Barcelona,1ffEm5v0mUKyE79ep6KEpS,Barcelonès,1664182.0,Barcelona,Catalunya
-TESA,6000,Almussafes,38eya5J0wXElARHyRQ6xz0,Ribera Baixa,8967.0,València,Comunitat Valenciana
-Júlia Colom,5900,Valldemossa,2FGexWthFJnvymvErkOPaI,Serra de Tramuntana,2027.0,Illes Balears,Illes Balears
-Xarim Aresté,5900,Flix,6UbthgKAxqoJgbSan82idB,Ribera d'Ebre,3410.0,Tarragona,Catalunya
-Mireia Vives,5900,Llíria,1Dn2EjFxbwoJdnCSLw8JSJ,Camp de Túria,23253.0,València,Comunitat Valenciana
-Ara va de bo,5900,Barcelona,55o2RM7237Ix7XXcbpXnzd,Barcelonès,1664182.0,Barcelona,Catalunya
-Projecte Mut,5700,Eivissa,1DtVZ2mcu69GqeAZtdMBlh,Eivissa,49768.0,Illes Balears,Illes Balears
-Sergi Carbonell,5700,Ribes de Freser,3U1WtKior7Vyok72E1T0wO,Ripollès,1760.0,Girona,Catalunya
-Com sona?,5600,Barcelona,0TO83lOrKzSLvgyOsYCMD2,Barcelonès,1664182.0,Barcelona,Catalunya
-Damià Olivella,5500,Manresa,2y2hCIeanWosuWiWbIRr4d,Bages,78245.0,Barcelona,Catalunya
-Muyayo Rif,5500,Cornellà de Llobregat,0k3TYsn0wPivYDhHX7HE4C,Baix Llobregat,89936.0,Barcelona,Catalunya
-Dani Miquel,5400,l'Alcúdia,3RvCCC63losASebpl75PvC,Ribera Alta,12009.0,València,Comunitat Valenciana
-Reïna,5400,Manacor,6KVNkE8MHfH6Wv8b4qEq8n,Llevant,40831.0,Illes Balears,Illes Balears
-Yung Mare,5300,Barcelona,5zsNBwkuZ56oMjsVQqyByD,Barcelonès,1664182.0,Barcelona,Catalunya
-Germà Negre,5200,Banyoles,2s1zTYYloQG8guSeqneAzL,Pla de l'Estany,20053.0,Girona,Catalunya
-Gerard Aledo,5200,Sant Quirze del Vallès,2G3PV2M6Mpb2FjRVNio1tf,Vallès Occidental,20195.0,Barcelona,Catalunya
-Henrio,5100,Barcelona,0oSXRm87lhplIslH3BzQwB,Barcelonès,1664182.0,Barcelona,Catalunya
-La Pataqueta,5100,-,2tNeP79ThAAvgba06aZevy,,,,Catalunya
-Compte,5100,Torrelavit,6DwgnmW2GkmlwLsjVDYRpP,Alt Penedès,1422.0,Barcelona,Catalunya
-Joan Masdéu,5000,Reus,1qg4y9TyV4WrCtHFAGgMhm,Baix Camp,106168.0,Tarragona,Catalunya
-Biel Martí,4900,Barcelona,1y7zRDvyYJ8WKpYSmAac58,Barcelonès,1664182.0,Barcelona,Catalunya
-Acció,4900,Torroella de Montgrí,2k4CzUBX2epNNB8kYhRxLC,Baix Empordà,11836.0,Girona,Catalunya
-Acros,4900,Barcelona,0xHO61mVt5YXG52usJTYmb,Barcelonès,1664182.0,Barcelona,Catalunya
-bert bert,4900,Sabadell,6DxleFQGGR0UPogCnAYQm7,Vallès Occidental,216520.0,Barcelona,Catalunya
-CLASSE B,4800,Torroella de Montgrí,4vhM44FsZ44IKyT6Ab4QsU,Baix Empordà,11836.0,Girona,Catalunya
-Les Montses,4800,Sant Vicenç dels Horts,4xYHaYPM5ed9gUHsXFXjYY,Baix Llobregat,28268.0,Barcelona,Catalunya
-Zadi Plug,4700,Barcelona,2tprd9IgVCPGpjiqNG6KWT,Barcelonès,1664182.0,Barcelona,Catalunya
-Júlia Blum,4700,Barcelona,4B6t52mhiUhrnMWR19T9ei,Barcelonès,1664182.0,Barcelona,Catalunya
-Dijous Paella,4700,-,25xvJV8X5oKNYjRljiXygY,,,Barcelona,Catalunya
-Les anxovetes,4600,Girona,23ePB80oZpuErNwOUnUD0E,Gironès,103369.0,Girona,Catalunya
-Iris Deco,4600,Navarcles,1VP0sPzmkM1KIKV1r32clf,Bages,6057.0,Barcelona,Catalunya
-Anna Ferrer,4600,Maó,3It8AsQKxFW3Fx0FrrpF1z,Menorca,28972.0,Illes Balears,Illes Balears
-Pep Sala,4500,Vic,12Fg2zGfrdsb2aGZhlFQVy,Osona,47630.0,Barcelona,Catalunya
-Malson Atmosfèric,4400,Sant Julià de Ramis,121rcBq3RwZEtfSAy8JYeV,Gironès,3576.0,Girona,Catalunya
-Lluís Sánchez,4400,Artesa de Lleida,7tlFmw0qkSCfDkcbfXc66v,Segrià,1535.0,Lleida,Catalunya
-Anna Roig i l'Ombre de Ton Chien,4400,Sant Sadurní d'Anoia,4UJe0PktQVNe36XTKCRUyP,Alt Penedès,12841.0,Barcelona,Catalunya
-Uri Santafé,4400,Moià,1kgq9Zhocbqsp50A0rYcBA,Moianès,6383.0,Barcelona,Catalunya
-Vittara,4300,Barcelona,0RHElWsaFy1T4FiqxxekFk,Barcelonès,1664182.0,Barcelona,Catalunya
-Juanjo Monserrat,4300,Palma,67cT4HCzYZlGaddip7Mpge,Mallorca,407648.0,Illes Balears,Illes Balears
-CoCo,4300,Barcelona,3JICTczF91kSDOWTssDEtz,Barcelonès,1664182.0,Barcelona,Catalunya
-Paula Valls,4300,Manlleu,571Zc1cK0PYmAEzdB2k1GN,Osona,20912.0,Barcelona,Catalunya
-Aina Reig,4200,Girona,2Ij9EybzTRRk2u4IZ5kwdM,Gironès,103369.0,Girona,Catalunya
-Gigi Ros,4200,Barcelona,2AIBX47y2SapwNsCvk6MdV,Barcelonès,1664182.0,Barcelona,Catalunya
-Fetus,4200,la Bisbal d'Empordà,3fn7Jm4nOCVz7d4HVYiChe,Baix Empordà,11159.0,Girona,Catalunya
-Ossifar,4100,Palma,79U9dVwcVq4fS5AsLTMyfa,Mallorca,407648.0,Illes Balears,Illes Balears
-PracciBtz,4100,-,5hROoy3gJhyOuUr9Aj5e5k,,,,Catalunya
-Poor Tràmit,4100,Premià de Mar,5kt50jR3ZZKxnf6kU7r0Mv,Maresme,28531.0,Barcelona,Catalunya
-Bons nois,4000,Sant Feliu de Llobregat,0vj3n5NDvKSAEwZNM8Bsoo,Baix Llobregat,45467.0,Barcelona,Catalunya
-Seikos,4000,Sant Feliu de Llobregat,4M6VkzBYyltZ2t8AbXKLBg,Baix Llobregat,45467.0,Barcelona,Catalunya
-Delta Delta,4000,Barcelona,6aVjuiFg6aDrHNg7ZdE6j5,Barcelonès,1664182.0,Barcelona,Catalunya
-Jonatan Penalba,4000,l'Alcúdia,4zzG67sucjcErB0RI5FxFG,Ribera Alta,12009.0,València,Comunitat Valenciana
-The Crab Apples,3900,Santa Eulàlia de Ronçana,6u98K0jUUoIvIG5mPXRIWZ,Vallès Oriental,7426.0,Barcelona,Catalunya
-Lil Russia,3800,Barcelona,3H5LQXA7Yp4LpTUnQBDE0W,Barcelonès,1664182.0,Barcelona,Catalunya
-República Ska,3800,Lleida,35QWdwr5mi5FaUdP4FI7U8,Segrià,140403.0,Lleida,Catalunya
-Miquel Serra,3800,Manacor,0xUNARNv5PfWqCuu8TJGug,Llevant,40831.0,Illes Balears,Illes Balears
-Slad Mobb,3800,Barcelona,2YFW9Z60cXbavpNZvvJnxe,Barcelonès,1664182.0,Barcelona,Catalunya
-Skatalà,3700,Barcelona,4yU8WdZjoXlTpyxgxWyCKS,Barcelonès,1664182.0,Barcelona,Catalunya
-Joan Martorell,3700,Porreres,5mzrFWk1XAPtOvrAv8XwQi,Pla de Mallorca,5486.0,Illes Balears,Illes Balears
-Toni Giménez,3700,Barcelona,4VDwIwADquvHHW5adp0qyU,Barcelonès,1664182.0,Barcelona,Catalunya
-Laura Gibert,3700,Lloret de Mar,0Nk5AGBagS9qB7G8D2ywzx,Selva,39089.0,Girona,Catalunya
-Roger Berruezo,3700,Barcelona,5OLqCwryz51tah1Igrnwgu,Barcelonès,1664182.0,Barcelona,Catalunya
-Hora de Joglar,3600,Argelaguer,1sQ37MtYVVfUuiLcSFpbV4,Garrotxa,396.0,Girona,Catalunya
-Feliu Ventura,3600,Xàtiva,5Mvf1DjQ6BQ5CKra8wDDqG,Costera,29231.0,València,Comunitat Valenciana
-Umpah-Pah,3600,Salt,4z8Fq4r52ALTdWfqLQYGhE,Gironès,32138.0,Girona,Catalunya
-Patriarcas de la Rumba,3500,Barcelona,7lOr5o8LGNHi4nw2Q5bhxH,Barcelonès,1664182.0,Barcelona,Catalunya
-David Canal,3500,Olost,32fPhqTn4U2C0gJMGSVWMI,Lluçanès,1202.0,Barcelona,Catalunya
-Pilseners,3500,Barcelona,5Q6RTmfU1ZLbAlyiUJCmbh,Barcelonès,1664182.0,Barcelona,Catalunya
-Galgo Lento,3500,Terrassa,5RWKEHpyfUhxTIGMeOcenQ,Vallès Occidental,223627.0,Barcelona,Catalunya
-Achilifunk Sound System,3500,Barcelona,4yizsieShlGiLVWStpSt5t,Barcelonès,1664182.0,Barcelona,Catalunya
-SDP509,3500,Manresa,4t109nphj1ICN4kukH0pSd,Bages,78245.0,Barcelona,Catalunya
-La Terrasseta de Preixens,3400,Tàrrega,3p8xj077gS3z2eC5jXsAUH,Urgell,17445.0,Lleida,Catalunya
-Los Barrankillos,3300,Santa Coloma de Gramenet,4tzvod2FeqFDigiG8x7UuQ,Barcelonès,120443.0,Barcelona,Catalunya
-Autèntic Home Llúdriga,3300,Barcelona,07ApGh3oTuz014LDbWPANc,Barcelonès,1664182.0,Barcelona,Catalunya
-Sergi Albert,3200,Barcelona,2BVoQciUZKf7mEqWCChERE,Barcelonès,1664182.0,Barcelona,Catalunya
-poggioli,3200,Cardedeu,2ilpUqiDjCtD4lAgpITEwA,Vallès Oriental,18424.0,Barcelona,Catalunya
-Selva Nua,3200,Lleida,5WZaYOPfY5HCLsZTfkIep7,Segrià,140403.0,Lleida,Catalunya
-Martigo,3100,Mataró,3HDuiwI8hjGt0iPK77EmD7,Maresme,129661.0,Barcelona,Catalunya
-Carles Belda,3100,Sabadell,75jyMiAxcPzJKnKpT5MgHY,Vallès Occidental,216520.0,Barcelona,Catalunya
-La Simfònica de Corda i Cobla de Catalunya,3100,la Bisbal d'Empordà,3Ib6fgPPnCN4x2ou232WKy,Baix Empordà,11159.0,Girona,Catalunya
-Nuri Total,3100,Barcelona,24occ5fjjGZG5Br2IeqAVR,Barcelonès,1664182.0,Barcelona,Catalunya
-Nyandú,3100,Oristà,68NZljLQtbhWD6ER7Cdt5w,Lluçanès,549.0,Barcelona,Catalunya
-Batec,3000,Rubí,7I0tmVaoFLZYN5MxBnvi3H,Vallès Occidental,78591.0,Barcelona,Catalunya
-Anna Roig Dolz,3000,Barcelona,38mrMulfsHDdaWdTduTIyt,Barcelonès,1664182.0,Barcelona,Catalunya
-Yung Rovelló,3000,Calella,6qIbcbaEx3RiRvUK6cTYX9,Maresme,19277.0,Barcelona,Catalunya
-Plan-ET,3000,Manacor,3vBWB1sJCqdRExa32msXFs,Llevant,40831.0,Illes Balears,Illes Balears
-Pastorets Rock,3000,Lleida,1Jp1nIjDVFmKkz0ECuoPbJ,Segrià,140403.0,Lleida,Catalunya
-Andreu Valor,3000,Cocentaina,4QLpUTkxZy7o3SQOYYbdeg,Comtat,11511.0,Alacant,Comunitat Valenciana
-Gemma Humet,3000,Terrassa,0Q2jviHTKVBLXWAnru25Km,Vallès Occidental,223627.0,Barcelona,Catalunya
-Vergüenza Ajena,3000,Tarragona,7hZm5RI0nqetzyOZ9bMEC0,Tarragonès,136496.0,Tarragona,Catalunya
-Gèls,2900,Barcelona,0t3gsSSYwcMQWwXNVcwjJn,Barcelonès,1664182.0,Barcelona,Catalunya
-Miquel Gil,2900,Catarroja,3wgWeRgIV5sU41Yqz6V7qn,Horta Sud,28120.0,València,Comunitat Valenciana
-Filibusters,2800,Vilafranca del Penedès,6gXv7sFvNYv5d4zi8L4Ozq,Alt Penedès,40154.0,Barcelona,Catalunya
-Som Mainada,2800,Sant Jaume dels Domenys,4WAxfFu2xpUnoTnwmV6q7T,Baix Penedès,2624.0,Tarragona,Catalunya
-At Versaris,2800,Sabadell,6HPAGt94jKHGMQmT8IYNPN,Vallès Occidental,216520.0,Barcelona,Catalunya
-gusset,2800,Mataró,0oto11jiTMGV3E9sNwRSLY,Maresme,129661.0,Barcelona,Catalunya
-"Quico el Célio, el Noi i el Mut de Ferreries",2800,Tortosa,5LOckPuG4JKRzJfJoYZT2w,Baix Ebre,33439.0,Tarragona,Catalunya
-Espaldamaceta,2800,Tarragona,3jUluqPA6Np859cgFUPhUF,Tarragonès,136496.0,Tarragona,Catalunya
-AlQuadrat,2700,Sant Quirze del Vallès,1hs6EVB1tPjA2mjtZmznVn,Vallès Occidental,20195.0,Barcelona,Catalunya
-Ayryn,2700,Santa Coloma de Gramenet,4L8rfGZmFQZyuTNM8j72mJ,Barcelonès,120443.0,Barcelona,Catalunya
-The Anti-Patiks,2700,Terrassa,2BnRECIfsXYvWmBavdX2rU,Vallès Occidental,223627.0,Barcelona,Catalunya
-Chill C,2700,Sabadell,4VXMVdG6lOJtDt94C142aM,Vallès Occidental,216520.0,Barcelona,Catalunya
-Roko Banana,2700,Banyoles,1NLmdiLmGXAmUFALmYqLWO,Pla de l'Estany,20053.0,Girona,Catalunya
-Josep Xortó + The Congosound,2700,Barcelona,1pRPhN3DsSugpSb7Fwp91z,Barcelonès,1664182.0,Barcelona,Catalunya
-Slim Samurai,2600,Eivissa,4Y9HKNCC79fsVTutvIDNgv,Eivissa,49768.0,Illes Balears,Illes Balears
-Neptú,2600,Lleida,3GnPD01Y9TIEgdpMempBBA,Segrià,140403.0,Lleida,Catalunya
-Ses Bubotes,2600,Palma,3OZaq38ovtB5xRATWtJCFi,Mallorca,407648.0,Illes Balears,Illes Balears
-Monrra Straps,2600,Barcelona,13FzwBhhVR3ixmoggvmVBm,Barcelonès,1664182.0,Barcelona,Catalunya
-Llum,2600,Mataró,4tqn572Iok6jACDGb1APLk,Maresme,129661.0,Barcelona,Catalunya
-Roger Torné,2600,Terrassa,6DgXQ9wVnLd32WS9NiYAzC,Vallès Occidental,223627.0,Barcelona,Catalunya
-Joan Liaño,2600,Granollers,4Vob8jQvjUtKgyxqtJFzdH,Vallès Oriental,62419.0,Barcelona,Catalunya
-Minibús Intergalàctic,2600,Girona,0bb1xWIXzK22TxjHYHpowl,Gironès,103369.0,Girona,Catalunya
-Mesclat,2500,Blanes,4z4JX5B2AcNIA5OKX6RYeD,Selva,39914.0,Girona,Catalunya
-The Gruixut's,2500,la Bisbal d'Empordà,0AxcV6vRVnv8j9nLRqmtM6,Baix Empordà,11159.0,Girona,Catalunya
-Guineu,2500,Barcelona,71LogL8lYEei6YssB4RyVD,Barcelonès,1664182.0,Barcelona,Catalunya
-Quimo,2500,Girona,6Nz585IvHzPqWiBuPWazW9,Gironès,103369.0,Girona,Catalunya
-Marialluïsa,2500,Igualada,57vnEmo3jRkWAigCYgNRaD,Anoia,40742.0,Barcelona,Catalunya
-Alícia Rey,2500,Terrassa,45CNnnXTK5IoEMBLtxZ0oi,Vallès Occidental,223627.0,Barcelona,Catalunya
-Uri,2500,Vic,5MVLPTiFlifkC16OkTMCw6,Osona,47630.0,Barcelona,Catalunya
-Arc de Triomf,2500,Vilassar de Mar,0xddZStW6D83R6lgImCOkA,Maresme,21035.0,Barcelona,Catalunya
-Ramon Calduch,2400,Montcada i Reixac,5XWDAbFGjwEQ2bcCq0nh3w,Vallès Occidental,36803.0,Barcelona,Catalunya
-Cucorba,2400,Muro,0YTlI47ekw3MnTibnaZPhS,Pla de Mallorca,6993.0,Illes Balears,Illes Balears
-Tiu,2400,Palma,1RSI1kRaKq7IPaXsbLdFGo,Mallorca,407648.0,Illes Balears,Illes Balears
-Ramon Muntaner,2400,Cornellà de Llobregat,2e1GB6YtJXZ3mBlKTpheIF,Baix Llobregat,89936.0,Barcelona,Catalunya
-Ivette Nadal,2400,Granollers,7wtt5XbGDjAHjRpebVeJEo,Vallès Oriental,62419.0,Barcelona,Catalunya
-Quart primera,2400,Barcelona,2Y6wI5KgNwPZkMux4iVXCj,Barcelonès,1664182.0,Barcelona,Catalunya
-Suc i Sopes,2300,Ciutadella de Menorca,32zQT5DBk6qfuHnDiftnyB,Menorca,29580.0,Illes Balears,Illes Balears
-Kabul Babà,2300,Girona,2acf64lej9AwgoudB2gVzS,Gironès,103369.0,Girona,Catalunya
-Batiste,2300,Barcelona,5HLC2Taade9BgByKQoc8bf,Barcelonès,1664182.0,Barcelona,Catalunya
-Sa pena,2300,Pedreguer,77X9fjwGe7mlNAZwmS5YhX,Marina Alta,7699.0,Alacant,Comunitat Valenciana
-La Cosina,2300,Reus,2X2BpGXqfZ2lRz9b4ZNw8T,Baix Camp,106168.0,Tarragona,Catalunya
-Bipolar,2300,Barcelona,5f5INetQct62L92kit5pFP,Barcelonès,1664182.0,Barcelona,Catalunya
-Mosaic,2300,Barcelona,7f3XYf1qLTocK1jfPpzuUv,Barcelonès,1664182.0,Barcelona,Catalunya
-Enemic interior,2300,Barcelona,1dZhZobekgJWD7yPVRrGFG,Barcelonès,1664182.0,Barcelona,Catalunya
-Anna d'Ivori,2300,Tarragona,6petlZdButa9qCCglVNgFS,Tarragonès,136496.0,Tarragona,Catalunya
-Faixa,2300,Alcoi,4GUWQDiabQN2NV96h1G3rV,Alcoià,58994.0,Alacant,Comunitat Valenciana
-La Tour de Carol,2200,Barcelona,6KuJlu9RqfpcyzCsAdCnBX,Barcelonès,1664182.0,Barcelona,Catalunya
-Caïm Riba,2200,Barcelona,0Z19B0beqIljrSvaiQE1Pj,Barcelonès,1664182.0,Barcelona,Catalunya
-Arrels de Gràcia,2200,Barcelona,7KbbIXxEMGGbK0bvCWUnIa,Barcelonès,1664182.0,Barcelona,Catalunya
-Ferran Savall,2200,Cerdanyola del Vallès,5MV5GG8JohhFulDZy2Wf2I,Vallès Occidental,57855.0,Barcelona,Catalunya
-Ánimos Parrec,2100,Vilafranca de Bonany,6ybuwwdE668XsN3AfQdv38,Pla de Mallorca,2971.0,Illes Balears,Illes Balears
-Guillamino,2100,Barcelona,2AtZlwgzXeb4Ym2cqURQsR,Barcelonès,1664182.0,Barcelona,Catalunya
-Petit Taller de Cançons,2100,el Vendrell,71jrlF6TcVSCl8sK1ahcMP,Baix Penedès,38373.0,Tarragona,Catalunya
-Kuu,2000,Mataró,77cBad8DNTobzNpER2rQfX,Maresme,129661.0,Barcelona,Catalunya
-Estúpida Erikah,2000,Barcelona,6B8yfpoefZ8KCgnrp97aQ4,Barcelonès,1664182.0,Barcelona,Catalunya
-Anaïs Vila,2000,Santpedor,40R5qsfTTLVDanMkhYDZ1t,Bages,7604.0,Barcelona,Catalunya
-Ocumé,2000,Barcelona,4XMjU4ncaOFDwc7qtJ7RVU,Barcelonès,1664182.0,Barcelona,Catalunya
-Toni Xuclà,2000,Barcelona,2cxyyMLlTOkSB3KPebEhU1,Barcelonès,1664182.0,Barcelona,Catalunya
-Canimas,2000,Sant Feliu de Pallerols,14Nbnytt8OlJDZPyIktzY6,Garrotxa,1437.0,Girona,Catalunya
-Massaviu,1900,Cardedeu,0du3FPmKtQ8vfsmGYVzdFY,Vallès Oriental,18424.0,Barcelona,Catalunya
-Filippo Landini,1900,Canet de Mar,5LUVLHkOxrDaW67ukNZnAT,Maresme,14865.0,Barcelona,Catalunya
-Anímic,1800,Collbató,1W0p95KwWJEqwYujfD4I3R,Baix Llobregat,4544.0,Barcelona,Catalunya
-La Porta dels Somnis,1800,Sant Cugat del Vallès,0p9RmyMVmZHkNO51PLqk5N,Vallès Occidental,92977.0,Barcelona,Catalunya
-Lòxias,1800,Castellar del Vallès,2pbtPVHpKfZnsBcoSuTMxV,Vallès Occidental,24488.0,Barcelona,Catalunya
-Segonamà,1800,Riudoms,2MfmnDDoxSFWHGsMth1WAp,Baix Camp,6569.0,Tarragona,Catalunya
-Tremendu,1700,-,1ydQGaR5Et6SPuAEaHPAsF,Osona,,Barcelona,Catalunya
-Falsterbo Marí,1700,Barcelona,1LZkPu60Xctl5j7CQj9NWC,Barcelonès,1664182.0,Barcelona,Catalunya
-Pitxorines,1700,Manacor,5DcceBfNmi0vem5434rmyy,Llevant,40831.0,Illes Balears,Illes Balears
-Reconquesta,1700,Sant Sadurní d'Anoia,7CGlK2jVozbpgjmNjd6xAi,Alt Penedès,12841.0,Barcelona,Catalunya
-El Son de la Chama,1700,Tarragona,7p9KwaJtGnMdfZzDyiZmvQ,Tarragonès,136496.0,Tarragona,Catalunya
-Els Jóvens,1700,Sant Vicent del Raspeig,7Aop1VVQPR8WTm07073xoy,Alacantí,58385.0,Alacant,Comunitat Valenciana
-Mar Grimalt,1600,Felanitx,0mEd7bgVwGNr8ozpiZLUPH,Migjorn ,18388.0,Illes Balears,Illes Balears
-La República Rumbera,1600,Granollers,1ckHhIh3TvvYVGSabLrIDL,Vallès Oriental,62419.0,Barcelona,Catalunya
-Cap Pela,1600,Palma,1SkWmTT5gIo7M7SQFsMlJ6,Mallorca,407648.0,Illes Balears,Illes Balears
+Dàmaris Gelabert,106277,Barcelona,3FGL9zcXC0ZcBFui2S9PxK,Barcelonès,1664182.0,Barcelona,Catalunya
+La Gossa Sorda,101328,Pego,0luDJsRYWbHW2Sj1I5TPrE,Marina Alta,10128.0,Alacant,Comunitat Valenciana
+Cesk Freixas,98785,Sant Pere de Riudebitlles,5cl9YjDDdgrN50CJzZO6er,Alt Penedès,2380.0,Barcelona,Catalunya
+Mama Dousha,90147,Barcelona,4jT1Pg2Ji7Zr2XnxrH1fsN,Barcelonès,1664182.0,Barcelona,Catalunya
+Dj Capde,90147,Vic,0DXKg3FniPodRRMb4AlCGw,Osona,47630.0,Barcelona,Catalunya
+Antònia Font,89340,Palma,503mwh1GWEiWy9bzzpiTFW,Mallorca,407648.0,Illes Balears,Illes Balears
+Sau,88852,Vic,3msvxEo03ktYlej2y2j3lF,Osona,47630.0,Barcelona,Catalunya
+Flashy Ice Cream,87528,Sabadell,24yN33FZM27S4x4EJCFsjR,Vallès Occidental,216520.0,Barcelona,Catalunya
+Gossos,87228,Manresa,798kDjwOnvYR4iLHoDR3Gl,Bages,78245.0,Barcelona,Catalunya
+La Ludwig Band,86847,Espolla,1hOwyBjBzD71G76KApDEy5,Alt Empordà,412.0,Girona,Catalunya
+Auxili,85655,Ontinyent,4RwMQgPzQB228Lh2YCnI1B,Vall d'Albaida,35347.0,València,Comunitat Valenciana
+Pau Vallvé,85363,Barcelona,2e9wKql4wZPFzTfNgpBa9s,Barcelonès,1664182.0,Barcelona,Catalunya
+Sexenni,82609,Lleida,4u6NigaxBfdKYhDdifXSCR,Segrià,140403.0,Lleida,Catalunya
+Al·lèrgiques al pol·len,81041,Barcelona,0M6k9ahckv10ACmoT6IIbS,Barcelonès,1664182.0,Barcelona,Catalunya
+Judit Neddermann,80088,Vilassar de Mar,1ImywUogV5mfqWMyXEvkgE,Maresme,21035.0,Barcelona,Catalunya
+Guillem Ramisa,77924,Roda de Ter,2u6RzkkEtegMEBAy6MYcsW,Osona,6490.0,Barcelona,Catalunya
+Abril,76923,Benissa,3m2HlPRZtHunzw5yY7GPoZ,Marina Alta,11005.0,Alacant,Comunitat Valenciana
+Lildami,74067,Terrassa,0gasUYSkVsXgX3p3bera9b,Vallès Occidental,223627.0,Barcelona,Catalunya
+Malifeta,73029,-,7zmlWioAkvlpV4krlZkmQc,,,València,Comunitat Valenciana
+Lluís Llach,72370,Verges,3zVGMz661UQBxwt04UIYV0,Baix Empordà,1169.0,Girona,Catalunya
+Banda Neon,63573,-,238KXKJTOYGAkQLQslSyYU,Alt Empordà,,Girona,Catalunya
+Adala,61451,Barcelona,353yEVdHO50wAvfjzQUwN4,Barcelonès,1664182.0,Barcelona,Catalunya
+Roba Estesa,60854,Cambrils,3VzGOFrX7MDtLe2Wfndgjt,Baix Camp,34734.0,Tarragona,Catalunya
+Manu Guix,60340,Barcelona,6lyzFu3LfGxmXYO2jyxix3,Barcelonès,1664182.0,Barcelona,Catalunya
+Ven'nus,59355,Sabadell,37sDYqqodoEv0XbJxCSLSK,Vallès Occidental,216520.0,Barcelona,Catalunya
+Maria Jaume,58247,Lloret de Vistalegre,2QYudLHQwV6MDxWpZZtMNO,Pla de Mallorca,1340.0,Illes Balears,Illes Balears
+NAINA,56144,Algemesí,7gRLhBBDqymilvP1W2GIqR,Ribera Alta,27331.0,València,Comunitat Valenciana
+JazzWoman,54562,València,7yMJSfFJgb2YFBAKSckG4z,València,794288.0,València,Comunitat Valenciana
+Aspencat,54437,Xaló,2cvEw5LbWVI1CspbDOgmcQ,Marina Alta,2739.0,Alacant,Comunitat Valenciana
+Lluís Gavaldà,54348,Constantí,138mB2iB94eTAMfzGGKsv9,Tarragonès,6665.0,Tarragona,Catalunya
+Obrint Pas,52606,València,2FURpqYsZpi99ySpKCOyQE,València,794288.0,València,Comunitat Valenciana
+Xavi Sarrià,51249,València,4PMfEsMG04n1mU3jbQGDVA,València,794288.0,València,Comunitat Valenciana
+Svetlana,50082,Barcelona,3ax5cuCKLmHd6NEt0ZWGW6,Barcelonès,1664182.0,Barcelona,Catalunya
+La Trinca,50025,Canet de Mar,54Toa4i5KlxdbgaEUbz7Tj,Maresme,14865.0,Barcelona,Catalunya
+Alosa,48734,Blanes,3wGkgRi4YbaoT5a2iNj5fB,Selva,39914.0,Girona,Catalunya
+Pol Bordas,48213,Girona,1PcEYX38hbrPwOfzZmEqEI,Gironès,103369.0,Girona,Catalunya
+ultralone,47445,-,57EoNqpI63PUZvuqhfdAUp,,,,Catalunya
+Triquell,44912,Sant Quirze del Vallès,68CQGYnlJfrMyRcd255jVW,Vallès Occidental,20195.0,Barcelona,Catalunya
+Roger Padrós,44716,Polinyà,5mSnwh5KuQs5rIcjQg2aje,Vallès Occidental,8504.0,Barcelona,Catalunya
+Smoking Souls,44669,Pego,6EHWCnoYjPLhtr7Grw3804,Marina Alta,10128.0,Alacant,Comunitat Valenciana
+Mishima,43786,Barcelona,2E7iSyZ5Mv8x5mGu1RcKzT,Barcelonès,1664182.0,Barcelona,Catalunya
+Baya Baye MGT Los Sosis,42846,Montgat,1B7narxB55v6EoUuA9kSBk,Maresme,12200.0,Barcelona,Catalunya
+Ferran Palau,41428,Collbató,7h0Xj4rDQMndEq2JsZZVzM,Baix Llobregat,4544.0,Barcelona,Catalunya
+Gertrudis,40935,la Garriga,3eAm5IYwnH7uTX5EBT9sbi,Vallès Oriental,16668.0,Barcelona,Catalunya
+Miquel Abras,40422,la Bisbal d'Empordà,4b8pGMcm329VfIv0uG3Piv,Baix Empordà,11159.0,Girona,Catalunya
+El Pony Pisador,39871,Barcelona,2Y4XnV7Msopr4ZHPKXBsH5,Barcelonès,1664182.0,Barcelona,Catalunya
+Xanguito,37013,Bunyola,6IBu1sEZuZb5fSADgjncHJ,Serra de Tramuntana,6276.0,Illes Balears,Illes Balears
+Marala,36694,Barcelona,4LSJTZxetK3RlF5VO2AUqY,Barcelonès,1664182.0,Barcelona,Catalunya
+Ouineta,36558,la Roca del Vallès,3a1trTgNtHPigdFxMGg1e3,Vallès Oriental,10754.0,Barcelona,Catalunya
+Àlex Pérez,36256,Vidreres,4LwXFmiHbqgBiAWFjp3ljH,Selva,7951.0,Girona,Catalunya
+La Guardiola Groga,35803,Terrassa,4KhPNR1YMiuKcjk5VgK0f6,Vallès Occidental,223627.0,Barcelona,Catalunya
+Socunbohemio,35586,Barcelona,3Zyph9kkkEfTKaMQrLotUV,Barcelonès,1664182.0,Barcelona,Catalunya
+Coral Sant Jordi,34877,Barcelona,11UrPWyoQgpyY2jETDYPBB,Barcelonès,1664182.0,Barcelona,Catalunya
+Strombers,34404,Cardona,53QBC13AaAEh9AgmUFx5CH,Bages,4639.0,Barcelona,Catalunya
+Jordi Tonietti,33554,Barcelona,1TKnsJe47nMx5NEMYZoy64,Barcelonès,1664182.0,Barcelona,Catalunya
+P.A.W.N. Gang,33471,Barcelona,46HCmOnDrKgcbvTFFgnkkC,Barcelonès,1664182.0,Barcelona,Catalunya
+Maria Hein,32956,Felanitx,3XROpF1yIcXOcMjDkswghI,Migjorn,18388.0,Illes Balears,Illes Balears
+Dani6ix,31956,Teià,3uvPbZvw5KBjF8WRkMsjcz,Maresme,6427.0,Barcelona,Catalunya
+Mar Pujol,30928,Prats de Lluçanès,1Lwzj7r2h7OYhhM4bDcFQe,Lluçanès,2604.0,Barcelona,Catalunya
+Sara Roy,30627,Manresa,71OOfmrGnQoJqrUIq133qs,Bages,78245.0,Barcelona,Catalunya
+Boom Boom Fighters,30297,Girona,2bNKVXUVgZPjFR9VNYJNj6,Gironès,103369.0,Girona,Catalunya
+Josep Thió,29606,Girona,1ynknzrpslHlkD4cd2icCq,Gironès,103369.0,Girona,Catalunya
+Guillem Gisbert,29422,Barcelona,0LqWxjJpozUhGWiacey9CL,Barcelonès,1664182.0,Barcelona,Catalunya
+Sandra Monfort,29396,Pedreguer,61e36FRgKb0nR158oVJvij,Marina Alta,7699.0,Alacant,Comunitat Valenciana
+Lali BeGood,29267,Barcelona,45HbN8ylTlLEtkS6SucwwX,Barcelonès,1664182.0,Barcelona,Catalunya
+Crim,28503,Tarragona,2p7rRgVQsbzdA8zkpb83Q2,Tarragonès,136496.0,Tarragona,Catalunya
+Markos,28226,Tarragona,4ybBHIwhc793hjU7RiM8Ap,Tarragonès,136496.0,Tarragona,Catalunya
+Ernest Prana,27911,Sabadell,7elQrux5S6rY1UwForG9t5,Vallès Occidental,216520.0,Barcelona,Catalunya
+El Diluvi,27850,Castalla,21OW9V8Wv1j0zqVTqz5V94,Alcoià,10124.0,Alacant,Comunitat Valenciana
+Roger Mas,26772,Solsona,3KajPNH0UsaJhWiAf68JYY,Solsonès,9137.0,Lleida,Catalunya
+FADES,26151,Palma,2GbjEKkwENPIzGzGU4haSO,Mallorca,407648.0,Illes Balears,Illes Balears
+El Petit de Cal Eril,26045,Massoteres,5nlJ049WJIE7reR0SgUVyF,Segarra,212.0,Lleida,Catalunya
+Will.X.O,24788,Barcelona,0NNMqY9gUwR31gMAG27X6w,Barcelonès,1664182.0,Barcelona,Catalunya
+Tomeu Penya,24707,Vilafranca de Bonany,6KLolR6RNEUVUvKOOsxrXm,Pla de Mallorca,2971.0,Illes Balears,Illes Balears
+Ambauka,24599,Molins de Rei,4N8xNpFMzKYOHVd9E1eNE8,Baix Llobregat,25940.0,Barcelona,Catalunya
+Cactus,24302,-,6lZHxuO4S36ijw1trp5Z71,Comtat,,Alacant,Comunitat Valenciana
+Macedònia,24120,Castellar del Vallès,4hIcN54cqZk0JXdTQiGF4T,Vallès Occidental,24488.0,Barcelona,Catalunya
+Ebri Knight,23926,Argentona,2GBUTum66FDsK1M6zd3u7G,Maresme,12536.0,Barcelona,Catalunya
+Homes Llúdriga,23865,Barcelona,2V8IXjDqu1NsPCNRMlYWNr,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan Rafart,23864,Solsona,38dfWliIkUqaBCIDd7WSxK,Solsonès,9137.0,Lleida,Catalunya
+Esther,23808,Vinaròs,5WTbB8itm33YPgupEhcMUS,Baix Maestrat,28682.0,Castelló,Comunitat Valenciana
+Gerard Quintana,23510,Girona,07MOFkELf3tpgB9pqLQurj,Gironès,103369.0,Girona,Catalunya
+Maio,23450,Barcelona,47cUV27yaXyttFU8K5HEvP,Barcelonès,1664182.0,Barcelona,Catalunya
+Pèl de Gall,23397,-,55fgmyROp14p0jbdzVEK8g,Menorca,,Illes Balears,Illes Balears
+Habla de Mí en Presente,23306,Berlín,6Ve7C0L8bH6NfejnYfKOJn,,3878100.0,,
+Eloi Sayrach,23200,Barcelona,0Ddz5exoprFRNpCym6FLXe,Barcelonès,1664182.0,Barcelona,Catalunya
+Quimi Portet,22650,Vic,03FGY5MFUz7JNP6yYbiceB,Osona,47630.0,Barcelona,Catalunya
+La Iaia,22346,Vic,2RoEO8VblRUUzcDp0zd1jn,Osona,47630.0,Barcelona,Catalunya
+gavina.mp3,21660,Barcelona,1HQjBUjN7QCO8rIldwSXeZ,Barcelonès,1664182.0,Barcelona,Catalunya
+Pelat i Pelut,21442,Folgueroles,0Fqs1pyFYl8J2SMqmRJlV2,Osona,2265.0,Barcelona,Catalunya
+Andreu Rifé,20923,Barcelona,4TxqqltARJw6R4wIFCgRXg,Barcelonès,1664182.0,Barcelona,Catalunya
+Cookah P,20391,Girona,23d92HZZYDNJRlshjZIAt3,Gironès,103369.0,Girona,Catalunya
+Hug Sound,20391,Girona,23d92HZZYDNJRlshjZIAt3,Gironès,103369.0,Girona,Catalunya
+Spxxn P,19821,Sant Cugat del Vallès,3ffpiODsUFT0nYlOborFVI,Vallès Occidental,92977.0,Barcelona,Catalunya
+País de Xauxa,19727,l'Escala,1HwSB9hnfL3Fwm2pbDGNq6,Alt Empordà,10244.0,Girona,Catalunya
+Iglú,19639,Barcelona,4Wfi7bsHCX2jfKgYvwl4gO,Barcelonès,1664182.0,Barcelona,Catalunya
+Calagher,19537,Mataró,3ffpiODsUFT0nYlOborFVI,Maresme,129661.0,Barcelona,Catalunya
+Remei de Ca la Fresca,18729,Arbúcies,4EumXNdcUtH8akCtwEYUwu,Selva,6608.0,Girona,Catalunya
+Lluc,18722,Santa Maria de Palautordera,7DyiuN7G1T9S6l5BCvVNXI,Vallès Oriental,18424.0,Barcelona,Catalunya
+Monrra Straps,18635,Barcelona,13FzwBhhVR3ixmoggvmVBm,Barcelonès,1664182.0,Barcelona,Catalunya
+Lil Guiu,18635,Barcelona,1GPrbtpaDXV9wxRuRHUNmv,Barcelonès,1664182.0,Barcelona,Catalunya
+Cris Juanico,18041,Ciutadella de Menorca,1hnG3sbjWvITvOpTt9wmNO,Menorca,29580.0,Illes Balears,Illes Balears
+miquel,18039,Igualada,3VUidb50jCH78EzrGpAVyj,Anoia,40742.0,Barcelona,Catalunya
+K-ZU,17958,Taradell,1s8GI8PabnvOBeSMTqWUI3,Osona,6640.0,Barcelona,Catalunya
+Renaldo & Clara,17888,Lleida,29eGrPvxOuFDGOyOUi3RLq,Segrià,140403.0,Lleida,Catalunya
+Els Atrapasomnis,17866,la Cellera de Ter,182RYYfNdCeUEXmEE8BzeL,Selva,1950.0,Girona,Catalunya
+Sangtraït,17608,la Jonquera,0T4rfoOZaBOSDm6DyGVGzF,Alt Empordà,3320.0,Girona,Catalunya
+Raimon,17489,Xàtiva,53gngrNkCMQim2Fg4qbHZm,Costera,29231.0,València,Comunitat Valenciana
+Joan Miquel Oliver,17309,Sóller,6zXhOyC07G4spYTHFLm7oo,Serra de Tramuntana,14150.0,Illes Balears,Illes Balears
+Pep Puigdemont,16990,Olot,0yRbGYdxmPwoA9sHhyg8Q9,Garrotxa,35926.0,Girona,Catalunya
+Dan Peralbo,16933,Torelló,3FYUDIpmulHS4rb5xpP9iN,Osona,14400.0,Barcelona,Catalunya
+Magalí Datzira,16750,Barcelona,4Wwktb7LI1OtXAWRO6Hln4,Barcelonès,1664182.0,Barcelona,Catalunya
+Ja t'ho diré,16725,Ciutadella de Menorca,5d2POCYAVv4ardPLgc6kH0,Menorca,29580.0,Illes Balears,Illes Balears
+Mainasons,16231,la Garriga,2ZQffgTQE5JS8vjCl0PiJ1,Vallès Oriental,16668.0,Barcelona,Catalunya
+The Penguins,16192,Sant Feliu de Llobregat,3jtvYbfq9GfapNH5MhNjDm,Baix Llobregat,45467.0,Barcelona,Catalunya
+La Troba Kung-Fú,16176,la Garriga,78LSyERttuORro7Rz8ar3L,Vallès Oriental,16668.0,Barcelona,Catalunya
+Vernat,15978,Sabadell,5lxFyGjIisTPiz6W2MiOm9,Vallès Occidental,216520.0,Barcelona,Catalunya
+Jo Jet i Maria Ribot,15941,Manresa,2VLAEUc8hJ7R6EPktTBFhx,Bages,78245.0,Barcelona,Catalunya
+enMatu,15891,Terrassa,1uXmpBAndznIassr1HjWbA,Vallès Occidental,223627.0,Barcelona,Catalunya
+Dagoll Dagom,15867,Barcelona,36OL5KYUY6Ccs6tszNTqHZ,Barcelonès,1664182.0,Barcelona,Catalunya
+Guillem Bautista,15862,Badalona,4aMz9dbnuj9prr7EkFnf2r,Barcelonès,223166.0,Barcelona,Catalunya
+Xicu,15733,Castellbisbal,7kvpnHcyn0RxXpUgEk8ov6,Vallès Occidental,12540.0,Barcelona,Catalunya
+Xiula,15570,Barcelona,75Jrb42ngkh2fqfQi0O6um,Barcelonès,1664182.0,Barcelona,Catalunya
+Maig,15275,Barcelona,4oeSQBgx78jrlG6bGZrdgD,Barcelonès,1664182.0,Barcelona,Catalunya
+Pepet i Marieta,15270,Ulldecona,7KKKewRz8PCindxuBfnLPp,Montsià,6525.0,Tarragona,Catalunya
+Pupil·les,15117,València,3x9exBPPsch8NHTpOTJu83,València,794288.0,València,Comunitat Valenciana
+Glaucs,15058,Begur,1RQRp6AZqcumsPeHciLBr5,Baix Empordà,3891.0,Girona,Catalunya
+Senyor Oca,14842,Barcelona,5zl0XS3Yjo4eBViGndCB61,Barcelonès,1664182.0,Barcelona,Catalunya
+Dj Plan B,14516,València,0fCfaBpB9swXSqhNRU38rR,València,794288.0,València,Comunitat Valenciana
+Andana,14294,Mataró,3Z21NTe0lIVuG6DnFOX0Ni,Maresme,129661.0,Barcelona,Catalunya
+Pau Alabajos,14195,Torrent,2fx0EsmjDotI8Vq4daoB2g,Horta Sud,82208.0,València,Comunitat Valenciana
+Lo Puto Cat,14166,-,0Vnj54RNnbtxB4BFEDELju,,,,Catalunya
+Obeses,13871,Tona,3BkB8VHV7IeyjFTzlX6ohi,Osona,8356.0,Barcelona,Catalunya
+JULS,13749,Girona,63h9kiR97eiLOwDCBOyvzZ,Gironès,103369.0,Girona,Catalunya
+Animal,13406,Sant Quirze del Vallès,4R5uqcGNfcfkFpUKxSPCfK,Vallès Occidental,20195.0,Barcelona,Catalunya
+Porto Bello,13372,Altafulla,2hZTwRCdE5JFf7ohaIs6W2,Tarragonès,5307.0,Tarragona,Catalunya
+David Ros,13331,Barcelona,1DGsfQSrh6DuyEYFCGpUeS,Barcelonès,1664182.0,Barcelona,Catalunya
+Edu Esteve,13074,Badalona,2Nl5f6i0dHSjz9UvaDfSQD,Barcelonès,223166.0,Barcelona,Catalunya
+Marcel Lázara i Júlia Arrey,12971,Manlleu,36Di8MUKOV0zDs1hTzyb9d,Osona,20912.0,Barcelona,Catalunya
+Pep Gimeno 'Botifarra',12962,Xàtiva,67nzmyyXxcTT4ZU8lBxcvp,Costera,29231.0,València,Comunitat Valenciana
+Vuit,12952,Cunit,60uQL4Gg6Lbh6Jl6pD7xzB,Baix Penedès,13533.0,Tarragona,Catalunya
+Koers,12882,Lleida,6EEs0hbsFGYZ3VdNOErO9n,Segrià,140403.0,Lleida,Catalunya
+Gato Pérez,12777,Buenos Aires,0xTE8Ru20PBrfPDxrwYAD9,,3120612.0,,
+Jofre Bardagí,12759,Barcelona,6Ruvv3UraUke347B3R1lrj,Barcelonès,1664182.0,Barcelona,Catalunya
+Pau Riba,12713,Palma,2zSk5pjoQqWROuvp5RUrVL,Mallorca,407648.0,Illes Balears,Illes Balears
+Pep de la Tona,12666,Pego,2rMgRVKwlDL618ZirhIeat,Marina Alta,10128.0,Alacant,Comunitat Valenciana
+Les anxovetes,12580,Girona,23ePB80oZpuErNwOUnUD0E,Gironès,103369.0,Girona,Catalunya
+OR (O-ERRA),12262,Manacor,3rqMgw2cpWZaZP4kHtY8NO,Llevant,40831.0,Illes Balears,Illes Balears
+Cesc,12184,l'Armentera,6JgIKVieCcwKpdx4LwnbR0,Alt Empordà,951.0,Girona,Catalunya
+Marc Parrot,12084,Tiana,2ueY5TbhGwb2WBGiHMR6pp,Maresme,8945.0,Barcelona,Catalunya
+Petit Taller de Cançons,12080,el Vendrell,71jrlF6TcVSCl8sK1ahcMP,Baix Penedès,38373.0,Tarragona,Catalunya
+Siderland,12028,Barcelona,0J4ED5b2q2T3B6OhOvNFru,Barcelonès,1664182.0,Barcelona,Catalunya
+Sr. Chen,11935,Rubí,6GqSICEGHY2MW8mgwYzz5Q,Vallès Occidental,78591.0,Barcelona,Catalunya
+Dr. Calypso,11892,Barcelona,6NzQGCr2sqQJ7AepiQpVGW,Barcelonès,1664182.0,Barcelona,Catalunya
+Sisa,11885,Barcelona,6rgsgH0TXknBetbEa6mtdf,Barcelonès,1664182.0,Barcelona,Catalunya
+Núria López,11804,Santa Pau,5c2QITgp1iC7pY7Q396R2x,Garrotxa,1614.0,Girona,Catalunya
+Tacho,11714,València,0iym7MctBjSQcYJH4kDKRp,València,794288.0,València,Comunitat Valenciana
+Marc Vilajuana,11525,Mataró,7ClokMDbO1xGPPOFYyFO4a,Maresme,129661.0,Barcelona,Catalunya
+Xeic!,11368,Rasquera,3V8Ri9UHBCg1YeAwfqW6yz,Ribera d'Ebre,783.0,Tarragona,Catalunya
+Júlia Colom,11231,Valldemossa,2FGexWthFJnvymvErkOPaI,Serra de Tramuntana,2027.0,Illes Balears,Illes Balears
+Marta Shanti,11055,Montmeló,5YyCiUT9C20oa7M71WmVWK,Vallès Oriental,8831.0,Barcelona,Catalunya
+Joan Bibiloni,10878,Manacor,4jBaiMLmjCqpci9wENQ7fR,Llevant,40831.0,Illes Balears,Illes Balears
+Joan Rovira,10874,Camarles,5kWu63fBFmBS8KVbL6lUWm,Baix Ebre,3194.0,Tarragona,Catalunya
+Margarett,10823,Barcelona,2la5ZJvk9pLFyfHNUdQC1O,Barcelonès,1664182.0,Barcelona,Catalunya
+Pirat's Sound Sistema,10710,Barcelona,3bSjpDHDskBXS2z5WuaXaq,Barcelonès,1664182.0,Barcelona,Catalunya
+La Maria,10646,Oliva,2trmdI9kJ4hY5c1GZANnaQ,Safor,25101.0,València,Comunitat Valenciana
+Whiskyn's,10632,Reus,3ebwHQYvONnv8xIrW2wYDA,Baix Camp,106168.0,Tarragona,Catalunya
+jovedry,10614,Barcelona,7aM2zF8ZvXMD8DzZY98W10,Barcelonès,1664182.0,Barcelona,Catalunya
+Sense Sal,10341,Terrassa,0jQrR51vUkXd4ISpJnEFTr,Vallès Occidental,223627.0,Barcelona,Catalunya
+Ovidi Montllor,10208,Alcoi,3GBaJmaRSCLv9DZXo5tgRL,Alcoià,58994.0,Alacant,Comunitat Valenciana
+Van de kul,10170,la Cellera de Ter,5bo3oEULxoW0OPUQeDN2G1,Selva,1950.0,Girona,Catalunya
+CyBee,9972,Sant Feliu de Llobregat,6XaaHZYcV08dN3b1GXsb0o,Baix Llobregat,45467.0,Barcelona,Catalunya
+Atupa,9908,Montcada,01o583ZRPv5Q8UTvpMT1QK,Horta Nord,21935.0,València,Comunitat Valenciana
+Brams,9899,Berga,0QYoTBFk6RrLqna6PfszFy,Berguedà,16760.0,Barcelona,Catalunya
+Anegats,9793,Son Servera,4VhEs0xRqmIysn0tdTyLR1,Llevant,12165.0,Illes Balears,Illes Balears
+Still ill,9560,Barcelona,3RCztsjXccqtUFDj5Qxi3n,Barcelonès,1664182.0,Barcelona,Catalunya
+TESA,9444,Almussafes,38eya5J0wXElARHyRQ6xz0,Ribera Baixa,8967.0,València,Comunitat Valenciana
+Mazoni,9419,la Bisbal d'Empordà,5jxwrEuiCDAujXZXIvCShs,Baix Empordà,11159.0,Girona,Catalunya
+Sanjosex,9290,la Bisbal d'Empordà,3xvSV6NiocgZuGdVK3n0lE,Baix Empordà,11159.0,Girona,Catalunya
+Good Jan,9245,Barcelona,5OnhZfL9VuuicSPxkFxwJk,Barcelonès,1664182.0,Barcelona,Catalunya
+Adrià Puntí,9059,Salt,4gQzCU2uamGf9aX5DMOnuV,Gironès,32138.0,Girona,Catalunya
+Balma,9058,Barcelona,120KlGliWpuFD6rw7oiLAH,Barcelonès,1664182.0,Barcelona,Catalunya
+Mariona Escoda,8765,Valls,3FhvXs9qsXIxDrpDps6fWR,Alt Camp,24477.0,Tarragona,Catalunya
+Inadaptats,8711,Vilafranca del Penedès,4mqXPNpuimTATkJ3WNHGik,Alt Penedès,40154.0,Barcelona,Catalunya
+Colomet,8620,València,0Iex9HZLBlEmTgzmd9cvnn,València,794288.0,València,Comunitat Valenciana
+River Omelet,8553,Barcelona,7lMu9d7nu8METOTVS4vhbU,Barcelonès,1664182.0,Barcelona,Catalunya
+Groggy Rude,8514,Tarragona,4qOAKa6tiDSzvMiGGrPzjC,Tarragonès,136496.0,Tarragona,Catalunya
+NIUSS,8410,Algemesí,2NvEpqoU9axJtMG4Qk92XG,Ribera Alta,27331.0,València,Comunitat Valenciana
+Toti Soler,8393,Vilassar de Dalt,5Gymmxz9DpDUlI8cyEhqra,Maresme,9072.0,Barcelona,Catalunya
+Orchestra Fireluche,8369,la Cellera de Ter,1eirXxHGEOsSL4o1ao1b03,Selva,1950.0,Girona,Catalunya
+Lal’Ba,8214,Olesa de Montserrat,1wlYowWXP2lahrXGn5opzG,Baix Llobregat,24144.0,Barcelona,Catalunya
+Esquirols,8195,l'Esquirol,0zH2Nk2nvnHCrD6kJLnDYm,Osona,2186.0,Barcelona,Catalunya
+Gava y Nico,8106,València,3mB0MQOTV32s4ZRqgMPrqw,València,794288.0,València,Comunitat Valenciana
+Celobert,8083,Barcelona,1ffEm5v0mUKyE79ep6KEpS,Barcelonès,1664182.0,Barcelona,Catalunya
+David Rosell,7602,Manresa,7cdbNBNnPPiUEdo57yKd2e,Bages,78245.0,Barcelona,Catalunya
+Joan Garriga i el Mariatxi galàctic,7573,la Garriga,0EQqEBz10VJZ8QHaJweeNE,Vallès Oriental,16668.0,Barcelona,Catalunya
+The Demencials,7535,Vic,2L4OuuKQTtaFxQzqQOMxsC,Osona,47630.0,Barcelona,Catalunya
+Port Bo,7260,Palafrugell,5sghLheanUsG26zk991W2Y,Baix Empordà,23244.0,Girona,Catalunya
+Àlex Blat,7223,València,4cTMg9gbEOYVvEtKtspGYg,València,794288.0,València,Comunitat Valenciana
+Teuma Thug,7164,Barcelona,6YNAXZ2z0lrtPOMSkO3KRY,Barcelonès,1664182.0,Barcelona,Catalunya
+Vienna,7084,Alacant,2qT0hAMqLp6dvHFlcR5HWK,Alacantí,334887.0,Alacant,Comunitat Valenciana
+Xarim Aresté,6766,Flix,6UbthgKAxqoJgbSan82idB,Ribera d'Ebre,3410.0,Tarragona,Catalunya
+Pilseners,6728,Barcelona,5Q6RTmfU1ZLbAlyiUJCmbh,Barcelonès,1664182.0,Barcelona,Catalunya
+Dani Miquel,6688,l'Alcúdia,3RvCCC63losASebpl75PvC,Ribera Alta,12009.0,València,Comunitat Valenciana
+Quinto,6683,Pego,6mklD5ITuLhHHJZDttOhgh,Marina Alta,10128.0,Alacant,Comunitat Valenciana
+Com sona?,6660,Barcelona,0TO83lOrKzSLvgyOsYCMD2,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan Colomo,6589,Sant Celoni,5PgFxKraqTJUjncc2f3gFB,Vallès Oriental,18136.0,Barcelona,Catalunya
+97 onzas,6548,-,0XyVpPgy567dadk35AVCwG,Osona,,Barcelona,Catalunya
+Feliu Ventura,6510,Xàtiva,5Mvf1DjQ6BQ5CKra8wDDqG,Costera,29231.0,València,Comunitat Valenciana
+Mireia Vives,6435,Llíria,1Dn2EjFxbwoJdnCSLw8JSJ,Camp de Túria,23253.0,València,Comunitat Valenciana
+Rudymentari,6346,Ciutadella de Menorca,1TrrU7UZ93JDlbSCGD5mhh,Menorca,29580.0,Illes Balears,Illes Balears
+Scorpio,6287,Barcelona,66sVsxa3MGkILbbcv5cJ4W,Barcelonès,1664182.0,Barcelona,Catalunya
+Ramon Calduch,6277,Montcada i Reixac,5XWDAbFGjwEQ2bcCq0nh3w,Vallès Occidental,36803.0,Barcelona,Catalunya
+Maluks,6211,València,0vz1Tn02DpGRpM3GsiPBqi,València,794288.0,València,Comunitat Valenciana
+Sicus Carbonell,6191,Barcelona,7twzzGIAN8297a16rzAjGn,Barcelonès,1664182.0,Barcelona,Catalunya
+Galgo Lento,6180,Terrassa,5RWKEHpyfUhxTIGMeOcenQ,Vallès Occidental,223627.0,Barcelona,Catalunya
+Delta Delta,6176,Barcelona,6aVjuiFg6aDrHNg7ZdE6j5,Barcelonès,1664182.0,Barcelona,Catalunya
+Bons nois,6176,Sant Feliu de Llobregat,0vj3n5NDvKSAEwZNM8Bsoo,Baix Llobregat,45467.0,Barcelona,Catalunya
+Reïna,6176,Manacor,6KVNkE8MHfH6Wv8b4qEq8n,Llevant,40831.0,Illes Balears,Illes Balears
+Damià Olivella,6141,Manresa,2y2hCIeanWosuWiWbIRr4d,Bages,78245.0,Barcelona,Catalunya
+Da Souza,6041,Palma,3rD7bBI9zkYhu62o79tWe6,Mallorca,407648.0,Illes Balears,Illes Balears
+Yung Mare,6005,Barcelona,5zsNBwkuZ56oMjsVQqyByD,Barcelonès,1664182.0,Barcelona,Catalunya
+Ninus,5977,Cardedeu,7p8moQihVnOhzU4jVHMuT4,Vallès Oriental,18424.0,Barcelona,Catalunya
+Yung Rajola,5949,Lleida,5ZY6lI5dEppItx901v0wYa,Segrià,140403.0,Lleida,Catalunya
+Projecte Mut,5940,Eivissa,1DtVZ2mcu69GqeAZtdMBlh,Eivissa,49768.0,Illes Balears,Illes Balears
+Els Pescadors de L'Escala,5879,l'Escala,145BqjM1GvEdRHtYJ3NnX6,Alt Empordà,10244.0,Girona,Catalunya
+La Pataqueta,5850,-,2tNeP79ThAAvgba06aZevy,,,,Catalunya
+Pili Cugat i Carlos Lupprian,5726,Tortosa,5eR1NcL4ylQdOp2xSPz4Kj,Baix Ebre,33439.0,Tarragona,Catalunya
+Ariox,5574,Cardedeu,40qrXwBvQ93tL5ondgFXzE,Vallès Oriental,18424.0,Barcelona,Catalunya
+Selva Nua,5570,Lleida,5WZaYOPfY5HCLsZTfkIep7,Segrià,140403.0,Lleida,Catalunya
+Fetus,5532,la Bisbal d'Empordà,3fn7Jm4nOCVz7d4HVYiChe,Baix Empordà,11159.0,Girona,Catalunya
+Julen G,5525,Barcelona,00h3dzDtOjWaXlkvgrnmWO,Barcelonès,1664182.0,Barcelona,Catalunya
+Gerard Aledo,5497,Sant Quirze del Vallès,2G3PV2M6Mpb2FjRVNio1tf,Vallès Occidental,20195.0,Barcelona,Catalunya
+Cloe,5493,Barcelona,0bZpmYTPXVvnSiZ7SLiMPa,Barcelonès,1664182.0,Barcelona,Catalunya
+Companyia Elèctrica Dharma,5455,Barcelona,3WdGUwM7DyImzpNdKr26Q9,Barcelonès,1664182.0,Barcelona,Catalunya
+La Principal de la Bisbal,5444,la Bisbal d'Empordà,2oColxnsqUheAKCmlj7n9J,Baix Empordà,11159.0,Girona,Catalunya
+Acció,5398,Torroella de Montgrí,2k4CzUBX2epNNB8kYhRxLC,Baix Empordà,11836.0,Girona,Catalunya
+La Coixinera,5342,Mataró,2m5tZBEzEePSyyMmG6NLVg,Maresme,129661.0,Barcelona,Catalunya
+Polifònica de Puig-Reig,5319,Puig-reig,3Ib6fgPPnCN4x2ou232WKy,Berguedà,4295.0,Barcelona,Catalunya
+La Simfònica de Corda i Cobla de Catalunya,5319,la Bisbal d'Empordà,3Ib6fgPPnCN4x2ou232WKy,Baix Empordà,11159.0,Girona,Catalunya
+Al Tall,5315,València,7f6UyaGmBD2Vuq1ygnxYa3,València,794288.0,València,Comunitat Valenciana
+roserona,5281,Cardedeu,50Gz3aUc4gTUXQYskqIWza,Vallès Oriental,18424.0,Barcelona,Catalunya
+Filibusters,5240,Vilafranca del Penedès,6gXv7sFvNYv5d4zi8L4Ozq,Alt Penedès,40154.0,Barcelona,Catalunya
+Aina Reig,5180,Girona,2Ij9EybzTRRk2u4IZ5kwdM,Gironès,103369.0,Girona,Catalunya
+Gemma BaÃ±os,5148,-,5lgxp789uy128P3kUUOBqz,,,,
+Gemma Baños,5148,-,5lgxp789uy128P3kUUOBqz,,,,
+bert bert,5094,Sabadell,6DxleFQGGR0UPogCnAYQm7,Vallès Occidental,216520.0,Barcelona,Catalunya
+Vinnie Kairos,5072,Girona,3enVyMO0pmP8TIqtBFfmtz,Gironès,103369.0,Girona,Catalunya
+La Cosina,5006,Reus,2X2BpGXqfZ2lRz9b4ZNw8T,Baix Camp,106168.0,Tarragona,Catalunya
+Extraño Weys,4873,Sabadell,1ir989tR6c3httglWPxYJZ,Vallès Occidental,216520.0,Barcelona,Catalunya
+Jordi Lanuza,4813,Barcelona,73oNWlqYVaL2LZC6TZZFNZ,Barcelonès,1664182.0,Barcelona,Catalunya
+Cobla Marinada,4813,Badalona,3fSR4gBdQNvAOqaGq0OtPh,Barcelonès,223166.0,Barcelona,Catalunya
+Acros,4811,Barcelona,0xHO61mVt5YXG52usJTYmb,Barcelonès,1664182.0,Barcelona,Catalunya
+Sergi Carbonell,4682,Ribes de Freser,3U1WtKior7Vyok72E1T0wO,Ripollès,1760.0,Girona,Catalunya
+Amulet,4648,Santa Maria del Camí,3QD28mMa1dWcwEk3xQabCM,Raiguer,6473.0,Illes Balears,Illes Balears
+Les Montses,4639,Sant Vicenç dels Horts,4xYHaYPM5ed9gUHsXFXjYY,Baix Llobregat,28268.0,Barcelona,Catalunya
+Malson Atmosfèric,4557,Sant Julià de Ramis,121rcBq3RwZEtfSAy8JYeV,Gironès,3576.0,Girona,Catalunya
+Anna Roig i l'Ombre de Ton Chien,4520,Sant Sadurní d'Anoia,4UJe0PktQVNe36XTKCRUyP,Alt Penedès,12841.0,Barcelona,Catalunya
+Jonatan Penalba,4510,l'Alcúdia,4zzG67sucjcErB0RI5FxFG,Ribera Alta,12009.0,València,Comunitat Valenciana
+Germà Negre,4450,Banyoles,2s1zTYYloQG8guSeqneAzL,Pla de l'Estany,20053.0,Girona,Catalunya
+Muyayo Rif,4368,Cornellà de Llobregat,0k3TYsn0wPivYDhHX7HE4C,Baix Llobregat,89936.0,Barcelona,Catalunya
+Seikos,4355,Sant Feliu de Llobregat,4M6VkzBYyltZ2t8AbXKLBg,Baix Llobregat,45467.0,Barcelona,Catalunya
+La Tribu canta,4340,-,2KJ1hjAdPuGCAk8WnmuLds,Maresme,,Barcelona,
+Clara Fiol,4338,Palma,0UfmVPKdl0aXxXKF9bvTZq,Mallorca,407648.0,Illes Balears,Illes Balears
+CoCo,4336,Barcelona,3JICTczF91kSDOWTssDEtz,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan Masdéu,4329,Reus,1qg4y9TyV4WrCtHFAGgMhm,Baix Camp,106168.0,Tarragona,Catalunya
+Lluís Sánchez,4294,Artesa de Lleida,7tlFmw0qkSCfDkcbfXc66v,Segrià,1535.0,Lleida,Catalunya
+Jim,4259,Granollers,5Tf3tUftUa3rYG9H98CV0U,Vallès Oriental,62419.0,Barcelona,Catalunya
+Paula Valls,4258,Manlleu,571Zc1cK0PYmAEzdB2k1GN,Osona,20912.0,Barcelona,Catalunya
+Pastorets Rock,4243,Lleida,1Jp1nIjDVFmKkz0ECuoPbJ,Segrià,140403.0,Lleida,Catalunya
+Zadi Plug,4130,Barcelona,2tprd9IgVCPGpjiqNG6KWT,Barcelonès,1664182.0,Barcelona,Catalunya
+Toni Giménez,4030,Barcelona,4VDwIwADquvHHW5adp0qyU,Barcelonès,1664182.0,Barcelona,Catalunya
+Llum,3992,Mataró,4tqn572Iok6jACDGb1APLk,Maresme,129661.0,Barcelona,Catalunya
+Vittara,3978,Barcelona,0RHElWsaFy1T4FiqxxekFk,Barcelonès,1664182.0,Barcelona,Catalunya
+Quico Tretze,3967,Igualada,4Otr92EF2M2h78jnAxmEZu,Anoia,40742.0,Barcelona,Catalunya
+Tardor,3957,València,79zvwxLcJBLcUHaJ25n3yx,València,794288.0,València,Comunitat Valenciana
+Mesclat,3940,Blanes,4z4JX5B2AcNIA5OKX6RYeD,Selva,39914.0,Girona,Catalunya
+Skatalà,3916,Barcelona,4yU8WdZjoXlTpyxgxWyCKS,Barcelonès,1664182.0,Barcelona,Catalunya
+Iris Deco,3913,Navarcles,1VP0sPzmkM1KIKV1r32clf,Bages,6057.0,Barcelona,Catalunya
+Lil Russia,3913,Barcelona,3H5LQXA7Yp4LpTUnQBDE0W,Barcelonès,1664182.0,Barcelona,Catalunya
+Hora de Joglar,3889,Argelaguer,1sQ37MtYVVfUuiLcSFpbV4,Garrotxa,396.0,Girona,Catalunya
+Dijous Paella,3882,-,25xvJV8X5oKNYjRljiXygY,,,Barcelona,Catalunya
+Sergi Albert,3876,Barcelona,2BVoQciUZKf7mEqWCChERE,Barcelonès,1664182.0,Barcelona,Catalunya
+Pep Sala,3832,Vic,12Fg2zGfrdsb2aGZhlFQVy,Osona,47630.0,Barcelona,Catalunya
+Júlia Blum,3812,Barcelona,4B6t52mhiUhrnMWR19T9ei,Barcelonès,1664182.0,Barcelona,Catalunya
+Nuri Total,3809,Barcelona,24occ5fjjGZG5Br2IeqAVR,Barcelonès,1664182.0,Barcelona,Catalunya
+Ocata,3802,Barcelona,4mmlq16Y7gghdUsgzwj1Sh,Barcelonès,1664182.0,Barcelona,Catalunya
+Ossifar,3781,Palma,79U9dVwcVq4fS5AsLTMyfa,Mallorca,407648.0,Illes Balears,Illes Balears
+Umpah-Pah,3717,Salt,4z8Fq4r52ALTdWfqLQYGhE,Gironès,32138.0,Girona,Catalunya
+Núria Feliu,3709,Barcelona,1Ry4w6Jd0fAaoXGPBvt9ex,Barcelonès,1664182.0,Barcelona,Catalunya
+Landry el Rumbero,3702,Barcelona,50aCv8eQWGZBLgbAchdq6V,Barcelonès,1664182.0,Barcelona,Catalunya
+PracciBtz,3676,-,5hROoy3gJhyOuUr9Aj5e5k,,,,Catalunya
+Guillermina Motta,3655,Barcelona,0Uku66igTcvFiYWNJPW3pw,Barcelonès,1664182.0,Barcelona,Catalunya
+Laura Gibert,3625,Lloret de Mar,0Nk5AGBagS9qB7G8D2ywzx,Selva,39089.0,Girona,Catalunya
+República Ska,3562,Lleida,35QWdwr5mi5FaUdP4FI7U8,Segrià,140403.0,Lleida,Catalunya
+Roger Berruezo,3546,Barcelona,5OLqCwryz51tah1Igrnwgu,Barcelonès,1664182.0,Barcelona,Catalunya
+Slad Mobb,3477,Barcelona,2YFW9Z60cXbavpNZvvJnxe,Barcelonès,1664182.0,Barcelona,Catalunya
+Batiste,3466,Barcelona,5HLC2Taade9BgByKQoc8bf,Barcelonès,1664182.0,Barcelona,Catalunya
+Patriarcas de la Rumba,3393,Barcelona,7lOr5o8LGNHi4nw2Q5bhxH,Barcelonès,1664182.0,Barcelona,Catalunya
+Henrio,3378,Barcelona,0oSXRm87lhplIslH3BzQwB,Barcelonès,1664182.0,Barcelona,Catalunya
+SDP509,3377,Manresa,4t109nphj1ICN4kukH0pSd,Bages,78245.0,Barcelona,Catalunya
+Ara va de bo,3361,Barcelona,55o2RM7237Ix7XXcbpXnzd,Barcelonès,1664182.0,Barcelona,Catalunya
+Quimo,3355,Girona,6Nz585IvHzPqWiBuPWazW9,Gironès,103369.0,Girona,Catalunya
+OKDW,3318,Cubelles,3gJX7610Ji5aE5wJhkhuTO,Garraf,15770.0,Barcelona,Catalunya
+Gemma Humet,3306,Terrassa,0Q2jviHTKVBLXWAnru25Km,Vallès Occidental,223627.0,Barcelona,Catalunya
+Nyandú,3246,Oristà,68NZljLQtbhWD6ER7Cdt5w,Lluçanès,549.0,Barcelona,Catalunya
+Maria Jacobs,3236,Valls,05gvuVmvAnjNPvl5xM8Gp8,Alt Camp,24477.0,Tarragona,Catalunya
+Joan Martorell,3233,Porreres,5mzrFWk1XAPtOvrAv8XwQi,Pla de Mallorca,5486.0,Illes Balears,Illes Balears
+La Terrasseta de Preixens,3217,Tàrrega,3p8xj077gS3z2eC5jXsAUH,Urgell,17445.0,Lleida,Catalunya
+N'Gai N'Gai,3216,Sant Pol de Mar,0VTsAewekEk1CtS08fI9QH,Maresme,5428.0,Barcelona,Catalunya
+Roko Banana,3181,Banyoles,1NLmdiLmGXAmUFALmYqLWO,Pla de l'Estany,20053.0,Girona,Catalunya
+Joan Liaño,3179,Granollers,4Vob8jQvjUtKgyxqtJFzdH,Vallès Oriental,62419.0,Barcelona,Catalunya
+The Crab Apples,3166,Santa Eulàlia de Ronçana,6u98K0jUUoIvIG5mPXRIWZ,Vallès Oriental,7426.0,Barcelona,Catalunya
+Anna Ferrer,3164,Maó,3It8AsQKxFW3Fx0FrrpF1z,Menorca,28972.0,Illes Balears,Illes Balears
+Bipolar,3160,Barcelona,5f5INetQct62L92kit5pFP,Barcelonès,1664182.0,Barcelona,Catalunya
+Autèntic Home Llúdriga,3136,Barcelona,07ApGh3oTuz014LDbWPANc,Barcelonès,1664182.0,Barcelona,Catalunya
+CLASSE B,3132,Torroella de Montgrí,4vhM44FsZ44IKyT6Ab4QsU,Baix Empordà,11836.0,Girona,Catalunya
+Compte,3073,Torrelavit,6DwgnmW2GkmlwLsjVDYRpP,Alt Penedès,1422.0,Barcelona,Catalunya
+Piris,3073,Folgueroles,6DwgnmW2GkmlwLsjVDYRpP,Osona,2265.0,Barcelona,Catalunya
+Batec,3068,Rubí,7I0tmVaoFLZYN5MxBnvi3H,Vallès Occidental,78591.0,Barcelona,Catalunya
+Los Barrankillos,3056,Santa Coloma de Gramenet,4tzvod2FeqFDigiG8x7UuQ,Barcelonès,120443.0,Barcelona,Catalunya
+Ivette Nadal,3045,Granollers,7wtt5XbGDjAHjRpebVeJEo,Vallès Oriental,62419.0,Barcelona,Catalunya
+Toni Xuclà,3016,Barcelona,2cxyyMLlTOkSB3KPebEhU1,Barcelonès,1664182.0,Barcelona,Catalunya
+"Quico el Célio, el Noi i el Mut de Ferreries",3005,Tortosa,5LOckPuG4JKRzJfJoYZT2w,Baix Ebre,33439.0,Tarragona,Catalunya
+Faixa,2969,Alcoi,4GUWQDiabQN2NV96h1G3rV,Alcoià,58994.0,Alacant,Comunitat Valenciana
+Som Mainada,2945,Sant Jaume dels Domenys,4WAxfFu2xpUnoTnwmV6q7T,Baix Penedès,2624.0,Tarragona,Catalunya
+Carles Belda,2937,Sabadell,75jyMiAxcPzJKnKpT5MgHY,Vallès Occidental,216520.0,Barcelona,Catalunya
+Kuu,2928,Mataró,77cBad8DNTobzNpER2rQfX,Maresme,129661.0,Barcelona,Catalunya
+Kabul Babà,2925,Girona,2acf64lej9AwgoudB2gVzS,Gironès,103369.0,Girona,Catalunya
+Plan-ET,2910,Manacor,3vBWB1sJCqdRExa32msXFs,Llevant,40831.0,Illes Balears,Illes Balears
+Llini,2900,Tordera,2foVU77BZ1auJuuWpvYQYl,Maresme,17519.0,Barcelona,Catalunya
+Ypnosi,2892,Barcelona,44M0hyVT612DWap1qhOUNY,Barcelonès,1664182.0,Barcelona,Catalunya
+Lamliki,2890,Barcelona,4gYvTOgNhFZYX0YPUrwtLo,Barcelonès,1664182.0,Barcelona,Catalunya
+Gigi Ros,2873,Barcelona,2AIBX47y2SapwNsCvk6MdV,Barcelonès,1664182.0,Barcelona,Catalunya
+Ramon Muntaner,2836,Cornellà de Llobregat,2e1GB6YtJXZ3mBlKTpheIF,Baix Llobregat,89936.0,Barcelona,Catalunya
+La Tour de Carol,2835,Barcelona,6KuJlu9RqfpcyzCsAdCnBX,Barcelonès,1664182.0,Barcelona,Catalunya
+Martigo,2835,Mataró,3HDuiwI8hjGt0iPK77EmD7,Maresme,129661.0,Barcelona,Catalunya
+At Versaris,2797,Sabadell,6HPAGt94jKHGMQmT8IYNPN,Vallès Occidental,216520.0,Barcelona,Catalunya
+Els de la Torre,2762,el Masnou,77Fg8ZCQAzN5QpuMYBCPUz,Maresme,23831.0,Barcelona,Catalunya
+AlQuadrat,2721,Sant Quirze del Vallès,1hs6EVB1tPjA2mjtZmznVn,Vallès Occidental,20195.0,Barcelona,Catalunya
+Maria Fort,2713,Tarragona,6JQhxJPOM8XTlOCbMf4Q1a,Tarragonès,136496.0,Tarragona,Catalunya
+Anímic,2707,Collbató,1W0p95KwWJEqwYujfD4I3R,Baix Llobregat,4544.0,Barcelona,Catalunya
+Juanjo Monserrat,2699,Palma,67cT4HCzYZlGaddip7Mpge,Mallorca,407648.0,Illes Balears,Illes Balears
+Espaldamaceta,2683,Tarragona,3jUluqPA6Np859cgFUPhUF,Tarragonès,136496.0,Tarragona,Catalunya
+Uri Santafé,2673,Moià,1kgq9Zhocbqsp50A0rYcBA,Moianès,6383.0,Barcelona,Catalunya
+Tiu,2672,Palma,1RSI1kRaKq7IPaXsbLdFGo,Mallorca,407648.0,Illes Balears,Illes Balears
+Anna Roig Dolz,2668,Barcelona,38mrMulfsHDdaWdTduTIyt,Barcelonès,1664182.0,Barcelona,Catalunya
+The Anti-Patiks,2665,Terrassa,2BnRECIfsXYvWmBavdX2rU,Vallès Occidental,223627.0,Barcelona,Catalunya
+Minibús Intergalàctic,2654,Girona,0bb1xWIXzK22TxjHYHpowl,Gironès,103369.0,Girona,Catalunya
+Miquel Serra,2615,Manacor,0xUNARNv5PfWqCuu8TJGug,Llevant,40831.0,Illes Balears,Illes Balears
+Poor Tràmit,2600,Premià de Mar,5kt50jR3ZZKxnf6kU7r0Mv,Maresme,28531.0,Barcelona,Catalunya
+Andreu Valor,2585,Cocentaina,4QLpUTkxZy7o3SQOYYbdeg,Comtat,11511.0,Alacant,Comunitat Valenciana
+Cucorba,2575,Muro,0YTlI47ekw3MnTibnaZPhS,Pla de Mallorca,6993.0,Illes Balears,Illes Balears
+Anna d'Ivori,2564,Tarragona,6petlZdButa9qCCglVNgFS,Tarragonès,136496.0,Tarragona,Catalunya
+Orfeó Català,2558,Barcelona,7EYQLR4McoszwQdzsWopfs,Barcelonès,1664182.0,Barcelona,Catalunya
+Miquel Gil,2554,Catarroja,3wgWeRgIV5sU41Yqz6V7qn,Horta Sud,28120.0,València,Comunitat Valenciana
+Filomena,2548,-,537djxX7t8ZoQ82Z3iQMS5,,,,
+Ses Bubotes,2547,Palma,3OZaq38ovtB5xRATWtJCFi,Mallorca,407648.0,Illes Balears,Illes Balears
+Rikus,2520,Cassà de la Selva,6vOSgVjwmRyMNGFv29CWrs,Gironès,10410.0,Girona,Catalunya
+Quart primera,2503,Barcelona,2Y6wI5KgNwPZkMux4iVXCj,Barcelonès,1664182.0,Barcelona,Catalunya
+Ailux,2496,Barcelona,7odrp8xGpLJfnC7PwmjWFF,Barcelonès,1664182.0,Barcelona,Catalunya
+Caïm Riba,2476,Barcelona,0Z19B0beqIljrSvaiQE1Pj,Barcelonès,1664182.0,Barcelona,Catalunya
+Roger Torné,2473,Terrassa,6DgXQ9wVnLd32WS9NiYAzC,Vallès Occidental,223627.0,Barcelona,Catalunya
+Quartet Mèlt,2465,Sabadell,5GNUlZrm97WN2U3Xucskc7,Vallès Occidental,216520.0,Barcelona,Catalunya
+Fescat goes punk,2411,Reus,6dkzuNvAOOrtMyJQN1l0CN,Baix Camp,106168.0,Tarragona,Catalunya
+Neptú,2409,Lleida,3GnPD01Y9TIEgdpMempBBA,Segrià,140403.0,Lleida,Catalunya
+Menaix a Truà,2405,-,2mMDS4lmc2DKs1JdjKPd89,,,,
+Vidres a la Sang,2405,Terrassa,4HYoaDFfg2c6I5pLS64Q6L,Vallès Occidental,223627.0,Barcelona,Catalunya
+Arc de Triomf,2384,Vilassar de Mar,0xddZStW6D83R6lgImCOkA,Maresme,21035.0,Barcelona,Catalunya
+Slim Samurai,2374,Eivissa,4Y9HKNCC79fsVTutvIDNgv,Eivissa,49768.0,Illes Balears,Illes Balears
+Clara Bauvi,2362,Barcelona,1LurtPPzXQ17fRj1imvXPu,Barcelonès,1664182.0,Barcelona,Catalunya
+Santa Mandra,2361,les Preses,0L6lGeDbX9MVzkz5SqHbwv,Garrotxa,1855.0,Girona,Catalunya
+Azul,2360,Barcelona,5q4rW6X30YjYsD2GG0EguW,Barcelonès,1664182.0,Barcelona,Catalunya
+Canimas,2358,Sant Feliu de Pallerols,14Nbnytt8OlJDZPyIktzY6,Garrotxa,1437.0,Girona,Catalunya
+Ferran Savall,2348,Cerdanyola del Vallès,5MV5GG8JohhFulDZy2Wf2I,Vallès Occidental,57855.0,Barcelona,Catalunya
+Gos Mullat,2347,Lleida,0ix2xaQhbHnrebaZdupWhm,Segrià,140403.0,Lleida,Catalunya
+Marialluïsa,2333,Igualada,57vnEmo3jRkWAigCYgNRaD,Anoia,40742.0,Barcelona,Catalunya
+Josep Xortó + The Congosound,2317,Barcelona,1pRPhN3DsSugpSb7Fwp91z,Barcelonès,1664182.0,Barcelona,Catalunya
+Achilifunk Sound System,2306,Barcelona,4yizsieShlGiLVWStpSt5t,Barcelonès,1664182.0,Barcelona,Catalunya
+Massaviu,2305,Cardedeu,0du3FPmKtQ8vfsmGYVzdFY,Vallès Oriental,18424.0,Barcelona,Catalunya
+Alícia Rey,2288,Terrassa,45CNnnXTK5IoEMBLtxZ0oi,Vallès Occidental,223627.0,Barcelona,Catalunya
+Mosaic,2243,Barcelona,7f3XYf1qLTocK1jfPpzuUv,Barcelonès,1664182.0,Barcelona,Catalunya
+Litro,2187,-,3baWuQJMX3vVMszsviDMjM,,,,
+Suc i Sopes,2151,Ciutadella de Menorca,32zQT5DBk6qfuHnDiftnyB,Menorca,29580.0,Illes Balears,Illes Balears
+Negre,2149,Santa Maria del Camí,6eOFkWLs30SxIG9wCMx1mY,Raiguer,6473.0,Illes Balears,Illes Balears
+Tremendu,2146,-,1ydQGaR5Et6SPuAEaHPAsF,Osona,,Barcelona,Catalunya
+Chill C,2128,Sabadell,4VXMVdG6lOJtDt94C142aM,Vallès Occidental,216520.0,Barcelona,Catalunya
+La Porta dels Somnis,2118,Sant Cugat del Vallès,0p9RmyMVmZHkNO51PLqk5N,Vallès Occidental,92977.0,Barcelona,Catalunya
+Clima,2094,Figueres,6u8KwsVsnmsEovsJZPkR6k,Alt Empordà,47235.0,Girona,Catalunya
+Clima,2094,Figueres,6u8KwsVsnmsEovsJZPkR6k,Alt Palància,54.0,Castelló,Comunitat Valenciana
+Arrels de Gràcia,2067,Barcelona,7KbbIXxEMGGbK0bvCWUnIa,Barcelonès,1664182.0,Barcelona,Catalunya
+David Canal,2046,Olost,32fPhqTn4U2C0gJMGSVWMI,Lluçanès,1202.0,Barcelona,Catalunya
+Gèls,2023,Barcelona,0t3gsSSYwcMQWwXNVcwjJn,Barcelonès,1664182.0,Barcelona,Catalunya
+Ocumé,2020,Barcelona,4XMjU4ncaOFDwc7qtJ7RVU,Barcelonès,1664182.0,Barcelona,Catalunya
+Uri,2019,Vic,5MVLPTiFlifkC16OkTMCw6,Osona,47630.0,Barcelona,Catalunya
+The Gruixut's,2003,la Bisbal d'Empordà,0AxcV6vRVnv8j9nLRqmtM6,Baix Empordà,11159.0,Girona,Catalunya
+Vergüenza Ajena,1979,Tarragona,7hZm5RI0nqetzyOZ9bMEC0,Tarragonès,136496.0,Tarragona,Catalunya
+Xavier Mata,1963,Gandia,6qIbcbaEx3RiRvUK6cTYX9,Safor,74562.0,València,Comunitat Valenciana
+Yung Rovelló,1963,Calella,6qIbcbaEx3RiRvUK6cTYX9,Maresme,19277.0,Barcelona,Catalunya
+Guillamino,1957,Barcelona,2AtZlwgzXeb4Ym2cqURQsR,Barcelonès,1664182.0,Barcelona,Catalunya
+Ressonadors,1955,Eivissa,5I3gBWwDffIxiQWJtTVlBr,Eivissa,49768.0,Illes Balears,Illes Balears
+Sociología Animal,1948,València,4IWjAqrg2GYP6opsPxQs9z,València,794288.0,València,Comunitat Valenciana
+Júlia Boncompte,1937,Barcelona,7F1ZKxdbK8GsAjbRDezQlb,Barcelonès,1664182.0,Barcelona,Catalunya
+Guineu,1931,Barcelona,71LogL8lYEei6YssB4RyVD,Barcelonès,1664182.0,Barcelona,Catalunya
+Jordi Barre,1919,Argelers,4kbH9b0zYEQHvSqqpkIN9U,Ceret,10779.0,Prinieus Orientals,Catalunya Nord
+Frida,1911,València,4IWjAqrg2GYP6opsPxQs9z,València,794288.0,València,Comunitat Valenciana
+Borja Penalba,1897,València,4GajMHxr4fe1wYlCMavgpe,València,794288.0,València,Comunitat Valenciana
+Novembre Elèctric,1892,València,0hwP1zFS6XO7kSohkYwUjT,València,794288.0,València,Comunitat Valenciana
+Carles Caselles,1888,Pego,4DLsibcLLf0LbpWz0zdrDu,Marina Alta,10128.0,Alacant,Comunitat Valenciana
+Enemic interior,1871,Barcelona,1dZhZobekgJWD7yPVRrGFG,Barcelonès,1664182.0,Barcelona,Catalunya
+Els Jóvens,1857,Sant Vicent del Raspeig,7Aop1VVQPR8WTm07073xoy,Alacantí,58385.0,Alacant,Comunitat Valenciana
+Exili,1832,Lleida,0TS31gLNpd5R47kDRjh7CC,Segrià,140403.0,Lleida,Catalunya
+Estúpida Erikah,1826,Barcelona,6B8yfpoefZ8KCgnrp97aQ4,Barcelonès,1664182.0,Barcelona,Catalunya
+Malaka,1826,Barcelona,7ccl3pHf64f6hXa3gURvLQ,Barcelonès,1664182.0,Barcelona,Catalunya
+Verlaat,1801,Maó,6ZwDrAxKEumVY57eTBTxUp,Menorca,28972.0,Illes Balears,Illes Balears
+Filippo Landini,1799,Canet de Mar,5LUVLHkOxrDaW67ukNZnAT,Maresme,14865.0,Barcelona,Catalunya
+Atzembla,1790,Alfara del Patriarca,2EIKkmmhu9sQAJ8FJfWXxZ,Horta Nord,3310.0,València,Comunitat Valenciana
+gusset,1789,Mataró,0oto11jiTMGV3E9sNwRSLY,Maresme,129661.0,Barcelona,Catalunya
+Pele MacLeod,1761,Mollet del Vallès,1J2zwKOEgC3ZntN5Baumkg,Vallès Oriental,51600.0,Barcelona,Catalunya
+Lòxias,1743,Castellar del Vallès,2pbtPVHpKfZnsBcoSuTMxV,Vallès Occidental,24488.0,Barcelona,Catalunya
+Rumbacalí,1732,Barcelona,2MhA88YjQWplGksjvwPkfP,Barcelonès,1664182.0,Barcelona,Catalunya
+Laura West,1726,Girona,7glBRgSuMYXGUUiTbMzoif,Gironès,103369.0,Girona,Catalunya
+Sva-ters,1692,Alcàsser,5I3Chv3ynUi3B27e0G6qab,Horta Sud,10039.0,València,Comunitat Valenciana
+Angeladorrrm,1687,Barcelona,1cORevGNvcNMDVcongo9Hp,Barcelonès,1664182.0,Barcelona,Catalunya
+Fora des Sembrat,1681,Palma,2x0jjhozNdKz4ug7dVarGc,Mallorca,407648.0,Illes Balears,Illes Balears
+Masvi,1636,Granollers,3P3atNTLFaSUi70NUnEmo5,Vallès Oriental,62419.0,Barcelona,Catalunya
+Kiddi,1636,Granollers,3P3atNTLFaSUi70NUnEmo5,Vallès Oriental,62419.0,Barcelona,Catalunya
+Parxís,1628,Barcelona,7i0eZz30UJP5FsJrrhWmJP,Barcelonès,1664182.0,Barcelona,Catalunya
+Pitxorines,1623,Manacor,5DcceBfNmi0vem5434rmyy,Llevant,40831.0,Illes Balears,Illes Balears
+Agus Gamino,1617,Silla,1zfVYA7i0kkKDLVKBPTcQS,Horta Sud,18771.0,València,Comunitat Valenciana
+Segonamà,1609,Riudoms,2MfmnDDoxSFWHGsMth1WAp,Baix Camp,6569.0,Tarragona,Catalunya
 The Binigaus Band,1600,-,6qg48YXJi1kchFPklC2KvZ,Menorca,,Illes Balears,Illes Balears
-Senior i el Cor Brutal,1500,València,4OK4JDuo3ztbXvCZGAlfJZ,València,794288.0,València,Comunitat Valenciana
-Rumbacalí,1500,Barcelona,2MhA88YjQWplGksjvwPkfP,Barcelonès,1664182.0,Barcelona,Catalunya
-Làd Cúig,1500,Arenys de Munt,28h7Ozi0acdUzz5M1vXUmT,Maresme,9121.0,Barcelona,Catalunya
-Marc Andurell,1500,Barcelona,2sbHCdXlLZpQinFykDef6I,Barcelonès,1664182.0,Barcelona,Catalunya
-Atzembla,1500,Alfara del Patriarca,2EIKkmmhu9sQAJ8FJfWXxZ,Horta Nord,3310.0,València,Comunitat Valenciana
-Van de kul,1400,la Cellera de Ter,5bo3oEULxoW0OPUQeDN2G1,Selva,1950.0,Girona,Catalunya
-Ailux,1400,Barcelona,7odrp8xGpLJfnC7PwmjWFF,Barcelonès,1664182.0,Barcelona,Catalunya
-Angeladorrrm,1400,Barcelona,1cORevGNvcNMDVcongo9Hp,Barcelonès,1664182.0,Barcelona,Catalunya
-Guiem Soldevila,1400,Ciutadella de Menorca,4EqapKKb6Zk8F8Cafr3uEv,Menorca,29580.0,Illes Balears,Illes Balears
-Zulabard,1400,Barcelona,0aaHiNXPsNk32tyIYQ2DYt,Barcelonès,1664182.0,Barcelona,Catalunya
-The Goliards Collective,1400,Barcelona,5dIsGGsTe3YjNW7iJ5pNqz,Barcelonès,1664182.0,Barcelona,Catalunya
-Orfeó Català,1400,Barcelona,7EYQLR4McoszwQdzsWopfs,Barcelonès,1664182.0,Barcelona,Catalunya
-Desperta Ferro,1400,Sabadell,6rHJHj24ugvHDVF7Y1vyjK,Vallès Occidental,216520.0,Barcelona,Catalunya
-Gos Mullat,1400,Lleida,0ix2xaQhbHnrebaZdupWhm,Segrià,140403.0,Lleida,Catalunya
-Lluís Cabot,1400,Marratxí,3g2kssHpkuGHrCvwfpMJ8f,Raiguer,34583.0,Illes Balears,Illes Balears
-Els Surfing Sirles,1400,Sant Celoni,4MxcskqHNDnUvWuEGC0Nhg,Vallès Oriental,18136.0,Barcelona,Catalunya
-Borja Penalba,1400,València,4GajMHxr4fe1wYlCMavgpe,València,794288.0,València,Comunitat Valenciana
-Salva Racero,1400,Manresa,5XdF7XHrly6GKShxmqQ6Lq,Bages,78245.0,Barcelona,Catalunya
-La Salseta del Poble Sec,1400,Barcelona,2GJQcq7Qk2ogKA5BrMcB2b,Barcelonès,1664182.0,Barcelona,Catalunya
-Bars,1300,Sabadell,5xS5pl0rriQf5ktTd8a3Ms,Vallès Occidental,216520.0,Barcelona,Catalunya
-Èxta6,1300,Viladecavalls,499Yl6lIzjneJc551Zt3XD,Vallès Occidental,7545.0,Barcelona,Catalunya
-vàlius,1300,Barcelona,6m0bytTgFAbnXtbVbG0foo,Barcelonès,1664182.0,Barcelona,Catalunya
-Mr. Freak Ska,1300,Mataró,0wwX6lGL0Nwexmp2ht3zmB,Maresme,129661.0,Barcelona,Catalunya
-Asra3,1300,Barcelona,0vQRVXVpnvYeeKzCzjvGwe,Barcelonès,1664182.0,Barcelona,Catalunya
-Fortuu,1300,Fornells de la Selva,0BYXkrcIz6X5xa0qW8frHf,Gironès,2670.0,Girona,Catalunya
-La Màlaga,1300,Barcelona,5evWUP7FMe0wmP3muvzlv3,Barcelonès,1664182.0,Barcelona,Catalunya
-Rikus,1300,Cassà de la Selva,6vOSgVjwmRyMNGFv29CWrs,Gironès,10410.0,Girona,Catalunya
-La Taverna,1300,Sant Feliu de Guíxols,70Uzhy40Fd3uSkL0smlyUc,Baix Empordà,22097.0,Girona,Catalunya
-Victoria Maldi,1300,Alacant,5MrGggQXno5FJEfpeSrGZq,Alacantí,334887.0,Alacant,Comunitat Valenciana
-Jaume Sureda,1300,Palma,0hB0a2v4w1oaTP2QvjJC9J,Mallorca,407648.0,Illes Balears,Illes Balears
-97 onzas,1300,-,0XyVpPgy567dadk35AVCwG,Osona,,Barcelona,Catalunya
-b1n0,1300,Barcelona,18UQ4ex95zIah1bPDQctL9,Barcelonès,1664182.0,Barcelona,Catalunya
-Lídia Pujol,1300,Barcelona,4MY1UGNC2mlbKVgGao8sMm,Barcelonès,1664182.0,Barcelona,Catalunya
-Milenrama,1300,Sarrià de Ter,0XbLXFHqeQdZ4o8gYRH9b1,Gironès,5229.0,Girona,Catalunya
-La Tresca i la Verdesca,1300,Badalona,7CYYRiw6DICgChjxkiVb0i,Barcelonès,223166.0,Barcelona,Catalunya
-Ninus,1200,Cardedeu,7p8moQihVnOhzU4jVHMuT4,Vallès Oriental,18424.0,Barcelona,Catalunya
-Panellet,1200,Terrassa,15YJDk8XbQZqg6r5jvKCBd,Vallès Occidental,223627.0,Barcelona,Catalunya
-Sva-ters,1200,Alcàsser,5I3Chv3ynUi3B27e0G6qab,Horta Sud,10039.0,València,Comunitat Valenciana
-Alvert,1200,Mataró,6Ul0MRqazFuI5BenaWKogV,Maresme,129661.0,Barcelona,Catalunya
-Paula Grande,1100,Girona,6NRB0LxYAAYKtbSOTB7m8M,Gironès,103369.0,Girona,Catalunya
-Bikimel,1100,Sabadell,6lJ0HbiwsJ1yvibFhhm4nl,Vallès Occidental,216520.0,Barcelona,Catalunya
-Quartet Mèlt,1100,Sabadell,5GNUlZrm97WN2U3Xucskc7,Vallès Occidental,216520.0,Barcelona,Catalunya
-Es Revetlers,1100,Santanyí,0hWH7RE3ixTIMt0NUQpvAS,Mallorca,12887.0,Illes Balears,Illes Balears
-David Cabot,1100,Palma,68udHxi3w2YD4CcPT2qv0s,Mallorca,407648.0,Illes Balears,Illes Balears
-Azul,1100,Barcelona,5q4rW6X30YjYsD2GG0EguW,Barcelonès,1664182.0,Barcelona,Catalunya
-Clàudia Xiva,1100,Amposta,6Zb5np8h2fFxKCgF1LuEmd,Montsià,21115.0,Tarragona,Catalunya
-Fescat goes punk,1100,Reus,6dkzuNvAOOrtMyJQN1l0CN,Baix Camp,106168.0,Tarragona,Catalunya
-Família Fracàs,1100,Terrassa,2DYjsvLsl7lylk3y0XskTp,Vallès Occidental,223627.0,Barcelona,Catalunya
-Èric Vinaixa,1100,Miravet,0mE1vmZ0qdIZOA1A5EMpxj,Ribera d'Ebre,706.0,Tarragona,Catalunya
-Gracià Pedro,1100,Barcelona,28ms2rE5Uz5Fr28V5FA7WP,Barcelonès,1664182.0,Barcelona,Catalunya
-Rock per Xics,1100,Girona,24m3gx8wCudeXrCf2GCqDY,Gironès,103369.0,Girona,Catalunya
-Sandra Bautista,1100,Martorelles,2jenRVqNHK4NWoAjz19q5w,Vallès Oriental,4820.0,Barcelona,Catalunya
-La Masia BCN,1000,Barcelona,1ujtcXttrPAihXMlCQLEYO,Barcelonès,1664182.0,Barcelona,Catalunya
-Chung-man Kim,1000,Premià de Mar,1XNKSJWrTew91OLYBR0Xg4,Maresme,28531.0,Barcelona,Catalunya
-Looa,1000,Premià de Mar,5T37cmXj9kMfkc6dPxJdbW,Maresme,28531.0,Barcelona,Catalunya
-Bajoqueta Rock,1000,Riba-roja de Túria,1eV6Rb47ggpO9satCNmgiu,Camp de Túria,22264.0,València,Comunitat Valenciana
-Mtines,1000,Barcelona,76lAr4DMu57YZufBZpdEP4,Barcelonès,1664182.0,Barcelona,Catalunya
-La Corda Fluixa,996,Puigcerdà,35Fnbkj9TPL8Ba1y1GdemP,Cerdanya,9486.0,Girona,Catalunya
-Fora des Sembrat,988,Palma,2x0jjhozNdKz4ug7dVarGc,Mallorca,407648.0,Illes Balears,Illes Balears
-Sherpah,975,Manresa,5bfbLviRzz3Zdi1xKAezuW,Bages,78245.0,Barcelona,Catalunya
-Gemma P,974,Roses,58nSQDmYt53H26l2SOnUAy,Alt Empordà,19807.0,Girona,Catalunya
-Els Amics de Manel,968,Sitges,6zHc1IpoU4ojslxTvp1JbT,Garraf,29553.0,Barcelona,Catalunya
-Maria Coma,964,Barcelona,1vPUAVPjqYj5mAcQqitrj9,Barcelonès,1664182.0,Barcelona,Catalunya
-Parxís,963,Barcelona,7i0eZz30UJP5FsJrrhWmJP,Barcelonès,1664182.0,Barcelona,Catalunya
-Rumbamazigha,953,Barcelona,6WCNii7WI9xxDQGvlUTP3d,Barcelonès,1664182.0,Barcelona,Catalunya
-Quiròfan,950,Barcelona,1DAVkonxQP6dz9SvEiXic5,Barcelonès,1664182.0,Barcelona,Catalunya
-Pol Orobitg,948,Cerdanyola del Vallès,6yCabcCmSFBs4YnI1itaqH,Vallès Occidental,57855.0,Barcelona,Catalunya
-FRANC,938,Sant Cugat del Vallès,7z1FToewdT8qsCnx6p0mvv,Vallès Occidental,92977.0,Barcelona,Catalunya
-Lírica de Trobadors,931,Barcelona,6Mz0zKCOOlpV3SjIxxblt1,Barcelonès,1664182.0,Barcelona,Catalunya
-Paunezz,929,Igualada,26QVmMPsVxnUD7ezjufjoI,Anoia,40742.0,Barcelona,Catalunya
-Bigwé,923,Barcelona,6XwmV0YVjr4AeEBP7aiwiQ,Barcelonès,1664182.0,Barcelona,Catalunya
-Menaix a Truà,920,-,2mMDS4lmc2DKs1JdjKPd89,,,,
-Cabot,912,Marratxí,3Js0AOpoi93e1L4pKbFwpE,Raiguer,34583.0,Illes Balears,Illes Balears
-Landry el Rumbero,905,Barcelona,50aCv8eQWGZBLgbAchdq6V,Barcelonès,1664182.0,Barcelona,Catalunya
-Km.0,895,-,1D3ENMKKWGrRR00V9fTIrV,,,,Catalunya
-Arribar i ploure,887,-,4AeVkMA96Fh3Ii2p59Ki2y,,,,Catalunya
-Intana,884,Barcelona,1MJy23jZGgB8MH8h2lLz0u,Barcelonès,1664182.0,Barcelona,Catalunya
-Lia Sampai,814,Cerdanyola del Vallès,5SjfOkWUCSIeCgt0ZTr8K3,Vallès Occidental,57855.0,Barcelona,Catalunya
-Cobla Berga Jove,779,Berga,5SuQIJI8SoouXcExVywem0,Berguedà,16760.0,Barcelona,Catalunya
-Miquel del Roig,776,l'Ametlla de Mar,7n5HdZ8jxFbSVXHJuhoP8D,Baix Ebre,6866.0,Tarragona,Catalunya
-Joan- Pau,774,Sant Cugat del Vallès,1vhPisBnq4ky9C1O5gHjCM,Vallès Occidental,92977.0,Barcelona,Catalunya
-Els Cundits,772,Barcelona,4tTx5TOasNnPP0E4jGMQF5,Barcelonès,1664182.0,Barcelona,Catalunya
-Maria Jacobs,753,Valls,05gvuVmvAnjNPvl5xM8Gp8,Alt Camp,24477.0,Tarragona,Catalunya
-Ses Bísties de Mongofre,746,Maó,0XmR8R2xpIWBLFZXz4jRng,Menorca,28972.0,Illes Balears,Illes Balears
-Gemm Sol,745,Solsona,5cXoHDuI3aKCCuzXKKJwyv,Solsonès,9137.0,Lleida,Catalunya
-Cor Madrigal,743,Barcelona,1WW6PstKyPlGPQBJkNhJBN,Barcelonès,1664182.0,Barcelona,Catalunya
-Ramonets,739,València,2R9B8QrpmQ9UveGEpWuTco,València,794288.0,València,Comunitat Valenciana
-Donallop,737,Palma,1o6dNbEjCCIEKWyecMNfWe,Mallorca,407648.0,Illes Balears,Illes Balears
-Laura Capdevila,732,Gavà,2RoMod9JKh8kFHPzOGg9mn,Baix Llobregat,47057.0,Barcelona,Catalunya
-Ju,723,Gurb,4Zq2mY3q6a3crXmjmR1Svc,Osona,2713.0,Barcelona,Catalunya
-Xisk,700,Marratxí,3UjMyaNPvFjt1DiMZoRpzH,Mallorca,40079.0,Illes Balears,Illes Balears
-Pere Espinosa,695,Sant Celoni,6qqUkBEQTbbBk9pvLiNwTr,Vallès Oriental,18136.0,Barcelona,Catalunya
-Oriol Canals,687,Barcelona,4FjfwWgXFye28KyEecB70U,Barcelonès,1664182.0,Barcelona,Catalunya
-Salvatge Cor,670,Palma,7hDw0AROOXmgMncAfcfgJi,Mallorca,407648.0,Illes Balears,Illes Balears
-Maus Kids,666,Barcelona,3QlYsTnpYfVRrixcBfqBJa,Barcelonès,1664182.0,Barcelona,Catalunya
-El Senyor Peix,662,Malgrat de Mar,7vSO106dGb0NC2K8IdBOFZ,Maresme,18772.0,Barcelona,Catalunya
-Tramma,662,Girona,6zC3OLq7DRieg3Y9bRp8vO,Gironès,103369.0,Girona,Catalunya
-Vaire,661,València,4AOHXIZ1fYqgy2EfjpzlnR,València,794288.0,València,Comunitat Valenciana
-David Busquets,655,Girona,2EYjMJ1kqrfsxeNFQlBK3H,Gironès,103369.0,Girona,Catalunya
-Dos Sipiots,649,Ciutadella de Menorca,7F4Hm9Emz3R9og1siulrk0,Menorca,29580.0,Illes Balears,Illes Balears
-Kitsch,646,Banyoles,5CjX7udmKaDWerV0fmTGcm,Pla de l'Estany,20053.0,Girona,Catalunya
-Cheb Balowski,646,Barcelona,1VoQDa1ZCseF4oY3ONTUSX,Barcelonès,1664182.0,Barcelona,Catalunya
-Vidres a la Sang,631,Terrassa,4HYoaDFfg2c6I5pLS64Q6L,Vallès Occidental,223627.0,Barcelona,Catalunya
-Agudinine,628,Molins de Rei,6teh3DWFlXWahfhX4zw08Z,Baix Llobregat,25940.0,Barcelona,Catalunya
-Estanislau Verdet,625,Barcelona,0mA9r2QDXnN9AP6PRXPvvs,Barcelonès,1664182.0,Barcelona,Catalunya
-oxigen,622,Girona,2xObwzj7mcvVJOXmTlUMDx,Gironès,103369.0,Girona,Catalunya
-Geri,619,les Planes d'Hostoles,5uv1M0w170L44ARoI3JNrN,Garrotxa,1712.0,Girona,Catalunya
-Sebastià Saurina,615,Ciutadella de Menorca,34pomq76ReUvV4XTlGwxR9,Menorca,29580.0,Illes Balears,Illes Balears
-Adrien Broadway,606,Barcelona,2cUG4j4K3Im4D79kIefDl5,Barcelonès,1664182.0,Barcelona,Catalunya
-Ernest Crusats,582,Vic,2uLvqEVOpkhIVXkht59QTP,Osona,47630.0,Barcelona,Catalunya
-Orquestra de Músiques d'Arrel de Catalunya,582,-,3Rjp6wLc028FxJ9QSjIJ3x,,,,Catalunya
-Copa Lotus,569,Vilanova i la Geltrú,0Kf4iUs9xRg1tZdkOKjGt7,Garraf,67733.0,Barcelona,Catalunya
-Amadeu Casas,551,Barcelona,2O5AiJQgpG7cXIosK7pfZR,Barcelonès,1664182.0,Barcelona,Catalunya
-Terratombats,546,la Llacuna,3a3uwww774B6juMIxu3kTU,Anoia,903.0,Barcelona,Catalunya
-Sicus Carbonell,543,Barcelona,7twzzGIAN8297a16rzAjGn,Barcelonès,1664182.0,Barcelona,Catalunya
-D'estranquis,521,Girona,3ECJesvw4XGnp2u4pMBVo9,Gironès,103369.0,Girona,Catalunya
-Mònica Green,507,Rochester,0P7w6Rcj1BBB4krxxFYeL5,,211308.0,,
-Les Salvatges,501,Barcelona,5Ss6Q9uXMubmeDdzDUeXeg,Barcelonès,1664182.0,Barcelona,Catalunya
-Rabadàb,490,Lleida,4OAOH2Cp5uRRfFli39wzwJ,Segrià,140403.0,Lleida,Catalunya
-Marc Xalabarder,489,Caldes de Montbui,70jZxbSWhAI0vCJfH3THLl,Vallès Oriental,17812.0,Barcelona,Catalunya
-Els Vailets,488,-,4yOw6tDckbjxoni4DoqIpq,,,,
-Roger Argemí,478,Igualada,6OcEObmdZEVMloq23Jr37w,Anoia,40742.0,Barcelona,Catalunya
-De Paper,476,Marratxí,1bRK3FFOYIpQfwkamUYVgk,Vallès Occidental,40079.0,Barcelona,Catalunya
-Cor infantil Verge de Montserrat,457,-,0poYEehVLAwwTKutgyyQgD,,,,
-Xènia Páez,429,Golmés,4450YRLvxhrsBjrx2xAUnv,Pla d'Urgell,1855.0,Lleida,Catalunya
-Shala Beatz,425,-,0psruqDBzvx9TWERVtZX8E,,,,Catalunya
-PEGI 21,405,Vic,41STjJRWnwuiUCcrVwGYKt,Osona,47630.0,Barcelona,Catalunya
-Aiguadvalencia,398,Mollet del Vallès,42lxIqyGclxJwY1YULvj6j,Vallès Oriental,51600.0,Barcelona,Catalunya
-Claudia del Valle,390,Barcelona,5GJ2spByl9PVhXmw3rEeg2,Barcelonès,1664182.0,Barcelona,Catalunya
-ATALAYA 00,387,Terrassa,0g0OcMPE7ZkdThT0pf1hTU,Vallès Occidental,223627.0,Barcelona,Catalunya
-Santi Arisa,387,Manresa,2vGfnkJiXR5ytB22CLn1D6,Bages,78245.0,Barcelona,Catalunya
-La Folie,367,la Palma de Cervelló,3V04RiVWK0b5fTZvRNKXQR,Baix Llobregat,2992.0,Barcelona,Catalunya
-Emma,366,Jaca,2ihqk3K7hNsTbKk250FHIT,,13883.0,,
-Christian Penalba,362,l'Alcúdia,1k5uDoPRci4XJxmfpa8a7m,Ribera Alta,12009.0,València,Comunitat Valenciana
-Xana Blue,343,Barcelona,5tYM5HcgkJ6lVLJCxRoKG0,Barcelonès,1664182.0,Barcelona,Catalunya
-Filipin Yess,326,Barcelona,7hr1ydc5Cy7XA7jeMeyZti,Barcelonès,1664182.0,Barcelona,Catalunya
-Pele MacLeod,316,Mollet del Vallès,1J2zwKOEgC3ZntN5Baumkg,Vallès Oriental,51600.0,Barcelona,Catalunya
-Núria Llausí,291,Badalona,7u4nIVVaVnWU2qOzWmLxUh,Barcelonès,223166.0,Barcelona,Catalunya
-Forja,290,Terrassa,6nPEuIHx4IrY20ybCx9kMe,Vallès Occidental,223627.0,Barcelona,Catalunya
-Mark Boske,287,Tremp,0F2yot6y8JDotpwgj3wfrf,Pallars Jussà,5911.0,Lleida,Catalunya
-Pau Roget,273,Cardedeu,4UeHkOvxioupNQ6PFa7uFb,Vallès Oriental,18424.0,Barcelona,Catalunya
-Carraixet,263,Tavernes Blanques,4FLhbzgybpq3OAjbjnYkel,Horta Nord,9120.0,València,Comunitat Valenciana
-Flora,253,Barcelona,6n92XxHJeRHPuEWKVthTtO,Barcelonès,1664182.0,Barcelona,Catalunya
-Oller i Guerra,236,València,0UNIEj4p9Gij0UJfUVDv1V,València,794288.0,València,Comunitat Valenciana
-III,211,Barcelona,54fAG94XbeJFUsfqu9x9jH,Barcelonès,1664182.0,Barcelona,Catalunya
-Roslyn,198,Barcelona,0IqAkRlbWoBJzq9tH1Yjnx,Barcelonès,1664182.0,Barcelona,Catalunya
-Albert Fibla,196,Badalona,1LA6itNi4LV5FtqE6cUJxN,Barcelonès,223166.0,Barcelona,Catalunya
-L'Eriçó Punxegut,146,Tarragona,4LRYt6aOUcZOmBIDfTevos,Tarragonès,136496.0,Tarragona,Catalunya
-Lapiel,115,Barcelona,18JBAO1EHFgJwbXxeKrRwt,Barcelonès,1664182.0,Barcelona,Catalunya
-La cosa pública,107,Barcelona,26BShIBmfWtXqb7VpMNdje,Barcelonès,1664182.0,Barcelona,Catalunya
-Vic Moliner,97,Banyoles,575ikWoIgLK88O2FAQ6kPf,Pla de l'Estany,20053.0,Girona,Catalunya
-Narcís Perich,90,Alella,7GpL0Ga2GEICk6pEmiIQk4,Maresme,9904.0,Barcelona,Catalunya
-Els de la Torre,88,el Masnou,77Fg8ZCQAzN5QpuMYBCPUz,Maresme,23831.0,Barcelona,Catalunya
-Joan Blau,81,Balaguer,3GtPHQSOOKh7WyebtF5M3J,Noguera,17472.0,Lleida,Catalunya
-Foss,72,Vilanova i la Geltrú,42ah56Daxm04RxdlNoMIPc,Garraf,67733.0,Barcelona,Catalunya
-Fèlix Estop,69,Castelló de la Plana,4M76XHJkz3bRXVSalkcBAo,Plana Alta,171728.0,Castelló,Comunitat Valenciana
-Col·lectiu Desembre,66,Torelló,7aj8XIX6HZyUPA7Bd3vN4V,Osona,14400.0,Barcelona,Catalunya
-Cor Vivaldi,48,Barcelona,1sOsAnAZoNPyzuSoYnb9PW,Barcelonès,1664182.0,Barcelona,Catalunya
-Marremango,43,Sant Sadurní d'Anoia,14nwObgjrtRr90s2lRmGWD,Alt Penedès,12841.0,Barcelona,Catalunya
-Confinaps,13,Castellterçol,2IsJfJuO08fnR45ZSksZzd,Moianès,2548.0,Barcelona,Catalunya
+Marremango,1597,Sant Sadurní d'Anoia,14nwObgjrtRr90s2lRmGWD,Alt Penedès,12841.0,Barcelona,Catalunya
+Falsterbo Marí,1577,Barcelona,1LZkPu60Xctl5j7CQj9NWC,Barcelonès,1664182.0,Barcelona,Catalunya
+Els Surfing Sirles,1569,Sant Celoni,4MxcskqHNDnUvWuEGC0Nhg,Vallès Oriental,18136.0,Barcelona,Catalunya
+Mr. Freak Ska,1559,Mataró,0wwX6lGL0Nwexmp2ht3zmB,Maresme,129661.0,Barcelona,Catalunya
+Bali 13,1558,Reus,3z91PIqW2qYxwJxx1Jevax,Baix Camp,106168.0,Tarragona,Catalunya
+Biel Martí,1557,Barcelona,1y7zRDvyYJ8WKpYSmAac58,Barcelonès,1664182.0,Barcelona,Catalunya
+Xènia Casado,1549,Sabadell,1rAfCfZ49zlItaj0Ci3Lih,Vallès Occidental,216520.0,Barcelona,Catalunya
+Salva Racero,1543,Manresa,5XdF7XHrly6GKShxmqQ6Lq,Bages,78245.0,Barcelona,Catalunya
+Ánimos Parrec,1533,Vilafranca de Bonany,6ybuwwdE668XsN3AfQdv38,Pla de Mallorca,2971.0,Illes Balears,Illes Balears
+Lluís Cartes,1511,Andorra la Vella,5f9drVbTBIgrMz7628EI4A,Andorra,24042.0,Andorra,Andorra
+Cheb Balowski,1511,Barcelona,1VoQDa1ZCseF4oY3ONTUSX,Barcelonès,1664182.0,Barcelona,Catalunya
+Edna Bravo,1494,Vilassar de Dalt,2j0ntguuG01rHQoFjgLyZn,Maresme,9072.0,Barcelona,Catalunya
+Sa pena,1493,Pedreguer,77X9fjwGe7mlNAZwmS5YhX,Marina Alta,7699.0,Alacant,Comunitat Valenciana
+Zulabard,1493,Barcelona,0aaHiNXPsNk32tyIYQ2DYt,Barcelonès,1664182.0,Barcelona,Catalunya
+El Son de la Chama,1475,Tarragona,7p9KwaJtGnMdfZzDyiZmvQ,Tarragonès,136496.0,Tarragona,Catalunya
+Família Fracàs,1475,Terrassa,2DYjsvLsl7lylk3y0XskTp,Vallès Occidental,223627.0,Barcelona,Catalunya
+Lídia Pujol,1473,Barcelona,4MY1UGNC2mlbKVgGao8sMm,Barcelonès,1664182.0,Barcelona,Catalunya
+The Goliards Collective,1473,Barcelona,5dIsGGsTe3YjNW7iJ5pNqz,Barcelonès,1664182.0,Barcelona,Catalunya
+Samire,1472,Barcelona,3iYs0lSce2kHB86PVG8p90,Barcelonès,1664182.0,Barcelona,Catalunya
+en Carlus,1471,Arenys de Munt,5mfIKzk5QvTQ45epN25Y7R,Maresme,9121.0,Barcelona,Catalunya
+Desperta Ferro,1471,Sabadell,6rHJHj24ugvHDVF7Y1vyjK,Vallès Occidental,216520.0,Barcelona,Catalunya
+Anaïs Vila,1458,Santpedor,40R5qsfTTLVDanMkhYDZ1t,Bages,7604.0,Barcelona,Catalunya
+La Corda Fluixa,1450,Puigcerdà,35Fnbkj9TPL8Ba1y1GdemP,Cerdanya,9486.0,Girona,Catalunya
+Leonmanso,1441,Ciutadella de Menorca,7u4R7FgrYiAk9qAvXdH5B4,Menorca,29580.0,Illes Balears,Illes Balears
+Paule,1433,-,79qGj0n6B3skao1b5Ojt2V,,,,
+Gracià Pedro,1399,Barcelona,28ms2rE5Uz5Fr28V5FA7WP,Barcelonès,1664182.0,Barcelona,Catalunya
+Es Revetlers,1398,Santanyí,0hWH7RE3ixTIMt0NUQpvAS,Mallorca,12887.0,Illes Balears,Illes Balears
+La República Rumbera,1392,Granollers,1ckHhIh3TvvYVGSabLrIDL,Vallès Oriental,62419.0,Barcelona,Catalunya
+La Salseta del Poble Sec,1388,Barcelona,2GJQcq7Qk2ogKA5BrMcB2b,Barcelonès,1664182.0,Barcelona,Catalunya
+Bars,1371,Sabadell,5xS5pl0rriQf5ktTd8a3Ms,Vallès Occidental,216520.0,Barcelona,Catalunya
+Guiem Soldevila,1368,Ciutadella de Menorca,4EqapKKb6Zk8F8Cafr3uEv,Menorca,29580.0,Illes Balears,Illes Balears
+Prozak Soup,1368,Bellreguard,6EF4cCHpvhR4aPEPVG7xgc,Safor,4608.0,València,Comunitat Valenciana
+Mar Grimalt,1358,Felanitx,0mEd7bgVwGNr8ozpiZLUPH,Migjorn ,18388.0,Illes Balears,Illes Balears
+Marta Roure,1353,Andorra la Vella,3soyEqLdAOHkXNSYTZcDhu,Andorra,24042.0,Andorra,Andorra
+Primera Cita,1286,Falset,3MVAicWITbEJy3HsQD70DT,Priorat,2735.0,Tarragona,Catalunya
+Reconquesta,1281,Sant Sadurní d'Anoia,7CGlK2jVozbpgjmNjd6xAi,Alt Penedès,12841.0,Barcelona,Catalunya
+La Tresca i la Verdesca,1279,Badalona,7CYYRiw6DICgChjxkiVb0i,Barcelonès,223166.0,Barcelona,Catalunya
+Enric EZ,1277,Barcelona,2jenRVqNHK4NWoAjz19q5w,Barcelonès,1664182.0,Barcelona,Catalunya
+Fortuu,1264,Fornells de la Selva,0BYXkrcIz6X5xa0qW8frHf,Gironès,2670.0,Girona,Catalunya
+oxigen,1261,Girona,2xObwzj7mcvVJOXmTlUMDx,Gironès,103369.0,Girona,Catalunya
+Lluís Cabot,1254,Marratxí,3g2kssHpkuGHrCvwfpMJ8f,Raiguer,34583.0,Illes Balears,Illes Balears
+Pol Orobitg,1249,Cerdanyola del Vallès,6yCabcCmSFBs4YnI1itaqH,Vallès Occidental,57855.0,Barcelona,Catalunya
+En Rick,1246,Barcelona,0BtNbwV1lKqDhPyM9OyzWK,Barcelonès,1664182.0,Barcelona,Catalunya
+vàlius,1237,Barcelona,6m0bytTgFAbnXtbVbG0foo,Barcelonès,1664182.0,Barcelona,Catalunya
+Jaume Sureda,1226,Palma,0hB0a2v4w1oaTP2QvjJC9J,Mallorca,407648.0,Illes Balears,Illes Balears
+Santi Arisa,1217,Manresa,2vGfnkJiXR5ytB22CLn1D6,Bages,78245.0,Barcelona,Catalunya
+b1n0,1207,Barcelona,18UQ4ex95zIah1bPDQctL9,Barcelonès,1664182.0,Barcelona,Catalunya
+Sandra Bautista,1200,Martorelles,2jenRVqNHK4NWoAjz19q5w,Vallès Oriental,4820.0,Barcelona,Catalunya
+Estela,1199,Ripollet,1PZEJJm7i9vUpPfBWNqfDo,Vallès Occidental,39179.0,Barcelona,Catalunya
+Aleix Triadó,1199,Barcelona,6YaYNz8cKOJRisbaCzjcJE,Barcelonès,1664182.0,Barcelona,Catalunya
+Mtines,1195,Barcelona,76lAr4DMu57YZufBZpdEP4,Barcelonès,1664182.0,Barcelona,Catalunya
+Bikimel,1192,Sabadell,6lJ0HbiwsJ1yvibFhhm4nl,Vallès Occidental,216520.0,Barcelona,Catalunya
+Èric Vinaixa,1189,Miravet,0mE1vmZ0qdIZOA1A5EMpxj,Ribera d'Ebre,706.0,Tarragona,Catalunya
+Rock per Xics,1180,Girona,24m3gx8wCudeXrCf2GCqDY,Gironès,103369.0,Girona,Catalunya
+Mònica Green,1180,Rochester,0P7w6Rcj1BBB4krxxFYeL5,,211308.0,,
+Panellet,1178,Terrassa,15YJDk8XbQZqg6r5jvKCBd,Vallès Occidental,223627.0,Barcelona,Catalunya
+Alvert,1168,Mataró,6Ul0MRqazFuI5BenaWKogV,Maresme,129661.0,Barcelona,Catalunya
+El Pa de Cada Dia,1164,Igualada,3nKu5wByOk6z2eyEKRDiPN,Anoia,40742.0,Barcelona,Catalunya
+Mireia Espelt,1155,Barcelona,1Be6e5fDzQt0MnroAGYxkr,Barcelonès,1664182.0,Barcelona,Catalunya
+Cifu,1141,València,72SxIuxmqWs3YQpOpm9piT,València,794288.0,València,Comunitat Valenciana
+Làd Cúig,1132,Arenys de Munt,28h7Ozi0acdUzz5M1vXUmT,Maresme,9121.0,Barcelona,Catalunya
+Victoria Maldi,1131,Alacant,5MrGggQXno5FJEfpeSrGZq,Alacantí,334887.0,Alacant,Comunitat Valenciana
+Ayryn,1128,Santa Coloma de Gramenet,4L8rfGZmFQZyuTNM8j72mJ,Barcelonès,120443.0,Barcelona,Catalunya
+Umbert,1124,Son Servera,6jxprGhE6X0SLksWw5WdIp,Llevant,12165.0,Illes Balears,Illes Balears
+Lluís Arruga,1120,Barcelona,2KWvoxrwUjQ2LNilWwiNsQ,Barcelonès,1664182.0,Barcelona,Catalunya
+Moli,1120,Granollers,2FK84XWtXp55baSqyvKQcV,Vallès Oriental,62419.0,Barcelona,Catalunya
+La Màlaga,1116,Barcelona,5evWUP7FMe0wmP3muvzlv3,Barcelonès,1664182.0,Barcelona,Catalunya
+Maria Coma,1111,Barcelona,1vPUAVPjqYj5mAcQqitrj9,Barcelonès,1664182.0,Barcelona,Catalunya
+Baco,1108,Barcelona,3yyqY10aC2E9MhjfwiIHR3,Barcelonès,1664182.0,Barcelona,Catalunya
+Mireia,1097,Formentera,0bTGBppQWjrEa9rMqqxaW6,Formentera,10757.0,Illes Balears,Illes Balears
+Els Cundits,1093,Barcelona,4tTx5TOasNnPP0E4jGMQF5,Barcelonès,1664182.0,Barcelona,Catalunya
+Apologia,1088,Vila-real,7dC927PwLB53eb5LZjcr11,Plana Baixa,50893.0,Castelló,Comunitat Valenciana
+Senior i el Cor Brutal,1075,València,4OK4JDuo3ztbXvCZGAlfJZ,València,794288.0,València,Comunitat Valenciana
+Gessamí Boada,1064,Mataró,43EJOEfHheYd2CSYh3kvyA,Maresme,129661.0,Barcelona,Catalunya
+Èxta6,1055,Viladecavalls,499Yl6lIzjneJc551Zt3XD,Vallès Occidental,7545.0,Barcelona,Catalunya
+Bajoqueta Rock,1048,Riba-roja de Túria,1eV6Rb47ggpO9satCNmgiu,Camp de Túria,22264.0,València,Comunitat Valenciana
+Albali,1034,Sant Cugat del Vallès,2REEJ9An8GCduDwyApoDRU,Vallès Occidental,92977.0,Barcelona,Catalunya
+Clàudia Xiva,1027,Amposta,6Zb5np8h2fFxKCgF1LuEmd,Montsià,21115.0,Tarragona,Catalunya
+Arnau Tordera,1022,Tona,5Nq7n1VrCpknPmwxdUle2f,Osona,8356.0,Barcelona,Catalunya
+David Cabot,1018,Palma,68udHxi3w2YD4CcPT2qv0s,Mallorca,407648.0,Illes Balears,Illes Balears
+La Taverna,1012,Sant Feliu de Guíxols,70Uzhy40Fd3uSkL0smlyUc,Baix Empordà,22097.0,Girona,Catalunya
+Arnau Obiols,1011,la Seu d'Urgell,19nkcSM4qjsR90Txr6HxIM,Alt Urgell,12206.0,Lleida,Catalunya
+Albert Peiró,1007,Barcelona,2ogXjH2wGvXZzdrLJRJWdn,Barcelonès,1664182.0,Barcelona,Catalunya
+Trinxats,1007,Berga,1RdevloSTMmAXSrqYbNw2k,Berguedà,16760.0,Barcelona,Catalunya
+La Masia BCN,998,Barcelona,1ujtcXttrPAihXMlCQLEYO,Barcelonès,1664182.0,Barcelona,Catalunya
+Rumbamazigha,993,Barcelona,6WCNii7WI9xxDQGvlUTP3d,Barcelonès,1664182.0,Barcelona,Catalunya
+poggioli,979,Cardedeu,2ilpUqiDjCtD4lAgpITEwA,Vallès Oriental,18424.0,Barcelona,Catalunya
+Quiròfan,978,Barcelona,1DAVkonxQP6dz9SvEiXic5,Barcelonès,1664182.0,Barcelona,Catalunya
+Pere Espinosa,966,Sant Celoni,6qqUkBEQTbbBk9pvLiNwTr,Vallès Oriental,18136.0,Barcelona,Catalunya
+Chung-man Kim,956,Premià de Mar,1XNKSJWrTew91OLYBR0Xg4,Maresme,28531.0,Barcelona,Catalunya
+Paunezz,943,Igualada,26QVmMPsVxnUD7ezjufjoI,Anoia,40742.0,Barcelona,Catalunya
+Looa,933,Premià de Mar,5T37cmXj9kMfkc6dPxJdbW,Maresme,28531.0,Barcelona,Catalunya
+Núria Llausí,928,Badalona,7u4nIVVaVnWU2qOzWmLxUh,Barcelonès,223166.0,Barcelona,Catalunya
+Agudinine,888,Molins de Rei,6teh3DWFlXWahfhX4zw08Z,Baix Llobregat,25940.0,Barcelona,Catalunya
+Els Amics de Manel,882,Sitges,6zHc1IpoU4ojslxTvp1JbT,Garraf,29553.0,Barcelona,Catalunya
+Cabot,875,Marratxí,3Js0AOpoi93e1L4pKbFwpE,Raiguer,34583.0,Illes Balears,Illes Balears
+Sherpah,863,Manresa,5bfbLviRzz3Zdi1xKAezuW,Bages,78245.0,Barcelona,Catalunya
+Lírica de Trobadors,848,Barcelona,6Mz0zKCOOlpV3SjIxxblt1,Barcelonès,1664182.0,Barcelona,Catalunya
+Arribar i ploure,838,-,4AeVkMA96Fh3Ii2p59Ki2y,,,,Catalunya
+Milenrama,830,Sarrià de Ter,0XbLXFHqeQdZ4o8gYRH9b1,Gironès,5229.0,Girona,Catalunya
+Christian Penalba,815,l'Alcúdia,1k5uDoPRci4XJxmfpa8a7m,Ribera Alta,12009.0,València,Comunitat Valenciana
+Gemma P,814,Roses,58nSQDmYt53H26l2SOnUAy,Alt Empordà,19807.0,Girona,Catalunya
+Carraixet,807,Tavernes Blanques,4FLhbzgybpq3OAjbjnYkel,Horta Nord,9120.0,València,Comunitat Valenciana
+La Folie,790,la Palma de Cervelló,3V04RiVWK0b5fTZvRNKXQR,Baix Llobregat,2992.0,Barcelona,Catalunya
+Ju,786,Gurb,4Zq2mY3q6a3crXmjmR1Svc,Osona,2713.0,Barcelona,Catalunya
+Intana,770,Barcelona,1MJy23jZGgB8MH8h2lLz0u,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan- Pau,755,Sant Cugat del Vallès,1vhPisBnq4ky9C1O5gHjCM,Vallès Occidental,92977.0,Barcelona,Catalunya
+Rabadàb,745,Lleida,4OAOH2Cp5uRRfFli39wzwJ,Segrià,140403.0,Lleida,Catalunya
+Cap Pela,735,Palma,1SkWmTT5gIo7M7SQFsMlJ6,Mallorca,407648.0,Illes Balears,Illes Balears
+Amadeu Casas,732,Barcelona,2O5AiJQgpG7cXIosK7pfZR,Barcelonès,1664182.0,Barcelona,Catalunya
+Gemm Sol,729,Solsona,5cXoHDuI3aKCCuzXKKJwyv,Solsonès,9137.0,Lleida,Catalunya
+Asra3,723,Barcelona,0vQRVXVpnvYeeKzCzjvGwe,Barcelonès,1664182.0,Barcelona,Catalunya
+Bigwé,717,Barcelona,6XwmV0YVjr4AeEBP7aiwiQ,Barcelonès,1664182.0,Barcelona,Catalunya
+Geri,715,les Planes d'Hostoles,5uv1M0w170L44ARoI3JNrN,Garrotxa,1712.0,Girona,Catalunya
+Orquestra de Músiques d'Arrel de Catalunya,709,-,3Rjp6wLc028FxJ9QSjIJ3x,,,,Catalunya
+Dos Sipiots,707,Ciutadella de Menorca,7F4Hm9Emz3R9og1siulrk0,Menorca,29580.0,Illes Balears,Illes Balears
+Terratombats,672,la Llacuna,3a3uwww774B6juMIxu3kTU,Anoia,903.0,Barcelona,Catalunya
+Oriol Canals,670,Barcelona,4FjfwWgXFye28KyEecB70U,Barcelonès,1664182.0,Barcelona,Catalunya
+Salvatge Cor,667,Palma,7hDw0AROOXmgMncAfcfgJi,Mallorca,407648.0,Illes Balears,Illes Balears
+Ses Bísties de Mongofre,666,Maó,0XmR8R2xpIWBLFZXz4jRng,Menorca,28972.0,Illes Balears,Illes Balears
+Xisk,664,Marratxí,3UjMyaNPvFjt1DiMZoRpzH,Mallorca,40079.0,Illes Balears,Illes Balears
+Cor Madrigal,644,Barcelona,1WW6PstKyPlGPQBJkNhJBN,Barcelonès,1664182.0,Barcelona,Catalunya
+David Busquets,643,Girona,2EYjMJ1kqrfsxeNFQlBK3H,Gironès,103369.0,Girona,Catalunya
+Miquel del Roig,635,l'Ametlla de Mar,7n5HdZ8jxFbSVXHJuhoP8D,Baix Ebre,6866.0,Tarragona,Catalunya
+D'estranquis,617,Girona,3ECJesvw4XGnp2u4pMBVo9,Gironès,103369.0,Girona,Catalunya
+Les Salvatges,609,Barcelona,5Ss6Q9uXMubmeDdzDUeXeg,Barcelonès,1664182.0,Barcelona,Catalunya
+Kitsch,607,Banyoles,5CjX7udmKaDWerV0fmTGcm,Pla de l'Estany,20053.0,Girona,Catalunya
+Paula Grande,604,Girona,6NRB0LxYAAYKtbSOTB7m8M,Gironès,103369.0,Girona,Catalunya
+Col·lectiu Desembre,601,Torelló,7aj8XIX6HZyUPA7Bd3vN4V,Osona,14400.0,Barcelona,Catalunya
+Estanislau Verdet,594,Barcelona,0mA9r2QDXnN9AP6PRXPvvs,Barcelonès,1664182.0,Barcelona,Catalunya
+Ramonets,582,València,2R9B8QrpmQ9UveGEpWuTco,València,794288.0,València,Comunitat Valenciana
+Vaire,577,València,4AOHXIZ1fYqgy2EfjpzlnR,València,794288.0,València,Comunitat Valenciana
+El Senyor Peix,571,Malgrat de Mar,7vSO106dGb0NC2K8IdBOFZ,Maresme,18772.0,Barcelona,Catalunya
+Lia Sampai,555,Cerdanyola del Vallès,5SjfOkWUCSIeCgt0ZTr8K3,Vallès Occidental,57855.0,Barcelona,Catalunya
+Cobla Berga Jove,546,Berga,5SuQIJI8SoouXcExVywem0,Berguedà,16760.0,Barcelona,Catalunya
+Sebastià Saurina,539,Ciutadella de Menorca,34pomq76ReUvV4XTlGwxR9,Menorca,29580.0,Illes Balears,Illes Balears
+Albert Fibla,535,Badalona,1LA6itNi4LV5FtqE6cUJxN,Barcelonès,223166.0,Barcelona,Catalunya
+Roger Argemí,530,Igualada,6OcEObmdZEVMloq23Jr37w,Anoia,40742.0,Barcelona,Catalunya
+L'Eriçó Punxegut,528,Tarragona,4LRYt6aOUcZOmBIDfTevos,Tarragonès,136496.0,Tarragona,Catalunya
+Adrien Broadway,517,Barcelona,2cUG4j4K3Im4D79kIefDl5,Barcelonès,1664182.0,Barcelona,Catalunya
+Tramma,499,Girona,6zC3OLq7DRieg3Y9bRp8vO,Gironès,103369.0,Girona,Catalunya
+Km.0,498,-,1D3ENMKKWGrRR00V9fTIrV,,,,Catalunya
+Maus Kids,473,Barcelona,3QlYsTnpYfVRrixcBfqBJa,Barcelonès,1664182.0,Barcelona,Catalunya
+Ernest Crusats,468,Vic,2uLvqEVOpkhIVXkht59QTP,Osona,47630.0,Barcelona,Catalunya
+Marc Andurell,456,Barcelona,2sbHCdXlLZpQinFykDef6I,Barcelonès,1664182.0,Barcelona,Catalunya
+FRANC,456,Sant Cugat del Vallès,7z1FToewdT8qsCnx6p0mvv,Vallès Occidental,92977.0,Barcelona,Catalunya
+Shala Beatz,430,-,0psruqDBzvx9TWERVtZX8E,,,,Catalunya
+Donallop,428,Palma,1o6dNbEjCCIEKWyecMNfWe,Mallorca,407648.0,Illes Balears,Illes Balears
+PEGI 21,420,Vic,41STjJRWnwuiUCcrVwGYKt,Osona,47630.0,Barcelona,Catalunya
+IZZKID,407,Teià,1I8wzpYHQW1GMiPgycZyIW,Maresme,6427.0,Barcelona,Catalunya
+Flora,405,Barcelona,6n92XxHJeRHPuEWKVthTtO,Barcelonès,1664182.0,Barcelona,Catalunya
+ATALAYA 00,397,Terrassa,0g0OcMPE7ZkdThT0pf1hTU,Vallès Occidental,223627.0,Barcelona,Catalunya
+Els Terrícoles del Capità Twang,397,Barcelona,2Rldo8Q8QdYNIqAEGf7Dfj,Barcelonès,1664182.0,Barcelona,Catalunya
+Aiguadvalencia,384,Mollet del Vallès,42lxIqyGclxJwY1YULvj6j,Vallès Oriental,51600.0,Barcelona,Catalunya
+Copa Lotus,360,Vilanova i la Geltrú,0Kf4iUs9xRg1tZdkOKjGt7,Garraf,67733.0,Barcelona,Catalunya
+Els Vailets,348,-,4yOw6tDckbjxoni4DoqIpq,,,,
+III,339,Barcelona,54fAG94XbeJFUsfqu9x9jH,Barcelonès,1664182.0,Barcelona,Catalunya
+Emma,322,Jaca,2ihqk3K7hNsTbKk250FHIT,,13883.0,,
+Filipin Yess,319,Barcelona,7hr1ydc5Cy7XA7jeMeyZti,Barcelonès,1664182.0,Barcelona,Catalunya
+Forja,301,Terrassa,6nPEuIHx4IrY20ybCx9kMe,Vallès Occidental,223627.0,Barcelona,Catalunya
+Cor Vivaldi,271,Barcelona,1sOsAnAZoNPyzuSoYnb9PW,Barcelonès,1664182.0,Barcelona,Catalunya
+Xana Blue,266,Barcelona,5tYM5HcgkJ6lVLJCxRoKG0,Barcelonès,1664182.0,Barcelona,Catalunya
+Pau Roget,260,Cardedeu,4UeHkOvxioupNQ6PFa7uFb,Vallès Oriental,18424.0,Barcelona,Catalunya
+Marc Xalabarder,247,Caldes de Montbui,70jZxbSWhAI0vCJfH3THLl,Vallès Oriental,17812.0,Barcelona,Catalunya
+La cosa pública,247,Barcelona,26BShIBmfWtXqb7VpMNdje,Barcelonès,1664182.0,Barcelona,Catalunya
+Saltors,245,Sant Cugat del Vallès,3mvDFypF7v0acd2Vqxz3Oq,Vallès Occidental,92977.0,Barcelona,Catalunya
+De Paper,230,Marratxí,1bRK3FFOYIpQfwkamUYVgk,Vallès Occidental,40079.0,Barcelona,Catalunya
+Mark Boske,228,Tremp,0F2yot6y8JDotpwgj3wfrf,Pallars Jussà,5911.0,Lleida,Catalunya
+Joan Blau,198,Balaguer,3GtPHQSOOKh7WyebtF5M3J,Noguera,17472.0,Lleida,Catalunya
+Titu Martí,160,Castellfollit del Boix,3UL3WXAYo3ZURTAvVINleF,Bages,447.0,Barcelona,Catalunya
+Narcís Perich,152,Alella,7GpL0Ga2GEICk6pEmiIQk4,Maresme,9904.0,Barcelona,Catalunya
+Fèlix Estop,149,Castelló de la Plana,4M76XHJkz3bRXVSalkcBAo,Plana Alta,171728.0,Castelló,Comunitat Valenciana
+Fauna,149,Mollerussa,3LkWqdYzq6RSLHOxa5b29i,Pla d'Urgell,14649.0,Lleida,Catalunya
+Confinaps,144,Castellterçol,2IsJfJuO08fnR45ZSksZzd,Moianès,2548.0,Barcelona,Catalunya
+Bivac,132,Banyoles,4xzxZfIkPg2R2dBYMMOIH6,Pla de l'Estany,20053.0,Girona,Catalunya
+Oller i Guerra,129,València,0UNIEj4p9Gij0UJfUVDv1V,València,794288.0,València,Comunitat Valenciana
+Roslyn,122,Barcelona,0IqAkRlbWoBJzq9tH1Yjnx,Barcelonès,1664182.0,Barcelona,Catalunya
+Lapiel,121,Barcelona,18JBAO1EHFgJwbXxeKrRwt,Barcelonès,1664182.0,Barcelona,Catalunya
+Joan Isaac,98,Esplugues de Llobregat,4hJEB6cOWhDG4oFIwRc4Dv,Baix Llobregat,47150.0,Barcelona,Catalunya
+Milford Mocs & Gunther Cucs,97,Lleida,2wcrIE8pgcuTZxnTvnBJDz,Segrià,140403.0,Lleida,Catalunya
+Laura Capdevila,81,Gavà,2RoMod9JKh8kFHPzOGg9mn,Baix Llobregat,47057.0,Barcelona,Catalunya
+Foss,70,Vilanova i la Geltrú,42ah56Daxm04RxdlNoMIPc,Garraf,67733.0,Barcelona,Catalunya
+Claudia del Valle,52,Barcelona,5GJ2spByl9PVhXmw3rEeg2,Barcelonès,1664182.0,Barcelona,Catalunya
+Vic Moliner,51,Banyoles,575ikWoIgLK88O2FAQ6kPf,Pla de l'Estany,20053.0,Girona,Catalunya
+Xènia Páez,36,Golmés,4450YRLvxhrsBjrx2xAUnv,Pla d'Urgell,1855.0,Lleida,Catalunya
+Cor infantil Verge de Montserrat,0,-,0poYEehVLAwwTKutgyyQgD,,,,
