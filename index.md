@@ -4,6 +4,7 @@
     <li><a href="/Strava/">Strava Project</a></li>
     <li><a href="/Simulació UCL/">Simulació UCL</a></li>
     <li><a href="/Flags_Similarity/">Flags Similarity</a></li>
+    <li><a href="/Xapes/">Xapes</a></li>
     <li><a href="/Wordle_Solver/">Wordle</a></li>
     <li><a href="/Puzzle_Solver/">Puzzle</a></li>
   </ul>
@@ -37,7 +38,7 @@ Proyecto de código Python en el que he programado el desarrollo de la Champions
 
 Se ha usado la librería de Flask para mostrar la clasificación y los resultados en un html en el navegador. Además, también se ha usado la librería PIL para mostrar en imágenes, los contrincantes de cada equipo en la fase liga y el bracket de las ronda eliminatoria.
 
-El proyecto tabién cuenta con la opción de lanzar vasrias simulaiones una tras otra. Tras esto, devuelve un csv con los resultados de cada equipo en cada iteración.
+El proyecto tabién cuenta con la opción de lanzar varias simulaiones una tras otra. Tras esto, devuelve un csv con los resultados de cada equipo en cada iteración.
 
 
 **[Flags Similarity](Flags_Similarity/)**
@@ -48,6 +49,16 @@ En el Jupyter Notebook de **Python** (Graph representations of flags similarity.
 - Se entrena un modelo de KNN10, para encontrar, para cada bandera, sus otras 10 banderas más similares.
 - El usuario puede entrar una bandera, y con los resultados del KNN, muestra las otras 10 banderas similares a ella. Por orden.
 - Se hacen una serie de grafos en los que he jugado con los resultados.<br>
+
+
+**[Xapes](Xapes/)**
+
+Proyecto en el cual hago web scrapping de las chapas de xapes.net y me hago un inventario propio en un excel.
+
+Aparte de esto se han hecho otras funcionalidades que permiten:
+- Obtener imágenes en local de las chapas, según su id de xapes.net
+- Crear un mapa con las zonas con mayor tradición de cava u otros licores con chapa.
+- Calcular la probabilidad que tiene cada colección de, si obtengo una chapa, la xapa obtenisa sea repetida.
 
 
 **[Wordle Solver](https://github.com/arnaugr55/Wordle-solver)**
