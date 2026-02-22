@@ -38,7 +38,9 @@ La web de xapes.net, entre otras cosas, contiene información de todas las chapa
 
 Así, iterando +200.000 chapas, he generado el "Excel_xapes.xlsx" que contiene, para cada chapa: su id, Cava (colección), Num_colección, Num_repetidas, Puntuación, Anyomes en la que se ha hecho su carga y un campo "Colección", que he rellenado posteriormente, en el que he indicado como "Sí" aquellas chapas qu tengo en la colección.
 
-(captura excel xapes)
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Xapes/resources/Excel_xapes_exemple.png" alt="Primeras lineas de Excel_xapes" width="600">
+</div>
 
 <i>En amarillo he marcado las chapas que, como las tenía como repetidas (y varias veces), las he descartado del álbum de repetidas.</i> 
 
@@ -52,8 +54,9 @@ Así he podido hacer cosas como:
 - Filtrar en el "Excel_xapes.xlsx" por las chapas de x Cava y, usando sus ids, obtener todas sus chapas.
 - Filtrar en el "Excel_xapes.xlsx" por las chapas más importantes que no tengo y, usando sus IDs, obtener todas las chapas.
 
-(captura carpeta xapes)
-
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Xapes/resources/Carpeta_imatges_xapes.png" alt="Carpeta de imágenes con 4 chapas de ejemplo" width="600">
+</div>
 
 --Mapa de cavas & Co.--(Scripts "3. estadistiques_xapes.py", "4. comarc_prov.py" y "5. xapes_mapa.py")<br>
 Agrupamos todas las chapas por colección/cava y, para cada una de estas colecciones, la localizamos en un municipio, comarca y provincia, además de darle una puntuación. Cogemos solo las 1000 cavas/colecciones con más puntuación.
@@ -61,9 +64,60 @@ Agrupamos todas las chapas por colección/cava y, para cada una de estas colecci
 - El municipio lo obtenemos de nuevo, scrappeando el xapes.net.
 - La comarca y provincia se obtienen cruzando con un CSV local donde tenemos esa relación de municipio, comarca y prov.
 
-A la hora de scrappear el municipio del propio xapes.net, nos hemos encontrado que había cavas de las cuales no tenía su municipio o estaba escrito incorrectamente. Esto lo hemos tenido que modificar manualmente.
+A la hora de scrappear el municipio del propio xapes.net, nos hemos encontrado que había cavas de las cuales no tenía su municipio o estaba escrito incorrectamente. Estos los hemos tenido que modificar manualmente.
 
-(html mapa xapes)
+<div id="map-container" style="position: relative; text-align: center;">
+    <!-- Fullscreen Icon (Enter Fullscreen) -->
+    <img id="fullscreen-icon" src="https://img.icons8.com/ios-filled/50/000000/full-screen.png" 
+         alt="Enter Fullscreen" 
+         onclick="toggleFullscreen()" 
+         style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px;">
+
+    <!-- Exit Fullscreen Icon (Visible only in fullscreen) -->
+    <img id="exit-fullscreen-icon" src="https://img.icons8.com/ios-filled/50/000000/collapse.png" 
+         alt="Exit Fullscreen" 
+         onclick="toggleFullscreen()" 
+         style="position: absolute; top: 10px; right: 10px; cursor: pointer; z-index: 1000; width: 30px; height: 30px; display: none;">
+
+    <!-- Embed your Folium map using an iframe -->
+    <iframe id="map-iframe" src="https://arnaugr55.github.io/resources/Xapes/mapa_caves_20251213.html" style="width: 100%; height: 500px; border: none;"></iframe>
+</div>
+
+<script>
+    // JavaScript to toggle fullscreen
+    function toggleFullscreen() {
+        var mapContainer = document.getElementById('map-container');
+        var fullscreenIcon = document.getElementById('fullscreen-icon');
+        var exitFullscreenIcon = document.getElementById('exit-fullscreen-icon');
+
+        if (mapContainer) {
+            // Toggle fullscreen mode
+            mapContainer.classList.toggle('fullscreen');
+
+            // Toggle icons visibility
+            if (mapContainer.classList.contains('fullscreen')) {
+                fullscreenIcon.style.display = 'none';
+                exitFullscreenIcon.style.display = 'block';
+            } else {
+                fullscreenIcon.style.display = 'block';
+                exitFullscreenIcon.style.display = 'none';
+            }
+        }
+    }
+</script>
+
+<style>
+    /* Fullscreen styling */
+    #map-container.fullscreen #map-iframe {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background-color: white;
+    }
+</style>
 
 
 --Probabilidades de chapa repetida--(Script "6. probs_xapes.py")<br>
@@ -72,4 +126,6 @@ Esta funcionalidad nació de la curiosidad de saber, al abrir una ampolla, sabie
 - Importancia de cada chapa (cuanto más importante es, más fácil es que la pueda obtener).
 - Fecha de la chapa. (Si es una chapa muy antigua, es probable que ya no se produzca. Y al revés).
 
-(captura cody python)
+<div style="text-align: center;">
+  <img src="https://arnaugr55.github.io/Xapes/resources/probs_xapes_output.png" alt="Porbabilidades de algunas marcas" width="500">
+</div>
