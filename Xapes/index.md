@@ -6,9 +6,9 @@
     <li><a href="/Strava/">Strava Project</a></li>
     <li><a href="/Simulació UCL/">Simulació UCL</a></li>
     <li><a href="/Flags_Similarity/">Flags Similarity</a></li>
+    <li><a href="/Xapes/">Xapes</a></li>
     <li><a href="/Wordle_Solver/">Wordle</a></li>
     <li><a href="/Puzzle_Solver/">Puzzle</a></li>
-    <li><a href="/Xapes/">Xapes</a></li>
   </ul>
 </div>
 <link rel="stylesheet" href="/custom.css"><br>
